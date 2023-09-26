@@ -1,0 +1,737 @@
+### 7255
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders/7299
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### referrerId=10.00
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?referrerId=10.00&updatedAtFrom=2021-03-08T00%3A00%3A00%2B00%3A00
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### updatedAtFrom WC3 ::: 2022-08-19T13:20:36+00:00 || 2016-10-24T13:33:23+02:00
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?updatedAtFrom=2022-08-19T14%3A00%3A00%2B01%3A00
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### with filters encoded test !!
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?updatedAtFrom=2022-03-27T13%3A36%3A53%2B00%3A00&itemsPerPage=150&with%5B%5D=addresses%26with%5B%5D%3Drelations%26with%5B%5D%3Dcomments%26with%5B%5D%3Dlocation%26with%5B%5D%3Dpayments%26with%5B%5D%3Ddocuments%26with%5B%5D%3DshippingPackages%26with%5B%5D%3DcontactReceiver&page=1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### with filters decoded test !!
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?updatedAtFrom=2022-03-27T13%3A36%3A53%2B00%3A00&with[]=addresses&with[]=relations&with[]=comments&with[]=location&with[]=payments&with[]=documents&with[]=shippingPackages&with[]=contactReceiver
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### with filters 7167 & propertiesV2
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders/7255?with[]=addresses&with[]=relations&with[]=comments&with[]=location&with[]=payments&with[]=documents&with[]=contactSender&with[]=contactReceiver&with[]=warehouseSender&with[]=warehouseReceiver&with[]=originOrderReferences&with[]=shippingPackages&with[]=shippingInformation&with[]=paymentTerms&with[]=properties&with[]=propertiesV2
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?orderIds=3535,3536
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### with=documents
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?orderIds=6815&with=documents
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/documents/186
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### ORDER REFERRES
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders/referrers
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?parentOrderId=3797,3794
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?externalOrderId=000000057,000000056
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?clientId=51213
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders?itemsPerPage=2&statusFrom=7.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders/4718/items
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/orders/4718
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/orders/4718/items/12067
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/orders
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+{
+    "referrerId": 9,
+    "roundTotalsOnly": true,
+    "numberOfDecimals": 4,
+    "statusName": "[5] Cleared for shipping",
+    "plentyId": 31241,
+    "typeId": 1,
+    "lockStatus": "unlocked",
+    "locationId": "2",
+    "statusId": 5,
+    "ownerId": 1,
+    "orderItems": [
+        {
+            "typeId": 1,
+            "referrerId": 14,
+            "itemVariationId": 34484,
+            "quantity": 1,
+            "orderItemName": "24-WG01",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": 1,
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 82,
+                    "priceOriginalNet": 82,
+                    "priceGross": 82,
+                    "priceNet": 82,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": [],
+            "properties": [
+                {
+                    "typeId": 1036,
+                    "value": "Value 1036"
+                },
+                {
+                    "typeId": 1054,
+                    "value": "Value 1054"
+                },
+                {
+                    "typeId": 1057,
+                    "value": "Value 1057"
+                }
+            ],
+            "orderProperties": [
+                {
+                    "propertyId": 381,
+                    "value": "1 X Bundle Component A [SKU: Bundle-Sku-A]<br />2 X Bundle Component B [SKU: Bundle-Sku-B]<br />1 X Bundle Component C [SKU: Bundle-Sku-C]<br />1 X Bundle Component D [SKU: Bundle-Sku-D]<br />1 X Bundle Component E [SKU: Bundle-Sku-E]<br />1 X Bundle Component F [SKU: Bundle-Sku-F]"
+                },
+                {
+                    "propertyId": 382,
+                    "value": "159,160"
+                }
+            ]
+        },
+        {
+            "typeId": 6,
+            "referrerId": 9,
+            "itemVariationId": 0,
+            "quantity": 1,
+            "orderItemName": "Flat Rate - Fixed",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": null,
+            "orderProperties": [],
+            "properties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 10,
+                    "priceOriginalNet": 10,
+                    "priceGross": 10,
+                    "priceNet": 10,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": []
+        }
+    ]
+}
+
+### - Delete order
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/orders/7268
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### - Get Order: 7255
+GET https://skorohoda.plentymarkets-cloud02.com/rest/orders/7268
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### - Delete payment
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/payments/5846
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### delet one payment
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/payment/5862/order
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### 7213 - delte all payments
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/payments/order/7213
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### get all payments for the order
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/orders/7186
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### - check order 5845, 5842, 5843
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/5921
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/orders/7255/documents/reversal_document/generate
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+### - Order with item type SET
+POST https://skorohoda.plentymarkets-cloud02.com/rest/orders
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+{
+    "referrerId": 1,
+    "plentyId": 31241,
+    "typeId": 1,
+    "statusId": 3,
+    "ownerId": "6",
+    "relations": [
+        {
+            "referenceType": "contact",
+            "referenceId": 1570,
+            "relation": "receiver"
+        },
+        {
+            "referenceType": "warehouse",
+            "referenceId": 104,
+            "relation": "sender"
+        }
+    ],
+    "properties": [
+        {
+            "typeId": 3,
+            "value": "6000"
+        },
+        {
+            "typeId": 1,
+            "value": "104"
+        },
+        {
+            "typeId": 7,
+            "value": "999999-test"
+        }
+    ],
+    "orderItems": [
+        {
+            "typeId": 13,
+            "referrerId": 14,
+            "itemVariationId": 31037,
+            "quantity": 14,
+            "orderItemName": "Sprite Yoga Companion Kit --SET--",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 0,
+                    "priceOriginalNet": 0,
+                    "priceNet": 0
+                }
+            ],
+            "properties": [
+                {
+                    "typeId": 17,
+                    "value": "999--test"
+                }
+            ],
+            "metaData": {
+                "externalHash": "24-WG080-01"
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 31025,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Yoga Brick",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "orderProperties": [],
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 30,
+                    "priceOriginalNet": 30,
+                    "priceNet": 30
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-01"
+                }
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 31026,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Roller",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 50,
+                    "priceOriginalNet": 50,
+                    "priceNet": 50
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-01"
+                }
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 34656,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Blue",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 10,
+                    "priceOriginalNet": 10,
+                    "priceNet": 10
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-01"
+                }
+            }
+        },
+        {
+            "typeId": 13,
+            "referrerId": 14,
+            "itemVariationId": 31037,
+            "quantity": 1,
+            "orderItemName": "Sprite Yoga Companion Kit --SET--",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 0,
+                    "priceOriginalNet": 0,
+                    "priceNet": 0
+                }
+            ],
+            "properties": [
+                {
+                    "typeId": 17,
+                    "value": "999--test"
+                }
+            ],
+            "metaData": {
+                "externalHash": "24-WG080-02"
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 34655,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Pink",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "orderProperties": [],
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 40,
+                    "priceOriginalNet": 40,
+                    "priceNet": 40
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-02"
+                }
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 31025,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Yoga Brick",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 21,
+                    "priceOriginalNet": 21,
+                    "priceNet": 21
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-02"
+                }
+            }
+        },
+        {
+            "typeId": 14,
+            "referrerId": 14,
+            "itemVariationId": 34654,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Gray",
+            "vatRate": 0,
+            "warehouseId": 1,
+            "shippingProfileId": 6,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceOriginalGross": 32,
+                    "priceOriginalNet": 32,
+                    "priceNet": 32
+                }
+            ],
+            "metaData": {
+                "internalReferences": {
+                    "set": "24-WG080-02"
+                }
+            }
+        }
+    ],
+    "addressRelations": [
+        {
+            "typeId": 1,
+            "addressId": 6426
+        },
+        {
+            "typeId": 2,
+            "addressId": 6426
+        }
+    ]
+}
+
+### - Update Order with item type SET
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/orders/7303
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNDY5MDVkMzFkODdiYmE1MjEyNmFkNjBjNGFiNzFhYjFjMDIyZDM0NTU3YjJhYzIzOTk5ZjJkYjg3ZDM5NDRjNDNmY2E2OWRjYmRiMjI5NTkiLCJpYXQiOjE2OTUxNTAxNjYuMDcxOCwibmJmIjoxNjk1MTUwMTY2LjA3MTgsImV4cCI6MTY5NTIzNjU2Ni4wNzA1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.vBXiEzzv-KbSHV1hYfcndlAc0xJ12Txug6yvg427Zpj0lmbQQoSe6Yd03qVNvoYo57KIp4c5f0cOuTY47mC8EaLMMuhDREJNuhL6qKCLh-CaOKdzlopib4nOugPa7NBXjRtJgylNQf7IO7seob-MjrnYGzUMJg0Qxad5LLuEWsiut0OpE_O127zaohheSIoAD2O1TnTsLMyKfYAE6gUEX6tABFy2TYSwX_uE5edtzr2UKfzjeCpjRsikf83-m-QDKlCQIqXVYhLInE8Nf2_X0r6-z0NF_rW6I2vpk2O-mJSZlQANgPEHyJQB5WIv5kJBBqWu9-4wGBMFGzIHYgJG5htcR6Di7XaR0DohbCxNJPFvgLHMYVq7dc8dLhhXGVDNBYrPTrclzIiZfB3U0oWEa6HvAXd0hDgvA7ZYQk6PDFLpf6KFI7WPmAu_MFZEq8g67LKBW5ZsddYSVkdKIHl0Ve6JKO6CWvfvYxXXZlVUmbWIigMTekffAZekQmMze6hzPPelQk05qwXsPeYWP51MLs6VtMVXhOwiYsV_iGCxjzsijXzG0gf9NiryEYRlCzR2goPmMy6kW-kfb3ShUfsz52TQgVANNH9pewNKasnfhwhLf_neA7srIv5V3-6uFhlDsZ6hJ97XxqI6TpDVgMd_DiHi1AWuvBFWdNMnDCK3Nhs
+
+{
+    "orderItems": [
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 31025,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Yoga Brick",
+            "vatRate": 20,
+            "orderProperties": [],
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 30
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18479",
+                    "referenceType": "set"
+                }
+            ]
+        },
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 31026,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Roller",
+            "vatRate": 20,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 50
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18479",
+                    "referenceType": "set"
+                }
+            ]
+        },
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 34656,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Blue",
+            "vatRate": 20,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 10
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18479",
+                    "referenceType": "set"
+                }
+            ]
+        },
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 34655,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Pink",
+            "vatRate": 20,
+            "orderProperties": [],
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 30
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18480",
+                    "referenceType": "set"
+                }
+            ]
+        },
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 31025,
+            "quantity": 1,
+            "orderItemName": "Sprite Foam Yoga Brick",
+            "vatRate": 20,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 22
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18480",
+                    "referenceType": "set"
+                }
+            ]
+        },
+        {
+            "typeId": 14,
+            "referrerId": 1,
+            "itemVariationId": 34654,
+            "quantity": 1,
+            "orderItemName": "Sprite Stasis Ball 75 cm Gray",
+            "vatRate": 20,
+            "properties": [
+                {
+                    "typeId": 1,
+                    "value": "1"
+                }
+            ],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "priceGross": 12
+                }
+            ],
+            "references": [
+                {
+                    "referenceOrderItemId": "18480",
+                    "referenceType": "set"
+                }
+            ]
+        }
+    ]
+}

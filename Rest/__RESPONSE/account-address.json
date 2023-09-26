@@ -1,0 +1,91 @@
+{
+  "id": 6060,
+  "gender": "",
+  "name1": "Yundt PLC",
+  "name2": "Jarod",
+  "name3": "Gutkowski",
+  "name4": "",
+  "address1": "27141 Dickinson Unions",
+  "address2": "",
+  "address3": "",
+  "address4": "",
+  "postalCode": "55985-4409",
+  "town": "West Manuela",
+  "countryId": 28,
+  "stateId": 49,
+  "readOnly": false,
+  "checkedAt": null,
+  "createdAt": "2023-02-14T12:36:13+00:00",
+  "updatedAt": "2023-02-14T12:36:13+00:00",
+  "title": "",
+  "contactPerson": "",
+  "taxIdNumber": "",
+  "options": [
+    {
+      "id": 14675,
+      "addressId": 6060,
+      "typeId": 2,
+      "value": "61",
+      "position": 0,
+      "createdAt": "2023-02-14T12:36:13+00:00",
+      "updatedAt": "2023-02-14T12:36:13+00:00"
+    },
+    {
+      "id": 14676,
+      "addressId": 6060,
+      "typeId": 4,
+      "value": "810.341.8606 x015",
+      "position": 0,
+      "createdAt": "2023-02-14T12:36:13+00:00",
+      "updatedAt": "2023-02-14T12:36:13+00:00"
+    },
+    {
+      "id": 14677,
+      "addressId": 6060,
+      "typeId": 5,
+      "value": "beverly.gerlach@softcommerce.io",
+      "position": 0,
+      "createdAt": "2023-02-14T12:36:13+00:00",
+      "updatedAt": "2023-02-14T12:36:13+00:00"
+    },
+    {
+      "id": 14678,
+      "addressId": 6060,
+      "typeId": 10,
+      "value": "WcclXRwosL56bjZ5NnRWEzS3QhTYbJ959WyrKlSx",
+      "position": 0,
+      "createdAt": "2023-02-14T12:36:13+00:00",
+      "updatedAt": "2023-02-14T12:36:13+00:00"
+    }
+  ],
+  "contactRelations": [
+    {
+      "id": 8629,
+      "contactId": 1517,
+      "typeId": 1,
+      "addressId": 6060,
+      "isPrimary": false
+    },
+    {
+      "id": 8630,
+      "contactId": 1517,
+      "typeId": 2,
+      "addressId": 6060,
+      "isPrimary": false
+    }
+  ],
+  "orderRelations": [
+    {
+      "id": 13612,
+      "orderId": 7103,
+      "typeId": 1,
+      "addressId": 6060
+    },
+    {
+      "id": 13613,
+      "orderId": 7103,
+      "typeId": 2,
+      "addressId": 6060
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+### -- login
+POST https://7ouhvlkqjfl7.c01-17.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "serhiy",
+    "password": "30vYkLVq6V!^"
+}

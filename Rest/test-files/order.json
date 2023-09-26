@@ -1,0 +1,672 @@
+{
+  "id": 6663,
+  "referrerId": 12,
+  "roundTotalsOnly": true,
+  "numberOfDecimals": 4,
+  "statusName": "[5] Cleared for shipping ",
+  "plentyId": 31241,
+  "typeId": 1,
+  "lockStatus": "unlocked",
+  "locationId": "2",
+  "createdAt": "2022-03-18T10:51:06+00:00",
+  "updatedAt": "2022-03-19T08:37:40+00:00",
+  "statusId": 5,
+  "ownerId": "6",
+  "relations": [
+    {
+      "orderId": 6663,
+      "referenceType": "warehouse",
+      "referenceId": 1,
+      "relation": "sender"
+    },
+    {
+      "orderId": 6663,
+      "referenceType": "contact",
+      "referenceId": 1414,
+      "relation": "receiver"
+    }
+  ],
+  "properties": [
+    {
+      "orderId": 6663,
+      "typeId": 3,
+      "value": "7",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 6,
+      "value": "en",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 7,
+      "value": "000000893",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 8,
+      "value": "919",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 66,
+      "value": "Rest",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 68,
+      "value": "rest",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 1055,
+      "value": "pending",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 1,
+      "value": "1"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 4,
+      "value": "overpaid"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 2,
+      "value": "6"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 65,
+      "value": "1"
+    }
+  ],
+  "dates": [
+    {
+      "orderId": 6663,
+      "typeId": 2,
+      "date": "2022-03-18T10:51:06+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 4,
+      "date": "2022-03-19T08:37:40+00:00"
+    },
+    {
+      "orderId": 6663,
+      "typeId": 3,
+      "date": "2022-03-19T07:49:25+00:00"
+    }
+  ],
+  "contactReceiver": {
+    "id": 1414,
+    "number": "919",
+    "externalId": "919",
+    "typeId": 1,
+    "firstName": "Test",
+    "lastName": "TestOrder",
+    "gender": "",
+    "title": "Mr",
+    "formOfAddress": "",
+    "newsletterAllowanceAt": null,
+    "classId": 1,
+    "blocked": 0,
+    "rating": null,
+    "bookAccount": null,
+    "lang": "en",
+    "referrerId": 12,
+    "userId": 6,
+    "birthdayAt": null,
+    "lastLoginAt": null,
+    "lastOrderAt": "2022-03-18T10:51:06+00:00",
+    "createdAt": "2022-02-18T10:49:14+00:00",
+    "updatedAt": "2022-03-18T10:51:06+00:00",
+    "valuta": null,
+    "discountDays": null,
+    "discountPercent": null,
+    "timeForPaymentAllowedDays": null,
+    "salesRepresentativeContactId": null,
+    "anonymizeAt": null,
+    "isLead": false,
+    "leadStatusKey": "",
+    "plentyId": 31241,
+    "email": "170222@softcommerce.co.uk",
+    "ebayName": "",
+    "privatePhone": "023083287772",
+    "privateFax": "",
+    "privateMobile": "",
+    "paypalEmail": "",
+    "paypalPayerId": "",
+    "klarnaPersonalId": "",
+    "dhlPostIdent": "",
+    "singleAccess": "",
+    "contactPerson": "",
+    "marketplacePartner": "",
+    "fullName": "Test TestOrder",
+    "inLeadStatusSince": 0,
+    "options": [
+      {
+        "id": 2487,
+        "contactId": 1414,
+        "typeId": 1,
+        "subTypeId": 4,
+        "value": "023083287772",
+        "priority": 0,
+        "createdAt": "2022-02-18T10:49:14+00:00",
+        "updatedAt": "2022-02-18T10:49:14+00:00"
+      },
+      {
+        "id": 2486,
+        "contactId": 1414,
+        "typeId": 2,
+        "subTypeId": 4,
+        "value": "170222@softcommerce.co.uk",
+        "priority": 0,
+        "createdAt": "2022-02-18T10:49:14+00:00",
+        "updatedAt": "2022-02-18T10:49:14+00:00"
+      }
+    ],
+    "accounts": []
+  },
+  "contactSender": null,
+  "warehouseReceiver": null,
+  "warehouseSender": {
+    "id": 1,
+    "name": "KS Sales - London",
+    "note": "",
+    "typeId": 0,
+    "onStockAvailability": 1,
+    "outOfStockAvailability": 5,
+    "splitByShippingProfile": false,
+    "storageLocationType": "large",
+    "storageLocationZone": 0,
+    "repairWarehouseId": 102,
+    "isInventoryModeActive": false,
+    "logisticsType": "own",
+    "average_price_source": "0",
+    "reorder_level_dynamic": "0",
+    "createdAt": "2019-03-06T12:48:27+00:00",
+    "updatedAt": "2020-07-13T18:45:43+01:00",
+    "allocationReferrerIds": [
+      "-1"
+    ],
+    "address": {
+      "name1": "KS Sales - London",
+      "address1": "100 New Bond Street",
+      "address2": "100",
+      "postalCode": "w1s 1sp",
+      "town": "London",
+      "countryId": 12,
+      "options": [
+        {
+          "typeId": 5,
+          "value": "serhiy@softcommerce.co.uk"
+        },
+        {
+          "typeId": 4,
+          "value": "05534453534"
+        }
+      ],
+      "title": "",
+      "contactPerson": ""
+    }
+  },
+  "amounts": [
+    {
+      "id": 11249,
+      "orderId": 6663,
+      "isSystemCurrency": true,
+      "isNet": false,
+      "currency": "GBP",
+      "exchangeRate": 1,
+      "netTotal": 100,
+      "grossTotal": 100,
+      "vatTotal": 0,
+      "invoiceTotal": 100,
+      "paidAmount": 200,
+      "giftCardAmount": 0,
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-19T07:50:10+00:00",
+      "shippingCostsGross": 10,
+      "shippingCostsNet": 10,
+      "taxlessAmount": 0,
+      "prepaidAmount": 0,
+      "vats": [
+        {
+          "id": 15153,
+          "orderAmountId": 11249,
+          "countryVatId": 4,
+          "vatField": 2,
+          "vatRate": 0,
+          "value": 0,
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00",
+          "netTotal": 100,
+          "grossTotal": 100
+        }
+      ]
+    }
+  ],
+  "orderReferences": [],
+  "orderItems": [
+    {
+      "id": 16835,
+      "orderId": 6663,
+      "typeId": 1,
+      "referrerId": 12,
+      "itemVariationId": 34308,
+      "quantity": 1,
+      "orderItemName": "Erika Running Short-28-Green",
+      "attributeValues": "28, Green",
+      "shippingProfileId": 6,
+      "countryVatId": 4,
+      "vatField": 2,
+      "vatRate": 0,
+      "position": "0",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00",
+      "warehouseId": 1,
+      "orderProperties": [],
+      "properties": [
+        {
+          "id": 36566,
+          "orderItemId": 16835,
+          "typeId": 1,
+          "value": "1",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36567,
+          "orderItemId": 16835,
+          "typeId": 2,
+          "value": "6",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36568,
+          "orderItemId": 16835,
+          "typeId": 11,
+          "value": "1000",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36570,
+          "orderItemId": 16835,
+          "typeId": 21,
+          "value": "1",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36569,
+          "orderItemId": 16835,
+          "typeId": 29,
+          "value": "Erika Running Short-28-Green",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36576,
+          "orderItemId": 16835,
+          "typeId": 30,
+          "value": "1",
+          "createdAt": "2022-03-19T07:44:51+00:00",
+          "updatedAt": "2022-03-19T07:44:51+00:00"
+        }
+      ],
+      "dates": [],
+      "amounts": [
+        {
+          "id": 18305,
+          "orderItemId": 16835,
+          "isSystemCurrency": true,
+          "currency": "GBP",
+          "exchangeRate": 1,
+          "purchasePrice": 0,
+          "priceOriginalGross": 45,
+          "priceOriginalNet": 45,
+          "priceGross": 45,
+          "priceNet": 45,
+          "surcharge": 0,
+          "discount": 0,
+          "isPercentage": false,
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        }
+      ],
+      "references": []
+    },
+    {
+      "id": 16836,
+      "orderId": 6663,
+      "typeId": 1,
+      "referrerId": 12,
+      "itemVariationId": 34322,
+      "quantity": 1,
+      "orderItemName": "Erika Running Short-32-Red",
+      "attributeValues": "32, Red",
+      "shippingProfileId": 6,
+      "countryVatId": 4,
+      "vatField": 2,
+      "vatRate": 0,
+      "position": "0",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00",
+      "warehouseId": 1,
+      "orderProperties": [],
+      "properties": [
+        {
+          "id": 36571,
+          "orderItemId": 16836,
+          "typeId": 1,
+          "value": "1",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36572,
+          "orderItemId": 16836,
+          "typeId": 2,
+          "value": "6",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36573,
+          "orderItemId": 16836,
+          "typeId": 11,
+          "value": "1000",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36575,
+          "orderItemId": 16836,
+          "typeId": 21,
+          "value": "1",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36574,
+          "orderItemId": 16836,
+          "typeId": 29,
+          "value": "Erika Running Short-32-Red",
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        },
+        {
+          "id": 36577,
+          "orderItemId": 16836,
+          "typeId": 30,
+          "value": "1",
+          "createdAt": "2022-03-19T07:44:51+00:00",
+          "updatedAt": "2022-03-19T07:44:51+00:00"
+        }
+      ],
+      "dates": [],
+      "amounts": [
+        {
+          "id": 18306,
+          "orderItemId": 16836,
+          "isSystemCurrency": true,
+          "currency": "GBP",
+          "exchangeRate": 1,
+          "purchasePrice": 0,
+          "priceOriginalGross": 45,
+          "priceOriginalNet": 45,
+          "priceGross": 45,
+          "priceNet": 45,
+          "surcharge": 0,
+          "discount": 0,
+          "isPercentage": false,
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        }
+      ],
+      "references": []
+    },
+    {
+      "id": 16837,
+      "orderId": 6663,
+      "typeId": 6,
+      "referrerId": 12,
+      "itemVariationId": 0,
+      "quantity": 1,
+      "orderItemName": "Flat Rate - Fixed",
+      "attributeValues": null,
+      "shippingProfileId": 0,
+      "countryVatId": 4,
+      "vatField": 2,
+      "vatRate": 0,
+      "position": "0",
+      "createdAt": "2022-03-18T10:51:06+00:00",
+      "updatedAt": "2022-03-18T10:51:06+00:00",
+      "warehouseId": null,
+      "orderProperties": [],
+      "properties": [],
+      "dates": [],
+      "amounts": [
+        {
+          "id": 18307,
+          "orderItemId": 16837,
+          "isSystemCurrency": true,
+          "currency": "GBP",
+          "exchangeRate": 1,
+          "purchasePrice": 0,
+          "priceOriginalGross": 10,
+          "priceOriginalNet": 10,
+          "priceGross": 10,
+          "priceNet": 10,
+          "surcharge": 0,
+          "discount": 0,
+          "isPercentage": false,
+          "createdAt": "2022-03-18T10:51:06+00:00",
+          "updatedAt": "2022-03-18T10:51:06+00:00"
+        }
+      ],
+      "references": []
+    }
+  ],
+  "addressRelations": [
+    {
+      "id": 12740,
+      "orderId": 6663,
+      "typeId": 1,
+      "addressId": 5236
+    },
+    {
+      "id": 12741,
+      "orderId": 6663,
+      "typeId": 2,
+      "addressId": 5236
+    }
+  ],
+  "addresses": [
+    {
+      "id": 5236,
+      "gender": "",
+      "name1": "Test order company ltd",
+      "name2": "Test",
+      "name3": "TestOrder",
+      "name4": "",
+      "address1": "100 new order company",
+      "address2": "",
+      "address3": "",
+      "address4": "",
+      "postalCode": "W1S 1SP",
+      "town": "London",
+      "countryId": 12,
+      "stateId": null,
+      "readOnly": false,
+      "checkedAt": null,
+      "createdAt": "2022-02-20T11:26:48+00:00",
+      "updatedAt": "2022-02-20T11:26:48+00:00",
+      "title": "",
+      "contactPerson": "",
+      "pivot": {
+        "orderId": "6663",
+        "addressId": 5236,
+        "typeId": 1
+      },
+      "options": [
+        {
+          "id": 11912,
+          "addressId": 5236,
+          "typeId": 2,
+          "value": "1593",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11913,
+          "addressId": 5236,
+          "typeId": 4,
+          "value": "023083287772",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11914,
+          "addressId": 5236,
+          "typeId": 5,
+          "value": "170222@softcommerce.co.uk",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11915,
+          "addressId": 5236,
+          "typeId": 10,
+          "value": "1WYbzEPdeaajjjOoUnyF7BDj2aNr0BlFXWYqKVTT",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": 5236,
+      "gender": "",
+      "name1": "Test order company ltd",
+      "name2": "Test",
+      "name3": "TestOrder",
+      "name4": "",
+      "address1": "100 new order company",
+      "address2": "",
+      "address3": "",
+      "address4": "",
+      "postalCode": "W1S 1SP",
+      "town": "London",
+      "countryId": 12,
+      "stateId": null,
+      "readOnly": false,
+      "checkedAt": null,
+      "createdAt": "2022-02-20T11:26:48+00:00",
+      "updatedAt": "2022-02-20T11:26:48+00:00",
+      "title": "",
+      "contactPerson": "",
+      "pivot": {
+        "orderId": "6663",
+        "addressId": 5236,
+        "typeId": 2
+      },
+      "options": [
+        {
+          "id": 11912,
+          "addressId": 5236,
+          "typeId": 2,
+          "value": "1593",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11913,
+          "addressId": 5236,
+          "typeId": 4,
+          "value": "023083287772",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11914,
+          "addressId": 5236,
+          "typeId": 5,
+          "value": "170222@softcommerce.co.uk",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        },
+        {
+          "id": 11915,
+          "addressId": 5236,
+          "typeId": 10,
+          "value": "1WYbzEPdeaajjjOoUnyF7BDj2aNr0BlFXWYqKVTT",
+          "position": 0,
+          "createdAt": "2022-02-20T11:26:48+00:00",
+          "updatedAt": "2022-02-20T11:26:48+00:00"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "id": 2,
+    "countryId": 12,
+    "name": "United Kingdom",
+    "clientId": 0,
+    "plentyId": 31241
+  },
+  "payments": [
+    {
+      "id": 5340,
+      "amount": 100,
+      "exchangeRatio": 1,
+      "mopId": 1,
+      "parentId": null,
+      "deleted": null,
+      "unaccountable": 0,
+      "currency": "GBP",
+      "type": "credit",
+      "hash": "6bf9e6d10a7d2aece0e0448e8e99b14e",
+      "receivedAt": "2022-03-19 07:49:25",
+      "importedAt": "2022-03-19T07:49:25+00:00",
+      "status": 2,
+      "transactionType": 2,
+      "isSystemCurrency": "1",
+      "pivot": {
+        "orderId": "6663",
+        "paymentId": "5340"
+      }
+    }
+  ],
+  "documents": [],
+  "comments": [],
+  "originOrderReferences": [],
+  "shippingPackages": [],
+  "shippingInformation": null,
+  "paymentTerms": null
+}

@@ -1,0 +1,100 @@
+{
+  "id": 5340,
+  "amount": 100,
+  "exchangeRatio": 1,
+  "mopId": 1,
+  "parentId": null,
+  "deleted": null,
+  "unaccountable": 0,
+  "currency": "GBP",
+  "type": "credit",
+  "hash": "6bf9e6d10a7d2aece0e0448e8e99b14e",
+  "receivedAt": "2022-03-19 07:49:25",
+  "importedAt": "2022-03-19T07:49:25+00:00",
+  "status": 2,
+  "transactionType": 2,
+  "isSystemCurrency": "1",
+  "parent": null,
+  "method": {
+    "id": 1,
+    "pluginKey": "plenty",
+    "paymentKey": "COD",
+    "name": "cash on delivery"
+  },
+  "histories": [
+    {
+      "id": 2373,
+      "paymentId": "5340",
+      "typeId": "1",
+      "value": "2022-03-19 07:49:25",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:49:25+00:00"
+    },
+    {
+      "id": 2374,
+      "paymentId": "5340",
+      "typeId": "6",
+      "value": "Created property type id 1: 26a37b00-50b6-224f-95fb-e3e6b9979-3826",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:49:25+00:00"
+    },
+    {
+      "id": 2375,
+      "paymentId": "5340",
+      "typeId": "6",
+      "value": "Created property type id 3: Transaction Text: 3826",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:49:25+00:00"
+    },
+    {
+      "id": 2376,
+      "paymentId": "5340",
+      "typeId": "6",
+      "value": "unaccountable to 0",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:50:10+00:00"
+    },
+    {
+      "id": 2377,
+      "paymentId": "5340",
+      "typeId": "6",
+      "value": "status to 2",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:50:10+00:00"
+    },
+    {
+      "id": 2378,
+      "paymentId": "5340",
+      "typeId": "6",
+      "value": "Updated property type id 3: Booking text, is PAID 3826",
+      "user": "REST User: 6",
+      "createdAt": "2022-03-19T07:50:10+00:00"
+    }
+  ],
+  "properties": [
+    {
+      "id": 8048,
+      "paymentId": 5340,
+      "typeId": 1,
+      "value": "26a37b00-50b6-224f-95fb-e3e6b9979-3826",
+      "createdAt": "2022-03-19T07:49:25+00:00",
+      "updatedAt": "2022-03-19T07:49:25+00:00"
+    },
+    {
+      "id": 8049,
+      "paymentId": 5340,
+      "typeId": 3,
+      "value": "Booking text, is PAID 3826",
+      "createdAt": "2022-03-19T07:49:25+00:00",
+      "updatedAt": "2022-03-19T07:50:10+00:00"
+    }
+  ],
+  "order": {
+    "id": 2526,
+    "paymentId": 5340,
+    "orderId": 6663,
+    "assignedAt": "2022-03-19 07:49:25"
+  },
+  "contact": null,
+  "children": []
+}

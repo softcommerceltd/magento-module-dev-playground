@@ -1,0 +1,570 @@
+[
+  {
+    "base": {
+      "isMain": false,
+      "itemId": 438,
+      "position": 72,
+      "isActive": false,
+      "number": "I-371393",
+      "model": "molestias",
+      "externalId": null,
+      "availability": 1,
+      "estimatedAvailableAt": "2021-12-20T11:23:19+0100",
+      "purchasePrice": 63.84,
+      "createdAt": "2021-11-06T21:36:32+0100",
+      "updatedAt": "2021-11-26T23:48:43+0100",
+      "relatedUpdatedAt": "2021-11-27T00:00:16+0100",
+      "priceCalculationId": null,
+      "picking": null,
+      "stockLimitation": 1,
+      "isVisibleIfNetStockIsPositive": true,
+      "isInvisibleIfNetStockIsNotPositive": false,
+      "isAvailableIfNetStockIsPositive": true,
+      "isUnavailableIfNetStockIsNotPositive": true,
+      "mainWarehouseId": 587,
+      "maximumOrderQuantity": 91.21,
+      "minimumOrderQuantity": 45.82,
+      "intervalOrderQuantity": 29.63,
+      "availableUntil": "2021-12-22T06:05:29+0100",
+      "releasedAt": "2021-11-26T00:19:53+0100",
+      "name": "cecilia.durgan",
+      "weightG": 2,
+      "weightNetG": 1,
+      "widthMM": 2,
+      "lengthMM": 3,
+      "heightMM": 8,
+      "extraShippingCharge1": 12.83,
+      "extraShippingCharge2": 5.26,
+      "unitsContained": 4,
+      "palletTypeId": 1,
+      "packingUnits": 6,
+      "packingUnitTypeId": 1,
+      "transportationCosts": 35.5,
+      "storageCosts": 75.29,
+      "customs": 32.16,
+      "operatingCosts": 9.64,
+      "vatId": 1,
+      "bundleType": "bundle",
+      "automaticClientVisibility": false,
+      "isHiddenInCategoryList": false
+    },
+    "additionalSkus": [
+      {
+        "marketId": 4.15,
+        "marketAccountId": 11702,
+        "sku": "4294333618"
+      },
+      {
+        "marketId": 4.22,
+        "marketAccountId": 2933,
+        "sku": "5705660006"
+      }
+    ],
+    "attributeValues": [
+      {
+        "attributeId": 435,
+        "attributeValueSetId": 994,
+        "valueId": 438
+      },
+      {
+        "attributeId": 436,
+        "attributeValueSetId": 639,
+        "valueId": 439
+      }
+    ],
+    "barcodes": [
+      {
+        "barcodeId": 213,
+        "code": "3600829387510"
+      },
+      {
+        "barcodeId": 214,
+        "code": "5897540534240"
+      }
+    ],
+    "categories": [
+      {
+        "categoryId": 82,
+        "position": 1,
+        "isNeckermannPrimary": true
+      },
+      {
+        "categoryId": 44,
+        "position": 6,
+        "isNeckermannPrimary": true
+      }
+    ],
+    "clients": [
+      {
+        "plentyId": 13822
+      },
+      {
+        "plentyId": 17482
+      }
+    ],
+    "comments": [
+      {
+        "id": 178,
+        "userId": null,
+        "text": "Est nam doloribus possimus aliquam error eos et voluptate voluptas velit harum temporibus.",
+        "isVisibleForContact": true
+      },
+      {
+        "id": 699,
+        "userId": null,
+        "text": "Suscipit nemo sint non nam voluptas non.",
+        "isVisibleForContact": true
+      }
+    ],
+    "defaultCategories": [
+      {
+        "branchId": 45,
+        "manually": false,
+        "plentyId": 19129
+      },
+      {
+        "branchId": 33,
+        "manually": false,
+        "plentyId": 13616
+      }
+    ],
+    "images": [
+      {
+        "imageId": 241
+      },
+      {
+        "imageId": 242
+      }
+    ],
+    "markets": [
+      {
+        "marketId": 94.93
+      },
+      {
+        "marketId": 31.97
+      }
+    ],
+    "marketIdentNumbers": [
+      {
+        "id": 316,
+        "countryId": 2,
+        "type": "epid",
+        "position": 3,
+        "value": "9070780240"
+      },
+      {
+        "id": 636,
+        "countryId": 2,
+        "type": "epid",
+        "position": 8,
+        "value": "5569880321"
+      }
+    ],
+    "properties": [
+      {
+        "propertyId": 348,
+        "value": "est"
+      },
+      {
+        "propertyId": 349,
+        "value": null,
+        "selectionValues": null
+      }
+    ],
+    "salesPrices": [
+      {
+        "salesPriceId": 99,
+        "price": 586.49
+      },
+      {
+        "salesPriceId": 54,
+        "price": 694.25
+      }
+    ],
+    "skus": [
+      {
+        "marketId": 110,
+        "accountId": 7,
+        "initialSku": "",
+        "sku": "5621271386",
+        "parentSku": "504",
+        "isActive": false,
+        "status": "SENT",
+        "additionalInformation": "qui"
+      },
+      {
+        "marketId": 140,
+        "accountId": 5,
+        "initialSku": "",
+        "sku": "5431196723",
+        "parentSku": "752",
+        "isActive": false,
+        "status": "SENT",
+        "additionalInformation": "velit"
+      }
+    ],
+    "supplier": [
+      {
+        "supplierId": 44,
+        "purchasePrice": 4196.4,
+        "minimumPurchase": 6,
+        "itemNumber": "9784870684485",
+        "lastPriceQuery": "1996-08-06T00:00:00+02:00",
+        "deliveryTimeInDays": 2,
+        "discount": 6.185,
+        "isDiscountable": false,
+        "packagingUnit": 511936374
+      },
+      {
+        "supplierId": 24,
+        "purchasePrice": 1784417.412053,
+        "minimumPurchase": 9,
+        "itemNumber": "9789155256951",
+        "lastPriceQuery": "2008-01-10T00:00:00+01:00",
+        "deliveryTimeInDays": 3,
+        "discount": 84.08,
+        "isDiscountable": false,
+        "packagingUnit": 6939782
+      }
+    ],
+    "tags": [
+      {
+        "tagId": 188
+      },
+      {
+        "tagId": 189
+      }
+    ],
+    "unit": {
+      "unitId": 342,
+      "unitCombinationId": 421,
+      "content": 36758358.4
+    },
+    "warehouses": [
+      {
+        "warehouseId": 588,
+        "zoneId": 2,
+        "storageLocationType": "europallet",
+        "reorderLevel": 3,
+        "maximumStock": 4,
+        "stockTurnoverInDays": 4,
+        "storageLocation": 8,
+        "stockBuffer": 1,
+        "isBatch": false,
+        "isBestBeforeDate": false
+      },
+      {
+        "warehouseId": 589,
+        "zoneId": 5,
+        "storageLocationType": "large",
+        "reorderLevel": 6,
+        "maximumStock": 6,
+        "stockTurnoverInDays": 9,
+        "storageLocation": 6,
+        "stockBuffer": 8,
+        "isBatch": false,
+        "isBestBeforeDate": false
+      }
+    ]
+  },
+  {
+    "id": 36947,
+    "base": {
+      "isMain": true,
+      "itemId": 439,
+      "position": 13,
+      "isActive": false,
+      "number": "S-108603",
+      "model": "rerum",
+      "externalId": null,
+      "availability": 1,
+      "estimatedAvailableAt": "2021-12-20T18:47:41+0100",
+      "purchasePrice": 39.18,
+      "createdAt": "2021-05-25T01:12:45+0200",
+      "updatedAt": "2021-11-30T01:37:11+0100",
+      "relatedUpdatedAt": "2021-11-26T16:21:20+0100",
+      "priceCalculationId": null,
+      "picking": "single_picking",
+      "stockLimitation": 2,
+      "isVisibleIfNetStockIsPositive": false,
+      "isInvisibleIfNetStockIsNotPositive": true,
+      "isAvailableIfNetStockIsPositive": true,
+      "isUnavailableIfNetStockIsNotPositive": false,
+      "mainWarehouseId": 590,
+      "maximumOrderQuantity": 68.17,
+      "minimumOrderQuantity": 46.1,
+      "intervalOrderQuantity": 42.75,
+      "availableUntil": "2021-12-19T21:41:16+0100",
+      "releasedAt": "2021-11-27T07:54:32+0100",
+      "name": "jacynthe.weber",
+      "weightG": 3,
+      "weightNetG": 7,
+      "widthMM": 2,
+      "lengthMM": 7,
+      "heightMM": 3,
+      "extraShippingCharge1": 71.12,
+      "extraShippingCharge2": 31.12,
+      "unitsContained": 2,
+      "palletTypeId": 8,
+      "packingUnits": 1,
+      "packingUnitTypeId": 7,
+      "transportationCosts": 18.1,
+      "storageCosts": 19.31,
+      "customs": 99.62,
+      "operatingCosts": 19.55,
+      "vatId": 1,
+      "bundleType": "bundle",
+      "automaticClientVisibility": false,
+      "isHiddenInCategoryList": true
+    },
+    "additionalSkus": [
+      {
+        "marketId": 104.09,
+        "marketAccountId": 85509,
+        "sku": "8451445586"
+      },
+      {
+        "marketId": 104.17,
+        "marketAccountId": 79153,
+        "sku": "8309205147"
+      }
+    ],
+    "attributeValues": [
+      {
+        "attributeId": 437,
+        "attributeValueSetId": 226,
+        "valueId": 440
+      },
+      {
+        "attributeId": 438,
+        "attributeValueSetId": 776,
+        "valueId": 441
+      }
+    ],
+    "barcodes": [
+      {
+        "barcodeId": 215,
+        "code": "4748815823990"
+      },
+      {
+        "barcodeId": 216,
+        "code": "8127909009315"
+      }
+    ],
+    "bundleComponents": [
+      {
+        "componentVariationId": 1265,
+        "componentQuantity": 1
+      },
+      {
+        "componentVariationId": 1266,
+        "componentQuantity": 5
+      }
+    ],
+    "categories": [
+      {
+        "categoryId": 91,
+        "position": 7,
+        "isNeckermannPrimary": true
+      },
+      {
+        "categoryId": 37,
+        "position": 4,
+        "isNeckermannPrimary": false
+      }
+    ],
+    "clients": [
+      {
+        "plentyId": 17948
+      },
+      {
+        "plentyId": 17231
+      }
+    ],
+    "comments": [
+      {
+        "id": 183,
+        "userId": null,
+        "text": "Blanditiis qui facere aliquid natus quod amet aut et qui voluptatum.",
+        "isVisibleForContact": true
+      },
+      {
+        "id": 653,
+        "userId": 184,
+        "text": "Reiciendis sit quam quia sit non quas harum natus repellat aut assumenda dolorum.",
+        "isVisibleForContact": false
+      }
+    ],
+    "defaultCategories": [
+      {
+        "branchId": 41,
+        "manually": true,
+        "plentyId": 17086
+      },
+      {
+        "branchId": 77,
+        "manually": true,
+        "plentyId": 18945
+      }
+    ],
+    "images": [
+      {
+        "imageId": 243
+      },
+      {
+        "imageId": 244
+      }
+    ],
+    "markets": [
+      {
+        "marketId": 56.59
+      },
+      {
+        "marketId": 74.13
+      }
+    ],
+    "marketIdentNumbers": [
+      {
+        "id": 47,
+        "countryId": 4,
+        "type": "epid",
+        "position": 5,
+        "value": "2427105295"
+      },
+      {
+        "id": 202,
+        "countryId": 5,
+        "type": "epid",
+        "position": 8,
+        "value": "5526906035"
+      }
+    ],
+    "properties": [
+      {
+        "propertyId": 352,
+        "value": "vitae"
+      },
+      {
+        "propertyId": 353,
+        "value": 25684678.01
+      }
+    ],
+    "salesPrices": [
+      {
+        "salesPriceId": 84,
+        "price": 534.74
+      },
+      {
+        "salesPriceId": 80,
+        "price": 161.67
+      }
+    ],
+    "skus": [
+      {
+        "marketId": 125,
+        "accountId": 5,
+        "initialSku": "",
+        "sku": "2438601523",
+        "parentSku": "782",
+        "isActive": false,
+        "status": "ERROR",
+        "additionalInformation": "amet"
+      },
+      {
+        "marketId": 119,
+        "accountId": 1,
+        "initialSku": "",
+        "sku": "0740616404",
+        "parentSku": "71",
+        "isActive": false,
+        "status": "SENT",
+        "additionalInformation": "ea"
+      }
+    ],
+    "supplier": [
+      {
+        "supplierId": 6,
+        "purchasePrice": 55958833.38103928,
+        "minimumPurchase": 3,
+        "itemNumber": "9799352125431",
+        "lastPriceQuery": "1983-05-09T00:00:00+02:00",
+        "deliveryTimeInDays": 9,
+        "discount": 11938.4,
+        "isDiscountable": false,
+        "packagingUnit": 223142
+      },
+      {
+        "supplierId": 69,
+        "purchasePrice": 105967.05834,
+        "minimumPurchase": 2,
+        "itemNumber": "9790218537771",
+        "lastPriceQuery": "2012-02-09",
+        "deliveryTimeInDays": 8,
+        "discount": 31.268492,
+        "isDiscountable": true,
+        "packagingUnit": 59
+      }
+    ],
+    "tags": [
+      {
+        "tagId": 190
+      },
+      {
+        "tagId": 191
+      }
+    ],
+    "timestamps": {
+      "availability": "2021-12-01T17:39:05+01:00",
+      "additionalSku": "2021-11-26T17:33:59+01:00",
+      "barcode": "2021-11-30T00:08:57+01:00",
+      "base": "2021-11-27T21:25:01+01:00",
+      "bundleComponent": "2021-11-27T18:52:57+01:00",
+      "category": "2021-11-27T15:34:27+01:00",
+      "client": "2021-12-02T19:45:33+01:00",
+      "defaultCategory": "2021-12-01T01:59:46+01:00",
+      "image": "2021-11-26T06:01:21+01:00",
+      "market": "2021-11-27T10:52:02+01:00",
+      "marketIdentNumber": "2021-12-01T00:37:57+01:00",
+      "related": "2021-11-27T08:37:46+01:00",
+      "salesPrice": "2021-11-27T13:51:17+01:00",
+      "sku": "2021-12-02T15:51:01+01:00",
+      "supplier": "2021-11-26T08:40:47+01:00",
+      "property": "2021-11-28T22:57:08+01:00",
+      "warehouse": "2021-11-28T04:11:08+01:00",
+      "tag": "2021-11-27T23:05:52+01:00",
+      "comment": "2021-11-28T22:27:47+01:00",
+      "createdAt": "2021-12-01T04:02:32+01:00"
+    },
+    "unit": {
+      "unitId": 345,
+      "unitCombinationId": 895,
+      "content": 262
+    },
+    "warehouses": [
+      {
+        "warehouseId": 593,
+        "zoneId": 1,
+        "storageLocationType": "none",
+        "reorderLevel": 4,
+        "maximumStock": 7,
+        "stockTurnoverInDays": 9,
+        "storageLocation": 2,
+        "stockBuffer": 5,
+        "isBatch": false,
+        "isBestBeforeDate": true
+      },
+      {
+        "warehouseId": 594,
+        "zoneId": 7,
+        "storageLocationType": "europallet",
+        "reorderLevel": 7,
+        "maximumStock": 2,
+        "stockTurnoverInDays": 1,
+        "storageLocation": 9,
+        "stockBuffer": 7,
+        "isBatch": true,
+        "isBestBeforeDate": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Soft Commerce Ltd. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Magency_DevPlayground::dev_playground"
+             title="Dev Playground"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="999"
+             dependsOnModule="Magency_DevPlayground"
+             resource="Magency_DevPlayground::dev_playground"/>
+        <add id="Magency_DevPlayground::debugging"
+             title="Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="10"
+             parent="Magency_DevPlayground::dev_playground"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_index"
+             title="Index Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="10"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/index"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_profile"
+             title="Profile Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="10"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/profile"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_client"
+             title="Client Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="20"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/client"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_attribute"
+             title="Attribute Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="30"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/attribute"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_category"
+             title="Category Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="40"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/category"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_customer"
+             title="Customer Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="50"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/customer"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_item"
+             title="Item Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="60"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/item"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_order"
+             title="Order Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="70"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/order"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_property"
+             title="Property Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="80"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/property"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_stock"
+             title="Stock Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="90"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/stock"
+             resource="Magency_DevPlayground::debugging"/>
+        <add id="Magency_DevPlayground::debugging_fake_order"
+             title="Fake Order Debugging"
+             translate="title"
+             module="Magency_DevPlayground"
+             sortOrder="100"
+             parent="Magency_DevPlayground::debugging"
+             action="dev_playground/debugging/createFakeOrder"
+             resource="Magency_DevPlayground::debugging"/>
+    </menu>
+</config>

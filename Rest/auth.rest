@@ -1,0 +1,61 @@
+### -- login
+POST https://skorohoda.plentymarkets-cloud02.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "mage032",
+    "password": "4D25814q76EI57q"
+}
+
+### -- Refresh token
+POST https://skorohoda.plentymarkets-cloud02.com/rest/login/refresh
+Accept: application/json
+Content-Type: application/json
+
+{
+    "refresh_token": "def502000a658880e4866bb0b19977d732829270fed6322fa64eaabcda5910ad8ceeb45fb23417d32cafc60bbc3e8f63013b098398761a1a4de24ebcf3886e11b7fe927b83cd83e1e185ca7fc7adb5e21ec3218aa918bfe3e7af16062938d0d3e219b659733165c889636be7d985e46c4b3a66042491707c6c512cf7d06878bc1b28f992d36e2117e15e03784e632e79c01a46feb7436a14e3b21365e9846a00fd77fb170ed9b36bd5c628ee7985069040111f4907b526534cd4b867382ad75bf64fcef2aa90ca63236353e9003e753600e03b041f1f9e142c2f4dc2e4c7ed4772ccb32a2a81656eeacd55e34413cbcf0de6fa91be0d21edcbbda24d3c7d7bba873d41f34abd28675da3aeed027d494c84f8082ad63beac9d8ba67f6f826b0a7973f76baa9303e85753587f4a52b8aa53b8cfb12941285781335fa1e057b12b1d67746ba86c1899faf590ee1a7dd254655d649d2ddb4ea4805978c106d078d141bb14b72"
+}
+
+### -- Refresh token
+POST https://skorohoda.plentymarkets-cloud02.com/rest/login/refresh
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "xxxxx",
+    "test": "xxxx"
+}
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/authorized_user
+Accept: application/json
+Content-Type: application/json
+##Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNWFjYTgyNDQ4M2NjNWJiYjhjM2U1MDZkNmUwMmMyN2UyNjgzOWFlOWE4NjgyOWE4ZWQ1NGExODZjMTY1ZDg5Nzc2Y2ZjODI3YWZiZjc5ZWYiLCJpYXQiOjE1OTY5NjI4OTgsIm5iZiI6MTU5Njk2Mjg5OCwiZXhwIjoxNTk3MDQ5Mjk4LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.GCWsVzfIxvyHogIUYJGBtJG13Dl3LVblKrmfBoVbd3lLjzmQajxkP0tQ67tIIhoCiKiaKqwNLudk5GG_ro88iElbJhtL5XR5GpVAP6OVlqt9jRHzaR1M0sGPEyms-GbGAYnTL8Ch7ezn1kE5kFTgoUxzswPyyyckwgtHVnkz6S7ZRnc0lmEjuhOXlGXG8iZv2BLgUnUIQLezqW8nFPAiArn44F8Vf7vDj118-zDon0Qwm6Fo91gsjfp-x5C0sdgr3dH-0BSdmA9FsoI-XZzFCzqmztIV2_HgYlWXxstFhtjxUgan8guounaefVcYvQDHwHhGsIDhP_6HEfILEojSjO40YZDDkk_xilEMKZvfSbeqZ3UvYqzN-QWJsGuZk1TbiXO_98zCdtr0uyHqrRe0QZVoYW3arIbIUfrTq4xN5-J2KjpE6e0EwKpOsdtEs0LML8GbYc9jLuu096HnzjERyGI4h-9TmdFqkEv5lSlH_DGV9IeMOM8HCoi1FnXqNsfGSnReJQwvF1cvtg9z_Ir_hyYCvjO0XaCxRDffW6nXjjg3wxS9GEmPHrK21l0D01Lf6p_cGnc0kzKoSTOMmddqMde2EkaH_2MG8F9CDegxLjuFl-o_pwDAKoaQ-k30TTCxcXW58wYig01McHKr2F9YxbyoTXn3w7AocnwtvZSsBAY
+
+
+### --- NEW CLIENT --- https://50zbb0xdqkgx.c01-15.plentymarkets.com/rest/
+POST https://50zbb0xdqkgx.c01-15.plentymarkets.com/rest/login?username=mage033&password=4D25814q76EI57q
+Accept: application/json
+Content-Type: application/json
+
+### -- login
+POST https://kt72jkvr2jwx.c01-15.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "magehp_plenty",
+    "password": "yJ8cL0eB9sI4oZ5v"
+}
+
+
+### -- login
+POST https://skorohoda.plentymarkets-cloud02.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "farahmand9",
+    "password": "fT1aY4oU6gN0dL7nQ8fS"
+}

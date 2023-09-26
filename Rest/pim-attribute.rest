@@ -1,0 +1,186 @@
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+### -- With: attributeNames,values,maps
+GET https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes?with=attributeNames,values,maps
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/manufacturers?with=commissions,externals
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+[
+    {
+        "backendName": "aa24910b-8f5a-3fd6-a201-36ad7fddabc8",
+        "position": 5,
+        "isSurchargePercental": true,
+        "isLinkableToImage": true,
+        "amazonAttribute": "Voluptatibus ut quae esse et.",
+        "fruugoAttribute": "color",
+        "pixmaniaAttribute": 4,
+        "ottoAttribute": "none",
+        "googleShoppingAttribute": "material",
+        "neckermannAtEpAttribute": 4,
+        "typeOfSelectionInOnlineStore": "dropdown",
+        "laRedouteAttribute": 4,
+        "isGroupable": false,
+        "attributeNames": [
+            {
+                "lang": "en",
+                "name": "aa24910b-8f5a-3fd6-a201-36ad7fddabc8 EN"
+            },
+            {
+                "lang": "de",
+                "name": "aa24910b-8f5a-3fd6-a201-36ad7fddabc8 DE"
+            }
+        ],
+        "values": [
+            {
+                "backendName": "Black",
+                "position": 1,
+                "image": "",
+                "comment": "",
+                "amazonValue": "",
+                "ottoValue": "",
+                "neckermannAtEpValue": "",
+                "laRedouteValue": "",
+                "tracdelightValue": "",
+                "percentageDistribution": 0,
+                "updatedAt": "2017-11-25T13:44:44+00:00",
+                "valueNames": [
+                    {
+                        "lang": "de",
+                        "name": "Black"
+                    },
+                    {
+                        "lang": "en",
+                        "name": "Black"
+                    }
+                ]
+            },
+            {
+                "backendName": "Red",
+                "position": 3,
+                "image": "",
+                "comment": "",
+                "amazonValue": "",
+                "ottoValue": "",
+                "neckermannAtEpValue": "",
+                "laRedouteValue": "",
+                "tracdelightValue": "",
+                "percentageDistribution": 0,
+                "updatedAt": "2017-11-25T15:45:55+00:00",
+                "valueNames": [
+                    {
+                        "lang": "de",
+                        "name": "Red DE"
+                    },
+                    {
+                        "lang": "en",
+                        "name": "Red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "backendName": "ee9bbb7c-dac5-3bba-97f5-1d1e40d65314",
+        "position": 8,
+        "isSurchargePercental": true,
+        "isLinkableToImage": true,
+        "amazonAttribute": "Suscipit id harum fuga iusto beatae dolorem est.",
+        "fruugoAttribute": "color",
+        "pixmaniaAttribute": 1,
+        "ottoAttribute": "Dimension1",
+        "googleShoppingAttribute": "material",
+        "neckermannAtEpAttribute": 1,
+        "typeOfSelectionInOnlineStore": "dropdown",
+        "laRedouteAttribute": 0,
+        "isGroupable": true
+    }
+]
+
+###
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+[
+    {
+        "id": 164,
+        "backendName": "test_attribute_164",
+        "position": 10,
+        "isSurchargePercental": false,
+        "isLinkableToImage": true,
+        "isGroupable": false,
+        "attributeNames": [
+            {
+                "attributeId": "157",
+                "lang": "en",
+                "name": "test_attribute_164 EN"
+            },
+            {
+                "attributeId": "157",
+                "lang": "de",
+                "name": "test_attribute_164 DE"
+            }
+        ]
+    }
+]
+
+###
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes/names
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+[
+    {
+        "attributeId": 166,
+        "lang": "sp",
+        "name": "test_attribute_166 EN"
+    },
+    {
+        "attributeId": 166,
+        "lang": "cn",
+        "name": "test_attribute_166 DE"
+    }
+]
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/pim/attributes/values
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYTNkYzhlYTk3YjRjNDNhOTNkNTA5NzMxZWRlNTBlMTkyMDFkZGE0YzRiMTFiZjZlZWVmMjYwNDczOGZmZjg0YzM1ODBlODI1ZDE4NmMyZDYiLCJpYXQiOjE2NTM1NDMwMDUuODUyMiwibmJmIjoxNjUzNTQzMDA1Ljg1MjIsImV4cCI6MTY1MzYyOTQwNS44Mzc1LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.rgC5GtYSfDTDR78CVeJuM_NyyrsfUtrU-40ohUPi6YPYVJx1HuY4_Y7vc5qoQxG4CsERhmGAqrpkjHc9obZJoB67QxRWdnluUnkCymXeOqhgF8SYuGANzTEjOZaSpOZR-BR8jr2h820hCbkTejBSaxyrLsuMvOAibud1_f0N7RBXOBNXoJVifJTKBBCJM0PGpRVJXneprbqH6BB4m7EvGc0TWWOCsqQ5PMdAVAleSd3s1BpFT_xog0dhwcY1-DWbx21Ppv9g0Gf27TFhhwOkz3Y_axZG3-tRZQeOGrTw9c2dl_f06WioYzd3Ib8808dzi5Nu56CZpSBx1wRxUV2gUbFFThivolSH1FxvMa91afh_vcNK7ar9GAFV1x9HV5M0_uFkK3Aj34kKqOqLNI2FfaXGG8db_DhtlzD7TY2otIh2y9rZQj4uq3zDRMGRDlCT9x3WZ6bSYhEERq-32TnxSnhxBI-DyzAW3Xb40ilHP-MCL6xmg3J6FCQPppKYwSlBl-6982oP9jbTb76uUSEoVIKH6RnV8m2el-LXe85RZAsZQY6Y2OjkkYisP_l0jdkXltLFvlFBs2d9T_Hkcrop0pWPLHZI02BgRb8VNxcMg286gd4qrbHQam8x1DUUYAHPHm7_3oCipap6cSPjdOhiCsbWRLqMiWGEyqi2FdSV8ow
+
+[
+    {
+        "attributeId": 166,
+        "backendName": "Orange",
+        "position": 1,
+        "valueNames": [
+            {
+                "lang": "de",
+                "name": "Orange de"
+            },
+            {
+                "lang": "en",
+                "name": "Orange en"
+            }
+        ]
+    }
+]

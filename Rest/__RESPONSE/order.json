@@ -1,0 +1,663 @@
+{
+    "id": 7126,
+    "referrerId": 14,
+    "roundTotalsOnly": true,
+    "numberOfDecimals": 4,
+    "statusName": "[5] Cleared for shipping ",
+    "plentyId": 31241,
+    "typeId": 1,
+    "lockStatus": "reversibleLocked",
+    "locationId": "2",
+    "createdAt": "2023-02-16T06:36:11+00:00",
+    "updatedAt": "2023-02-16T06:51:03+00:00",
+    "statusId": 5,
+    "ownerId": "6",
+    "relations": [
+        {
+            "orderId": 7126,
+            "referenceType": "warehouse",
+            "referenceId": 1,
+            "relation": "sender"
+        },
+        {
+            "orderId": 7126,
+            "referenceType": "contact",
+            "referenceId": 1517,
+            "relation": "receiver"
+        }
+    ],
+    "properties": [
+        {
+            "orderId": 7126,
+            "typeId": 3,
+            "value": "2",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 6,
+            "value": "en",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 7,
+            "value": "4000000015",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 8,
+            "value": "95",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 66,
+            "value": "Rest",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 68,
+            "value": "rest",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 1040,
+            "value": "flatrate_flatrate",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 1,
+            "value": "1"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 4,
+            "value": "fullyPaid"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 2,
+            "value": "6"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 33,
+            "value": "331"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 65,
+            "value": "1"
+        }
+    ],
+    "dates": [
+        {
+            "orderId": 7126,
+            "typeId": 2,
+            "date": "2023-02-16T06:36:11+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 4,
+            "date": "2023-02-16T06:51:03+00:00"
+        },
+        {
+            "orderId": 7126,
+            "typeId": 3,
+            "date": "2023-02-16T06:36:12+00:00"
+        }
+    ],
+    "contactReceiver": {
+        "id": 1517,
+        "number": "95",
+        "externalId": "95",
+        "typeId": 1,
+        "firstName": "Dylan",
+        "lastName": "Hall",
+        "gender": null,
+        "title": "Prof.",
+        "formOfAddress": "",
+        "newsletterAllowanceAt": "2014-04-09T23:18:24+01:00",
+        "classId": 1,
+        "blocked": 0,
+        "rating": 3,
+        "bookAccount": "",
+        "lang": "de",
+        "referrerId": 14,
+        "userId": 6,
+        "birthdayAt": "1984-03-19T00:00:00+00:00",
+        "lastLoginAt": "2014-04-09T23:18:24+01:00",
+        "lastOrderAt": "2014-04-09T23:18:24+01:00",
+        "createdAt": "2023-02-14T12:36:12+00:00",
+        "updatedAt": "2023-02-18T11:52:59+00:00",
+        "valuta": null,
+        "discountDays": null,
+        "discountPercent": null,
+        "timeForPaymentAllowedDays": null,
+        "salesRepresentativeContactId": null,
+        "anonymizeAt": null,
+        "isLead": false,
+        "leadStatusKey": "",
+        "plentyId": 31241,
+        "email": "beverly.gerlach@softcommerce.io",
+        "ebayName": "",
+        "privatePhone": "+44(0)3704 46635",
+        "privateFax": "",
+        "privateMobile": "",
+        "paypalEmail": "",
+        "paypalPayerId": "",
+        "klarnaPersonalId": "",
+        "dhlPostIdent": "",
+        "singleAccess": "",
+        "contactPerson": "",
+        "marketplacePartner": "",
+        "fullName": "Dylan Hall",
+        "inLeadStatusSince": 0,
+        "options": [
+            {
+                "id": 2722,
+                "contactId": 1517,
+                "typeId": 1,
+                "subTypeId": 3,
+                "value": "030 98898",
+                "priority": 0,
+                "createdAt": "2023-02-18T11:50:21+00:00",
+                "updatedAt": "2023-02-18T11:50:21+00:00"
+            },
+            {
+                "id": 2694,
+                "contactId": 1517,
+                "typeId": 1,
+                "subTypeId": 4,
+                "value": "+44(0)3704 46635",
+                "priority": 0,
+                "createdAt": "2023-02-14T12:36:12+00:00",
+                "updatedAt": "2023-02-18T11:52:59+00:00"
+            },
+            {
+                "id": 2693,
+                "contactId": 1517,
+                "typeId": 2,
+                "subTypeId": 4,
+                "value": "beverly.gerlach@softcommerce.io",
+                "priority": 0,
+                "createdAt": "2023-02-14T12:36:12+00:00",
+                "updatedAt": "2023-02-18T11:52:59+00:00"
+            }
+        ],
+        "accounts": [
+            {
+                "id": 207,
+                "number": null,
+                "companyName": "Thomas-Wright",
+                "taxIdNumber": "",
+                "valuta": "0",
+                "discountDays": "0",
+                "discountPercent": "0.00",
+                "timeForPaymentAllowedDays": "0",
+                "salesRepresentativeContactId": null,
+                "userId": null,
+                "deliveryTime": "0",
+                "dealerMinOrderValue": "0.00",
+                "createdAt": "2023-02-18T14:54:04+00:00",
+                "updatedAt": "2023-02-18T14:54:04+00:00",
+                "supplierCurrency": null,
+                "pivot": {
+                    "contactId": "1517",
+                    "accountId": "207",
+                    "id": "130"
+                }
+            }
+        ]
+    },
+    "contactSender": null,
+    "warehouseReceiver": null,
+    "warehouseSender": {
+        "id": 1,
+        "name": "KS Sales - London",
+        "note": "",
+        "typeId": 0,
+        "onStockAvailability": 1,
+        "outOfStockAvailability": 5,
+        "splitByShippingProfile": false,
+        "storageLocationType": "large",
+        "storageLocationZone": 0,
+        "repairWarehouseId": 102,
+        "isInventoryModeActive": false,
+        "logisticsType": "own",
+        "average_price_source": "0",
+        "reorder_level_dynamic": "0",
+        "createdAt": "2019-03-06T12:48:27+00:00",
+        "updatedAt": "2020-07-13T18:45:43+01:00",
+        "allocationReferrerIds": [
+            "-1"
+        ],
+        "address": {
+            "name1": "KS Sales - London",
+            "address1": "100 New Bond Street",
+            "address2": "100",
+            "postalCode": "w1s 1sp",
+            "town": "London",
+            "countryId": 12,
+            "options": [
+                {
+                    "typeId": 5,
+                    "value": "serhiy@softcommerce.co.uk"
+                },
+                {
+                    "typeId": 4,
+                    "value": "05534453534"
+                }
+            ],
+            "title": "",
+            "contactPerson": "",
+            "taxIdNumber": ""
+        }
+    },
+    "amounts": [
+        {
+            "id": 11733,
+            "orderId": 7126,
+            "isSystemCurrency": true,
+            "isNet": false,
+            "currency": "GBP",
+            "exchangeRate": 1,
+            "netTotal": 35,
+            "grossTotal": 35,
+            "vatTotal": 0,
+            "invoiceTotal": 35,
+            "paidAmount": 35,
+            "giftCardAmount": 0,
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:49:36+00:00",
+            "shippingCostsGross": 3,
+            "shippingCostsNet": 3,
+            "taxlessAmount": 0,
+            "prepaidAmount": 0,
+            "vats": [
+                {
+                    "id": 15645,
+                    "orderAmountId": 11733,
+                    "countryVatId": 4,
+                    "vatField": 2,
+                    "vatRate": 0,
+                    "value": 0,
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00",
+                    "netTotal": 35,
+                    "grossTotal": 35
+                }
+            ]
+        }
+    ],
+    "orderReferences": [],
+    "orderItems": [
+        {
+            "id": 17997,
+            "orderId": 7126,
+            "typeId": 1,
+            "referrerId": 14,
+            "itemVariationId": 33811,
+            "quantity": 1,
+            "orderItemName": "Karissa V-Neck Tee Green XL",
+            "attributeValues": "XL, Green",
+            "shippingProfileId": 6,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00",
+            "warehouseId": 1,
+            "orderProperties": [],
+            "properties": [
+                {
+                    "id": 40103,
+                    "orderItemId": 17997,
+                    "typeId": 1,
+                    "value": "1",
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                },
+                {
+                    "id": 40104,
+                    "orderItemId": 17997,
+                    "typeId": 2,
+                    "value": "6",
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                },
+                {
+                    "id": 40105,
+                    "orderItemId": 17997,
+                    "typeId": 11,
+                    "value": "1000",
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                },
+                {
+                    "id": 40107,
+                    "orderItemId": 17997,
+                    "typeId": 21,
+                    "value": "1",
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                },
+                {
+                    "id": 40106,
+                    "orderItemId": 17997,
+                    "typeId": 29,
+                    "value": "Karissa V-Neck Tee-XL-Green",
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                },
+                {
+                    "id": 40108,
+                    "orderItemId": 17997,
+                    "typeId": 30,
+                    "value": "1",
+                    "createdAt": "2023-02-16T06:36:12+00:00",
+                    "updatedAt": "2023-02-16T06:36:12+00:00"
+                }
+            ],
+            "dates": [],
+            "amounts": [
+                {
+                    "id": 19513,
+                    "orderItemId": 17997,
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 32,
+                    "priceOriginalNet": 32,
+                    "priceGross": 32,
+                    "priceNet": 32,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false,
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                }
+            ],
+            "references": []
+        },
+        {
+            "id": 17998,
+            "orderId": 7126,
+            "typeId": 6,
+            "referrerId": 14,
+            "itemVariationId": 0,
+            "quantity": 1,
+            "orderItemName": "Flat Rate - Fixed",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "createdAt": "2023-02-16T06:36:11+00:00",
+            "updatedAt": "2023-02-16T06:36:11+00:00",
+            "warehouseId": null,
+            "orderProperties": [],
+            "properties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "id": 19514,
+                    "orderItemId": 17998,
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 3,
+                    "priceOriginalNet": 3,
+                    "priceGross": 3,
+                    "priceNet": 3,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false,
+                    "createdAt": "2023-02-16T06:36:11+00:00",
+                    "updatedAt": "2023-02-16T06:36:11+00:00"
+                }
+            ],
+            "references": []
+        }
+    ],
+    "addressRelations": [
+        {
+            "id": 13658,
+            "orderId": 7126,
+            "typeId": 1,
+            "addressId": 6094
+        },
+        {
+            "id": 13659,
+            "orderId": 7126,
+            "typeId": 2,
+            "addressId": 6095
+        }
+    ],
+    "addresses": [
+        {
+            "id": 6094,
+            "gender": "",
+            "name1": "Thomas-Wright",
+            "name2": "Dylan",
+            "name3": "Hall",
+            "name4": "",
+            "address1": "Studio 59",
+            "address2": "Stevens Drives",
+            "address3": "",
+            "address4": "",
+            "postalCode": "NG8 4EN",
+            "town": "Port Helenaside",
+            "countryId": 12,
+            "stateId": null,
+            "readOnly": false,
+            "checkedAt": null,
+            "createdAt": "2023-02-16T06:36:10+00:00",
+            "updatedAt": "2023-02-16T06:36:10+00:00",
+            "title": "",
+            "contactPerson": "",
+            "taxIdNumber": "",
+            "pivot": {
+                "orderId": "7126",
+                "addressId": 6094,
+                "typeId": 1
+            },
+            "options": [
+                {
+                    "id": 14799,
+                    "addressId": 6094,
+                    "typeId": 2,
+                    "value": "81",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                },
+                {
+                    "id": 14800,
+                    "addressId": 6094,
+                    "typeId": 4,
+                    "value": "+44(0)3704 46635",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                },
+                {
+                    "id": 14801,
+                    "addressId": 6094,
+                    "typeId": 5,
+                    "value": "beverly.gerlach@softcommerce.io",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                },
+                {
+                    "id": 14802,
+                    "addressId": 6094,
+                    "typeId": 10,
+                    "value": "45wn1jpdY7U15MLHO4UvUXl45nhkxhvZlFJTPMpB",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                }
+            ]
+        },
+        {
+            "id": 6095,
+            "gender": "",
+            "name1": "Kennedy-Shaw",
+            "name2": "Helen",
+            "name3": "Smith",
+            "name4": "",
+            "address1": "38 Ryan Causeway",
+            "address2": "",
+            "address3": "",
+            "address4": "",
+            "postalCode": "PO35 5XS",
+            "town": "Lake Isobel",
+            "countryId": 12,
+            "stateId": null,
+            "readOnly": false,
+            "checkedAt": null,
+            "createdAt": "2023-02-16T06:36:10+00:00",
+            "updatedAt": "2023-02-16T06:36:10+00:00",
+            "title": "",
+            "contactPerson": "",
+            "taxIdNumber": "",
+            "pivot": {
+                "orderId": "7126",
+                "addressId": 6095,
+                "typeId": 2
+            },
+            "options": [
+                {
+                    "id": 14803,
+                    "addressId": 6095,
+                    "typeId": 4,
+                    "value": "+44(0)7569 970005",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                },
+                {
+                    "id": 14804,
+                    "addressId": 6095,
+                    "typeId": 5,
+                    "value": "beverly.gerlach@softcommerce.io",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                },
+                {
+                    "id": 14805,
+                    "addressId": 6095,
+                    "typeId": 10,
+                    "value": "h3bMt5MzZ5smVPfaIjenfIZVgGUdCSnjljzThq8Z",
+                    "position": 0,
+                    "createdAt": "2023-02-16T06:36:10+00:00",
+                    "updatedAt": "2023-02-16T06:36:10+00:00"
+                }
+            ]
+        }
+    ],
+    "location": {
+        "id": 2,
+        "countryId": 12,
+        "name": "United Kingdom",
+        "clientId": 0,
+        "plentyId": 31241
+    },
+    "payments": [
+        {
+            "id": 5777,
+            "amount": 35,
+            "exchangeRatio": 0,
+            "mopId": 2,
+            "parentId": null,
+            "deleted": null,
+            "unaccountable": 0,
+            "currency": "GBP",
+            "type": "credit",
+            "hash": "218ee683f82a40c122c28181d9b196bd",
+            "receivedAt": "2023-02-16 06:36:12",
+            "importedAt": "2023-02-16T06:36:12+00:00",
+            "status": 2,
+            "transactionType": 2,
+            "isSystemCurrency": "1",
+            "pivot": {
+                "orderId": "7126",
+                "paymentId": "5777"
+            }
+        }
+    ],
+    "documents": [
+        {
+            "id": 900,
+            "type": "delivery_note",
+            "number": "405",
+            "numberWithPrefix": "405",
+            "directoryId": null,
+            "path": "2023\/delivery_note\/2023-02-16\/31241\/delivery_note_405.pdf",
+            "userId": "6",
+            "source": "admin",
+            "createdAt": "2023-02-16T06:49:36+00:00",
+            "updatedAt": "2023-02-16T06:49:36+00:00",
+            "displayDate": "2023-02-16T06:49:36+00:00",
+            "newOrderArchitecture": "1",
+            "status": "done",
+            "pivot": {
+                "plenty_document_reference_value": "7126",
+                "plenty_document_reference_document_id": "900"
+            }
+        },
+        {
+            "id": 901,
+            "type": "invoice",
+            "number": "331",
+            "numberWithPrefix": "331",
+            "directoryId": null,
+            "path": "2023\/invoice\/2023-02-16\/31241\/invoice_331.pdf",
+            "userId": "6",
+            "source": "admin",
+            "createdAt": "2023-02-16T06:49:36+00:00",
+            "updatedAt": "2023-02-16T06:49:37+00:00",
+            "displayDate": "2023-02-16T06:49:36+00:00",
+            "newOrderArchitecture": "1",
+            "status": "done",
+            "pivot": {
+                "plenty_document_reference_value": "7126",
+                "plenty_document_reference_document_id": "901"
+            }
+        }
+    ],
+    "comments": [],
+    "originOrderReferences": [
+        {
+            "id": 77,
+            "orderId": "7128",
+            "originOrderId": "7126",
+            "referenceOrderId": "7126",
+            "referenceType": "parent",
+            "createdAt": "2023-02-16T06:51:03+00:00",
+            "updatedAt": "2023-02-16T06:51:03+00:00"
+        }
+    ],
+    "shippingPackages": [],
+    "shippingInformation": null,
+    "paymentTerms": null
+}

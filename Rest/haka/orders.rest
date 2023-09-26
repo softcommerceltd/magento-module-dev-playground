@@ -1,0 +1,130 @@
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/orders/365034
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+###
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/orders/554828?with[]=documents&with[]=payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+###
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/documents/10
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+###
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments/251809
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+###
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/orders
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+{
+    "referrerId": 10,
+    "roundTotalsOnly": true,
+    "numberOfDecimals": 4,
+    "statusName": "[5] Cleared for shipping",
+    "plentyId": 51114,
+    "typeId": 1,
+    "lockStatus": "unlocked",
+    "locationId": "2",
+    "statusId": 5,
+    "ownerId": 9,
+    "orderItems": [
+        {
+            "typeId": 1,
+            "referrerId": 9,
+            "itemVariationId": 34484,
+            "quantity": 1,
+            "orderItemName": "24-WG01",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": 1,
+            "orderProperties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 82,
+                    "priceOriginalNet": 82,
+                    "priceGross": 82,
+                    "priceNet": 82,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": []
+        },
+        {
+            "typeId": 6,
+            "referrerId": 9,
+            "itemVariationId": 0,
+            "quantity": 1,
+            "orderItemName": "Flat Rate - Fixed",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": null,
+            "orderProperties": [],
+            "properties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 10,
+                    "priceOriginalNet": 10,
+                    "priceGross": 10,
+                    "priceNet": 10,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": []
+        }
+    ]
+}
+
+### 16000306524,16000306002
+
+###
+PUT https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/orders/108939
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZTNjMGY3OGQyYzY4OGVjMTkyNmZkZjFmNTc2NGMwYmE2OTJhNGUyZGZkYzdjY2Y1OWI4MzJjMDE5OGJhYmQ2YTUxYjZhYjI3ZDE1MDgzOWYiLCJpYXQiOjE2ODgzODIwNzIuOTg2NiwibmJmIjoxNjg4MzgyMDcyLjk4NjYsImV4cCI6MTY4ODQ2ODQ3Mi45ODQ2LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.cYbxLHCmvrxyKBbjI06QTGwg2VVDszQK8nCgeSQAfss-mr1_v6IWxN8jZM_civcoTEOrX6lsdU-Fh-Cmj7rZ8UInxu9ZpJvMh-PVZf3C9NgPeWN9c1YnTophkZDf12JCqhyB3QBT33wMwniYbV6SwdnPaVLFvJVBplMPcUXaQHoXLJdwXobcW6JmmStelI1bbllW-OO66Yc5ILz1eDA32XGkejh7t9LXPPgbUNFZ8beaPWKt9C4qZFXseeSgvFcMa7CLZtqPns1VWxj9FrDWNqzvJ8Rxk-liZuusGGOHYg26D9by2YoNKxjdisa_kcVBxnuZhXIQtmEJZ-mWbVjqsimuyPy5nqv48TXmvUIDCgtVUyKTxAYB7DniEuZ6R5Dsqmo_BCA0DyDNNAd71Osekc1ym0nx9B61a8NFC4kz9dRbSvAI_rz51DpVEOVlpW_JbUrxzUAi8MEpD7jUS5HhatsoYiN_UzpdCTtsx5XvD3p1StOrZJWFXb6IFU0HH094sr9DsNMgw6Xnm1S7LSR69eJNpMlsJtx0YjqPiytxZ-r6RqcG1hN0HBt2uA1juhNGfR4a0iQmex72wvUAHi1UEkKYizb2LjbTux17_vPJ7axXL63nwvBysXGscJ1fuVvv9NBu98lR0vgQouCAmWpz-oZFaE2gaPyXLm7wHkcIqMM
+
+{
+    "id": 108939,
+    "relations": [
+        {
+            "referenceType": "contact",
+            "referenceId": 86900,
+            "relation": "receiver"
+        }
+    ]
+}
+
+
+

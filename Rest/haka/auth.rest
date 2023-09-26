@@ -1,0 +1,32 @@
+### - DEV
+
+### -- login
+POST https://5lb6aot5e3yq.c01-17.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "skorohoda",
+    "password": "GiV6P0lEI4M8"
+}
+
+### - PRODUCTION
+### -- login
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "softcom",
+    "password": "wT4eX8uZ5dI0bW1nS2tU"
+}
+
+### -- Refresh token
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/login/refresh
+Accept: application/json
+Content-Type: application/json
+
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "def502004dda95923369f80be53046810be1bf3b5a8f98cd37e14717fa80cc48f502c9d159b4f9a1dd18dd41bc59219bd820358a438165b3df5e6ffdfb5983bd67ff92716caaa7bbbd39cbed79d07e2349433bb48578e3b06ab332dee5976cfcdd1ea24eb754ce29be2deb2f95a01c40866d36e49f6d822d8cb3ac54b629d88962cc6e9d21a96b68e4a6a899895e833407a779fce147d5c16f07b7a5c1ca771068e4c78fe5004c6ca765dfacfa65a81059be0984cb3573170dda9c759698b1e260cb6ab570ec9d81c1fe40eca22fb0c766cd2742f1f3804e6b7537b9fc4cc330255b7000b71d68413e38e1f5e62d4e37cb3ec2a222c65e1ade6ef4859749b71939ffa69a58af8c87c52f541df4776f066f60075b4780452cf61d9f251f8c71f7a74bdc75601a0b880e4650a44385abcd054329264442541abc956b8c0e035df59eeb8bd33d95482a4e97546d198c007b675fff56c851e1cb56e25e8c42685407ab5cfd45"
+}

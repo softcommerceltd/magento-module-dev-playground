@@ -1,0 +1,2454 @@
+{
+  "page": 1,
+  "totalsCount": 34,
+  "isLastPage": true,
+  "lastPageNumber": 1,
+  "firstOnPage": 1,
+  "lastOnPage": 34,
+  "itemsPerPage": 50,
+  "entries": [
+    {
+      "id": 4053,
+      "propertyId": 261,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-06-30T10:02:47+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 261,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 19,
+            "propertyId": 261,
+            "lang": "en",
+            "name": "meta_title",
+            "description": "Meta Title",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 5,
+          "relationId": 4053,
+          "lang": "en",
+          "value": "Summit Watch",
+          "description": "",
+          "createdAt": "2021-06-30T10:02:47+01:00",
+          "updatedAt": "2021-06-30T10:02:47+01:00"
+        },
+        {
+          "id": 18,
+          "relationId": 4053,
+          "lang": "de",
+          "value": "Summit Watch DE",
+          "description": "",
+          "createdAt": "2021-07-20T20:22:20+01:00",
+          "updatedAt": "2021-09-24T12:49:29+01:00"
+        },
+        {
+          "id": 75,
+          "relationId": 4053,
+          "lang": "fr",
+          "value": "Summit Watch FR",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4349,
+      "propertyId": 263,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-19T11:37:06+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 263,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 18,
+            "propertyId": 263,
+            "lang": "en",
+            "name": "meta_description",
+            "description": "Meta Description",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 16,
+          "relationId": 4349,
+          "lang": "en",
+          "value": "<p>Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch<\/p>",
+          "description": "",
+          "createdAt": "2021-07-19T11:37:13+01:00",
+          "updatedAt": "2021-07-19T11:37:13+01:00"
+        },
+        {
+          "id": 19,
+          "relationId": 4349,
+          "lang": "de",
+          "value": "<p>Summit Watch DE<\/p>",
+          "description": "",
+          "createdAt": "2021-07-20T20:22:20+01:00",
+          "updatedAt": "2021-07-20T20:22:20+01:00"
+        },
+        {
+          "id": 81,
+          "relationId": 4349,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4353,
+      "propertyId": 244,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-19T11:40:14+01:00",
+      "updatedAt": "2021-07-19T11:40:14+01:00",
+      "property": {
+        "id": 244,
+        "cast": "selection",
+        "type": "item",
+        "position": 11,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-07-30T11:20:46+01:00",
+        "names": [
+          {
+            "id": 158,
+            "propertyId": 244,
+            "lang": "en",
+            "name": "attribute_set_code",
+            "description": "Attribute set used in Magento to group attributes.",
+            "createdAt": "2021-07-30T11:20:46+01:00",
+            "updatedAt": "2021-07-30T11:20:46+01:00"
+          },
+          {
+            "id": 159,
+            "propertyId": 244,
+            "lang": "nl",
+            "name": "attribute_set_code de",
+            "description": "Attribute set used in magento to group attributes.",
+            "createdAt": "2021-07-30T11:20:46+01:00",
+            "updatedAt": "2021-07-30T11:20:46+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 78,
+          "relationId": 4353,
+          "selectionId": 653,
+          "createdAt": "2021-07-19T11:40:33+01:00",
+          "updatedAt": "2021-07-21T11:21:58+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4354,
+      "propertyId": 249,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-19T11:40:14+01:00",
+      "updatedAt": "2021-07-19T11:40:14+01:00",
+      "property": {
+        "id": 249,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 31,
+            "propertyId": 249,
+            "lang": "en",
+            "name": "status",
+            "description": "Enable Product",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 79,
+          "relationId": 4354,
+          "selectionId": 553,
+          "createdAt": "2021-07-19T11:40:33+01:00",
+          "updatedAt": "2021-07-20T21:23:11+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4355,
+      "propertyId": 250,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-19T11:40:14+01:00",
+      "updatedAt": "2021-07-19T11:40:14+01:00",
+      "property": {
+        "id": 250,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 30,
+            "propertyId": 250,
+            "lang": "en",
+            "name": "tax_class_id",
+            "description": "Tax Class",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 80,
+          "relationId": 4355,
+          "selectionId": 554,
+          "createdAt": "2021-07-19T11:40:33+01:00",
+          "updatedAt": "2021-07-19T11:40:33+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4356,
+      "propertyId": 281,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "10.2",
+      "markup": 0,
+      "createdAt": "2021-07-19T11:40:14+01:00",
+      "updatedAt": "2021-08-03T17:07:49+01:00",
+      "property": {
+        "id": 281,
+        "cast": "float",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-07-19T11:03:05+01:00",
+        "updatedAt": "2021-07-19T11:03:05+01:00",
+        "names": [
+          {
+            "id": 77,
+            "propertyId": 281,
+            "lang": "de",
+            "name": "Float DE",
+            "description": "",
+            "createdAt": "2021-07-19T11:03:19+01:00",
+            "updatedAt": "2021-07-19T11:03:19+01:00"
+          },
+          {
+            "id": 78,
+            "propertyId": 281,
+            "lang": "en",
+            "name": "Float",
+            "description": "",
+            "createdAt": "2021-07-19T11:03:19+01:00",
+            "updatedAt": "2021-07-19T11:03:19+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4357,
+      "propertyId": 282,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "30",
+      "markup": 0,
+      "createdAt": "2021-07-19T11:40:14+01:00",
+      "updatedAt": "2022-02-21T12:12:17+00:00",
+      "property": {
+        "id": 282,
+        "cast": "int",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-07-19T11:35:07+01:00",
+        "updatedAt": "2021-07-19T11:35:07+01:00",
+        "names": [
+          {
+            "id": 79,
+            "propertyId": 282,
+            "lang": "de",
+            "name": "Int DE",
+            "description": "",
+            "createdAt": "2021-07-19T11:35:07+01:00",
+            "updatedAt": "2021-07-19T11:35:07+01:00"
+          },
+          {
+            "id": 80,
+            "propertyId": 282,
+            "lang": "en",
+            "name": "Int",
+            "description": "",
+            "createdAt": "2021-07-19T11:35:07+01:00",
+            "updatedAt": "2021-07-19T11:35:07+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4360,
+      "propertyId": 246,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2021-07-20T21:01:46+01:00",
+      "property": {
+        "id": 246,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 34,
+            "propertyId": 246,
+            "lang": "en",
+            "name": "country_of_manufacture",
+            "description": "Country of Manufacture",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 262,
+          "relationId": 4360,
+          "selectionId": 695,
+          "createdAt": "2021-08-02T08:41:23+01:00",
+          "updatedAt": "2021-08-02T08:41:23+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4361,
+      "propertyId": 251,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "2021-07-05 00:00:00",
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2021-07-20T21:09:38+01:00",
+      "property": {
+        "id": 251,
+        "cast": "date",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 29,
+            "propertyId": 251,
+            "lang": "en",
+            "name": "news_from_date",
+            "description": "Set Product as New from Date",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4362,
+      "propertyId": 252,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "2022-01-21 00:00:00",
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2021-07-20T21:09:38+01:00",
+      "property": {
+        "id": 252,
+        "cast": "date",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 28,
+            "propertyId": 252,
+            "lang": "en",
+            "name": "news_to_date",
+            "description": "Set Product as New to Date",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4363,
+      "propertyId": 255,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2022-02-21T12:13:57+00:00",
+      "property": {
+        "id": 255,
+        "cast": "multiSelection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 25,
+            "propertyId": 255,
+            "lang": "en",
+            "name": "gender",
+            "description": "Gender",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 689,
+          "relationId": 4363,
+          "selectionId": 558,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4364,
+      "propertyId": 256,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2021-07-20T21:01:46+01:00",
+      "property": {
+        "id": 256,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 24,
+            "propertyId": 256,
+            "lang": "en",
+            "name": "eco_collection",
+            "description": "Eco Collection",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 89,
+          "relationId": 4364,
+          "selectionId": 559,
+          "createdAt": "2021-07-20T21:09:38+01:00",
+          "updatedAt": "2021-07-20T21:09:38+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4365,
+      "propertyId": 257,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2021-07-20T21:01:46+01:00",
+      "property": {
+        "id": 257,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 23,
+            "propertyId": 257,
+            "lang": "en",
+            "name": "performance_fabric",
+            "description": "Performance Fabric",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 90,
+          "relationId": 4365,
+          "selectionId": 560,
+          "createdAt": "2021-07-20T21:09:38+01:00",
+          "updatedAt": "2021-07-20T21:09:38+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4366,
+      "propertyId": 265,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2022-02-21T12:13:57+00:00",
+      "property": {
+        "id": 265,
+        "cast": "multiSelection",
+        "type": "item",
+        "position": 11,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-07-29T12:16:59+01:00",
+        "names": [
+          {
+            "id": 157,
+            "propertyId": 265,
+            "lang": "en",
+            "name": "activity",
+            "description": "Activity",
+            "createdAt": "2021-07-29T12:16:59+01:00",
+            "updatedAt": "2021-07-29T12:16:59+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 690,
+          "relationId": 4366,
+          "selectionId": 563,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        },
+        {
+          "id": 691,
+          "relationId": 4366,
+          "selectionId": 564,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4367,
+      "propertyId": 266,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-20T21:01:46+01:00",
+      "updatedAt": "2022-02-21T12:13:57+00:00",
+      "property": {
+        "id": 266,
+        "cast": "multiSelection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 14,
+            "propertyId": 266,
+            "lang": "en",
+            "name": "category_gear",
+            "description": "Category Gear",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 692,
+          "relationId": 4367,
+          "selectionId": 565,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        },
+        {
+          "id": 693,
+          "relationId": 4367,
+          "selectionId": 566,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4369,
+      "propertyId": 275,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "33.33",
+      "markup": 0,
+      "createdAt": "2021-07-21T10:58:36+01:00",
+      "updatedAt": "2021-08-03T17:07:49+01:00",
+      "property": {
+        "id": 275,
+        "cast": "float",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 103,
+            "propertyId": 275,
+            "lang": "en",
+            "name": "msrp",
+            "description": "Minimum Advertised Price",
+            "createdAt": "2021-07-21T10:58:20+01:00",
+            "updatedAt": "2021-07-21T10:58:20+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4370,
+      "propertyId": 291,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "Character string test",
+      "markup": 0,
+      "createdAt": "2021-07-21T14:18:17+01:00",
+      "updatedAt": "2021-08-03T17:07:49+01:00",
+      "property": {
+        "id": 291,
+        "cast": "string",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-07-21T14:17:25+01:00",
+        "updatedAt": "2021-07-21T14:17:25+01:00",
+        "names": [
+          {
+            "id": 164,
+            "propertyId": 291,
+            "lang": "en",
+            "name": "Character string",
+            "description": "",
+            "createdAt": "2021-07-30T14:16:12+01:00",
+            "updatedAt": "2021-07-30T14:16:12+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4371,
+      "propertyId": 293,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-21T15:15:07+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 293,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-07-21T14:38:11+01:00",
+        "updatedAt": "2021-07-21T14:38:11+01:00",
+        "names": [
+          {
+            "id": 112,
+            "propertyId": 293,
+            "lang": "0",
+            "name": "supplier_item_name",
+            "description": "supplier_item_name ::: lang 0",
+            "createdAt": "2021-07-21T14:38:11+01:00",
+            "updatedAt": "2021-07-21T14:38:11+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 20,
+          "relationId": 4371,
+          "lang": "en",
+          "value": "gold gold",
+          "description": "",
+          "createdAt": "2021-07-21T15:15:07+01:00",
+          "updatedAt": "2021-07-21T15:15:07+01:00"
+        },
+        {
+          "id": 21,
+          "relationId": 4371,
+          "lang": "de",
+          "value": "Gold gold gold",
+          "description": "Gold",
+          "createdAt": "2021-07-21T15:15:07+01:00",
+          "updatedAt": "2021-07-21T15:15:07+01:00"
+        },
+        {
+          "id": 76,
+          "relationId": 4371,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4382,
+      "propertyId": 294,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-07-24T17:33:08+01:00",
+      "updatedAt": "2021-07-24T17:33:08+01:00",
+      "property": {
+        "id": 294,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-07-21T14:52:22+01:00",
+        "updatedAt": "2021-07-21T14:52:22+01:00",
+        "names": [
+          {
+            "id": 138,
+            "propertyId": 294,
+            "lang": "en",
+            "name": "selection_one_go_test",
+            "description": "selection_one_go_test test",
+            "createdAt": "2021-07-25T10:35:36+01:00",
+            "updatedAt": "2021-07-25T10:35:36+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 163,
+          "relationId": 4382,
+          "selectionId": 660,
+          "createdAt": "2021-07-24T17:33:08+01:00",
+          "updatedAt": "2021-07-24T17:33:08+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4442,
+      "propertyId": 279,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 279,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 1,
+            "propertyId": 279,
+            "lang": "en",
+            "name": "size",
+            "description": "Size",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 258,
+          "relationId": 4442,
+          "selectionId": 603,
+          "createdAt": "2021-08-02T08:41:21+01:00",
+          "updatedAt": "2021-08-02T08:41:21+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4443,
+      "propertyId": 245,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 245,
+        "cast": "selection",
+        "type": "item",
+        "position": 111,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-07-23T20:05:46+01:00",
+        "names": [
+          {
+            "id": 125,
+            "propertyId": 245,
+            "lang": "en",
+            "name": "manufacturer",
+            "description": "Manufacturer",
+            "createdAt": "2021-07-23T20:18:40+01:00",
+            "updatedAt": "2021-07-23T20:18:40+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 259,
+          "relationId": 4443,
+          "selectionId": 694,
+          "createdAt": "2021-08-02T08:41:21+01:00",
+          "updatedAt": "2021-08-02T08:41:21+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4444,
+      "propertyId": 254,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 254,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 26,
+            "propertyId": 254,
+            "lang": "en",
+            "name": "color",
+            "description": "Color",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 260,
+          "relationId": 4444,
+          "selectionId": 557,
+          "createdAt": "2021-08-02T08:41:21+01:00",
+          "updatedAt": "2021-08-02T08:41:21+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4445,
+      "propertyId": 299,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 299,
+        "cast": "selection",
+        "type": "item",
+        "position": 14,
+        "createdAt": "2021-07-25T18:01:43+01:00",
+        "updatedAt": "2022-02-16T06:54:48+00:00",
+        "names": [
+          {
+            "id": 152,
+            "propertyId": 299,
+            "lang": "de",
+            "name": "yes_no_attribute",
+            "description": "Yes\/No Attribute",
+            "createdAt": "2021-07-27T11:45:48+01:00",
+            "updatedAt": "2021-07-27T11:45:48+01:00"
+          },
+          {
+            "id": 153,
+            "propertyId": 299,
+            "lang": "en",
+            "name": "yes_no_attribute",
+            "description": "Yes\/No Attribute",
+            "createdAt": "2021-07-27T11:45:48+01:00",
+            "updatedAt": "2021-07-27T11:45:48+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 261,
+          "relationId": 4445,
+          "selectionId": 679,
+          "createdAt": "2021-08-02T08:41:21+01:00",
+          "updatedAt": "2021-08-02T08:41:21+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4446,
+      "propertyId": 262,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 262,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 17,
+            "propertyId": 262,
+            "lang": "en",
+            "name": "meta_keyword",
+            "description": "Meta Keywords",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 48,
+          "relationId": 4446,
+          "lang": "en",
+          "value": "<p>key words<\/p>",
+          "description": "",
+          "createdAt": "2021-08-02T08:41:21+01:00",
+          "updatedAt": "2021-08-03T17:08:31+01:00"
+        },
+        {
+          "id": 73,
+          "relationId": 4446,
+          "lang": "de",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:48:36+01:00",
+          "updatedAt": "2021-09-24T12:48:36+01:00"
+        },
+        {
+          "id": 82,
+          "relationId": 4446,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4447,
+      "propertyId": 270,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "2020-11-21 00:00:00",
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 270,
+        "cast": "date",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 193,
+            "propertyId": 270,
+            "lang": "en",
+            "name": "special_from_date",
+            "description": "Special Price From Date",
+            "createdAt": "2021-08-08T10:26:26+01:00",
+            "updatedAt": "2021-08-08T10:26:26+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4448,
+      "propertyId": 271,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "2020-12-31 00:00:00",
+      "markup": 0,
+      "createdAt": "2021-08-02T08:41:21+01:00",
+      "updatedAt": "2021-08-02T08:41:21+01:00",
+      "property": {
+        "id": 271,
+        "cast": "date",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 9,
+            "propertyId": 271,
+            "lang": "en",
+            "name": "special_to_date",
+            "description": "Special Price To Date",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4449,
+      "propertyId": 302,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:54+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 302,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:49+01:00",
+        "updatedAt": "2021-08-02T09:10:49+01:00",
+        "names": [
+          {
+            "id": 167,
+            "propertyId": 302,
+            "lang": "en",
+            "name": "property_type_int",
+            "description": "Property Type Int",
+            "createdAt": "2021-08-02T09:10:49+01:00",
+            "updatedAt": "2021-08-02T09:10:49+01:00"
+          },
+          {
+            "id": 168,
+            "propertyId": 302,
+            "lang": "de",
+            "name": "property_type_int",
+            "description": "Property Type Int",
+            "createdAt": "2021-08-02T09:10:49+01:00",
+            "updatedAt": "2021-08-02T09:10:49+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 54,
+          "relationId": 4449,
+          "lang": "en",
+          "value": "123",
+          "description": "",
+          "createdAt": "2021-08-02T09:48:52+01:00",
+          "updatedAt": "2021-08-02T09:48:52+01:00"
+        },
+        {
+          "id": 72,
+          "relationId": 4449,
+          "lang": "de",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:48:35+01:00",
+          "updatedAt": "2021-09-24T12:48:35+01:00"
+        },
+        {
+          "id": 79,
+          "relationId": 4449,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4451,
+      "propertyId": 304,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:54+01:00",
+      "updatedAt": "2021-08-02T09:10:54+01:00",
+      "property": {
+        "id": 304,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:50+01:00",
+        "updatedAt": "2021-08-02T09:10:50+01:00",
+        "names": [
+          {
+            "id": 171,
+            "propertyId": 304,
+            "lang": "en",
+            "name": "property_type_boolean",
+            "description": "Property Type Boolean",
+            "createdAt": "2021-08-02T09:10:50+01:00",
+            "updatedAt": "2021-08-02T09:10:50+01:00"
+          },
+          {
+            "id": 172,
+            "propertyId": 304,
+            "lang": "de",
+            "name": "property_type_boolean",
+            "description": "Property Type Boolean",
+            "createdAt": "2021-08-02T09:10:50+01:00",
+            "updatedAt": "2021-08-02T09:10:50+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 268,
+          "relationId": 4451,
+          "selectionId": 696,
+          "createdAt": "2021-08-02T09:10:54+01:00",
+          "updatedAt": "2021-08-02T09:10:54+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4452,
+      "propertyId": 305,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:54+01:00",
+      "updatedAt": "2021-08-02T09:10:54+01:00",
+      "property": {
+        "id": 305,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:51+01:00",
+        "updatedAt": "2021-08-02T09:10:51+01:00",
+        "names": [
+          {
+            "id": 173,
+            "propertyId": 305,
+            "lang": "en",
+            "name": "property_type_select",
+            "description": "Property Type Select",
+            "createdAt": "2021-08-02T09:10:51+01:00",
+            "updatedAt": "2021-08-02T09:10:51+01:00"
+          },
+          {
+            "id": 174,
+            "propertyId": 305,
+            "lang": "de",
+            "name": "property_type_select",
+            "description": "Property Type Select",
+            "createdAt": "2021-08-02T09:10:51+01:00",
+            "updatedAt": "2021-08-02T09:10:51+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 269,
+          "relationId": 4452,
+          "selectionId": 697,
+          "createdAt": "2021-08-02T09:10:54+01:00",
+          "updatedAt": "2021-08-02T09:10:54+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4453,
+      "propertyId": 306,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:54+01:00",
+      "updatedAt": "2022-02-21T12:13:57+00:00",
+      "property": {
+        "id": 306,
+        "cast": "multiSelection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:52+01:00",
+        "updatedAt": "2021-08-02T09:10:52+01:00",
+        "names": [
+          {
+            "id": 175,
+            "propertyId": 306,
+            "lang": "en",
+            "name": "property_type_multiselect",
+            "description": "Property Type Multiselect",
+            "createdAt": "2021-08-02T09:10:52+01:00",
+            "updatedAt": "2021-08-02T09:10:52+01:00"
+          },
+          {
+            "id": 176,
+            "propertyId": 306,
+            "lang": "de",
+            "name": "property_type_multiselect",
+            "description": "Property Type Multiselect",
+            "createdAt": "2021-08-02T09:10:52+01:00",
+            "updatedAt": "2021-08-02T09:10:52+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 694,
+          "relationId": 4453,
+          "selectionId": 698,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        },
+        {
+          "id": 695,
+          "relationId": 4453,
+          "selectionId": 699,
+          "createdAt": "2022-02-21T12:13:57+00:00",
+          "updatedAt": "2022-02-21T12:13:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4454,
+      "propertyId": 307,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:54+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 307,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:53+01:00",
+        "updatedAt": "2021-08-02T09:10:53+01:00",
+        "names": [
+          {
+            "id": 177,
+            "propertyId": 307,
+            "lang": "en",
+            "name": "property_type_text",
+            "description": "Property Type Text",
+            "createdAt": "2021-08-02T09:10:53+01:00",
+            "updatedAt": "2021-08-02T09:10:53+01:00"
+          },
+          {
+            "id": 178,
+            "propertyId": 307,
+            "lang": "de",
+            "name": "property_type_text",
+            "description": "Property Type Text",
+            "createdAt": "2021-08-02T09:10:53+01:00",
+            "updatedAt": "2021-08-02T09:10:53+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 49,
+          "relationId": 4454,
+          "lang": "en",
+          "value": "Property Type Text EN",
+          "description": "",
+          "createdAt": "2021-08-02T09:10:55+01:00",
+          "updatedAt": "2021-08-02T09:10:55+01:00"
+        },
+        {
+          "id": 50,
+          "relationId": 4454,
+          "lang": "de",
+          "value": "Property Type Text DE",
+          "description": "",
+          "createdAt": "2021-08-02T09:10:55+01:00",
+          "updatedAt": "2021-08-02T09:10:55+01:00"
+        },
+        {
+          "id": 80,
+          "relationId": 4454,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4455,
+      "propertyId": 308,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-08-02T09:10:55+01:00",
+      "updatedAt": "2021-09-24T12:49:43+01:00",
+      "property": {
+        "id": 308,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:54+01:00",
+        "updatedAt": "2021-08-02T09:10:54+01:00",
+        "names": [
+          {
+            "id": 179,
+            "propertyId": 308,
+            "lang": "en",
+            "name": "property_type_html",
+            "description": "Property Type Html",
+            "createdAt": "2021-08-02T09:10:54+01:00",
+            "updatedAt": "2021-08-02T09:10:54+01:00"
+          },
+          {
+            "id": 180,
+            "propertyId": 308,
+            "lang": "de",
+            "name": "property_type_html",
+            "description": "Property Type Html",
+            "createdAt": "2021-08-02T09:10:54+01:00",
+            "updatedAt": "2021-08-02T09:10:54+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 51,
+          "relationId": 4455,
+          "lang": "en",
+          "value": "<p>Property Type Html EN<\/p>",
+          "description": "",
+          "createdAt": "2021-08-02T09:10:55+01:00",
+          "updatedAt": "2021-08-03T17:08:31+01:00"
+        },
+        {
+          "id": 52,
+          "relationId": 4455,
+          "lang": "de",
+          "value": "<p>Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE Property Type Html DE<\/p>",
+          "description": "",
+          "createdAt": "2021-08-02T09:10:55+01:00",
+          "updatedAt": "2021-09-24T12:48:36+01:00"
+        },
+        {
+          "id": 83,
+          "relationId": 4455,
+          "lang": "fr",
+          "value": "",
+          "description": "",
+          "createdAt": "2021-09-24T12:49:43+01:00",
+          "updatedAt": "2021-09-24T12:49:43+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4544,
+      "propertyId": 309,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34494,
+      "value": "20.99",
+      "markup": 0,
+      "createdAt": "2021-09-22T14:13:28+01:00",
+      "updatedAt": "2021-09-22T14:13:40+01:00",
+      "property": {
+        "id": 309,
+        "cast": "float",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:50:45+01:00",
+        "updatedAt": "2021-08-02T09:50:45+01:00",
+        "names": [
+          {
+            "id": 181,
+            "propertyId": 309,
+            "lang": "en",
+            "name": "property_type_decimal",
+            "description": "Property Type Decimal",
+            "createdAt": "2021-08-02T09:50:45+01:00",
+            "updatedAt": "2021-08-02T09:50:45+01:00"
+          },
+          {
+            "id": 182,
+            "propertyId": 309,
+            "lang": "de",
+            "name": "property_type_decimal",
+            "description": "Property Type Decimal",
+            "createdAt": "2021-08-02T09:50:45+01:00",
+            "updatedAt": "2021-08-02T09:50:45+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4572,
+      "propertyId": 318,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34494,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2021-10-26T14:11:18+01:00",
+      "updatedAt": "2021-10-26T16:23:32+01:00",
+      "property": {
+        "id": 318,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-10-26T14:10:13+01:00",
+        "updatedAt": "2021-10-26T14:10:13+01:00",
+        "names": [
+          {
+            "id": 196,
+            "propertyId": 318,
+            "lang": "de",
+            "name": "meta_title_2",
+            "description": "",
+            "createdAt": "2021-10-26T14:10:13+01:00",
+            "updatedAt": "2021-10-26T14:10:31+01:00"
+          },
+          {
+            "id": 197,
+            "propertyId": 318,
+            "lang": "en",
+            "name": "meta_title_2",
+            "description": "",
+            "createdAt": "2021-10-26T14:10:13+01:00",
+            "updatedAt": "2021-10-26T14:10:31+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 84,
+          "relationId": 4572,
+          "lang": "en",
+          "value": "Summit Watch 2",
+          "description": "",
+          "createdAt": "2021-10-26T14:11:34+01:00",
+          "updatedAt": "2021-10-26T14:11:34+01:00"
+        },
+        {
+          "id": 85,
+          "relationId": 4572,
+          "lang": "de",
+          "value": "Summit Watch 2 DE",
+          "description": "",
+          "createdAt": "2021-10-26T16:23:32+01:00",
+          "updatedAt": "2021-10-26T16:23:32+01:00"
+        }
+      ],
+      "selectionValues": []
+    }
+  ]
+}

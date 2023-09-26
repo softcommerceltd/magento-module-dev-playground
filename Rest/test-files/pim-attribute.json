@@ -1,0 +1,2822 @@
+{
+  "page": 1,
+  "totalsCount": 7,
+  "isLastPage": true,
+  "lastPageNumber": 1,
+  "firstOnPage": 1,
+  "lastOnPage": 7,
+  "itemsPerPage": 50,
+  "entries": [
+    {
+      "id": 1,
+      "backendName": "color",
+      "position": 2,
+      "isSurchargePercental": false,
+      "isLinkableToImage": true,
+      "amazonAttribute": "",
+      "fruugoAttribute": "color",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "",
+      "googleShoppingAttribute": "",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": false,
+      "updatedAt": "2021-01-10T09:03:16+00:00",
+      "attributeNames": [
+        {
+          "attributeId": "1",
+          "lang": "de",
+          "name": "Color DE"
+        },
+        {
+          "attributeId": "1",
+          "lang": "en",
+          "name": "Color"
+        },
+        {
+          "attributeId": "1",
+          "lang": "it",
+          "name": "Colour IT"
+        },
+        {
+          "attributeId": "1",
+          "lang": "pl",
+          "name": "Colour PL"
+        },
+        {
+          "attributeId": "1",
+          "lang": "ru",
+          "name": "Colour RU"
+        }
+      ],
+      "values": [
+        {
+          "id": 1,
+          "attributeId": 1,
+          "backendName": "Black",
+          "position": 1,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-25T13:44:44+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "1",
+              "name": "Black"
+            },
+            {
+              "lang": "en",
+              "valueId": "1",
+              "name": "Black"
+            },
+            {
+              "lang": "it",
+              "valueId": "1",
+              "name": "Black it"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "attributeId": 1,
+          "backendName": "Red",
+          "position": 3,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-25T15:45:55+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "3",
+              "name": "Red DE"
+            },
+            {
+              "lang": "en",
+              "valueId": "3",
+              "name": "Red"
+            },
+            {
+              "lang": "it",
+              "valueId": "3",
+              "name": "Red it"
+            }
+          ]
+        },
+        {
+          "id": 158,
+          "attributeId": 1,
+          "backendName": "Purple",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2019-07-03T10:22:46+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "158",
+              "name": "Purple"
+            },
+            {
+              "lang": "en",
+              "valueId": "158",
+              "name": "Purple"
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "attributeId": 1,
+          "backendName": "Green",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T17:46:14+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "167",
+              "name": "Green"
+            }
+          ]
+        },
+        {
+          "id": 168,
+          "attributeId": 1,
+          "backendName": "Blue",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T17:46:15+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "168",
+              "name": "Blue DE"
+            },
+            {
+              "lang": "en",
+              "valueId": "168",
+              "name": "Blue"
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "attributeId": 1,
+          "backendName": "Orange",
+          "position": 0,
+          "image": "",
+          "comment": "new",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T19:11:20+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "169",
+              "name": "Orange"
+            }
+          ]
+        },
+        {
+          "id": 171,
+          "attributeId": 1,
+          "backendName": "Yellow",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T19:16:47+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "171",
+              "name": "Yellow"
+            }
+          ]
+        },
+        {
+          "id": 172,
+          "attributeId": 1,
+          "backendName": "Brown",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T19:16:48+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "172",
+              "name": "Brown"
+            }
+          ]
+        },
+        {
+          "id": 173,
+          "attributeId": 1,
+          "backendName": "Violet",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T19:16:49+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "173",
+              "name": "Violet"
+            },
+            {
+              "lang": "en",
+              "valueId": "173",
+              "name": "Violet"
+            }
+          ]
+        },
+        {
+          "id": 174,
+          "attributeId": 1,
+          "backendName": "Teal",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-02T14:57:59+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "174",
+              "name": "Teal"
+            }
+          ]
+        },
+        {
+          "id": 175,
+          "attributeId": 1,
+          "backendName": "Silver",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-02T14:58:00+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "175",
+              "name": "Silver"
+            }
+          ]
+        },
+        {
+          "id": 176,
+          "attributeId": 1,
+          "backendName": "Navy blue",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-02T14:58:01+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "176",
+              "name": "Navy blue"
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "attributeId": 1,
+          "backendName": "Gray",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-21T07:31:08+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "189",
+              "name": "Gray"
+            }
+          ]
+        },
+        {
+          "id": 190,
+          "attributeId": 1,
+          "backendName": "White",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-21T13:18:05+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "190",
+              "name": "White"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "attributeId": 1,
+          "backendName": "Lavender",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-27T14:31:21+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "202",
+              "name": "Lavender"
+            }
+          ]
+        },
+        {
+          "id": 240,
+          "attributeId": 1,
+          "backendName": "Almond",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-01-10T09:03:13+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "240",
+              "name": "Almond"
+            }
+          ]
+        },
+        {
+          "id": 241,
+          "attributeId": 1,
+          "backendName": "Gold",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-01-11T16:51:45+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "241",
+              "name": "Gold"
+            }
+          ]
+        },
+        {
+          "id": 267,
+          "attributeId": 1,
+          "backendName": "Grau",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-10-13T10:02:58+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "267",
+              "name": "Grau"
+            }
+          ]
+        },
+        {
+          "id": 268,
+          "attributeId": 1,
+          "backendName": "Weiss",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-10-13T10:02:59+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "268",
+              "name": "Weiss"
+            }
+          ]
+        },
+        {
+          "id": 269,
+          "attributeId": 1,
+          "backendName": "Schwarz",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-10-13T10:03:00+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "269",
+              "name": "Schwarz"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 2,
+      "backendName": "size",
+      "position": 0,
+      "isSurchargePercental": false,
+      "isLinkableToImage": false,
+      "amazonAttribute": "",
+      "fruugoAttribute": "",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "",
+      "googleShoppingAttribute": "",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": false,
+      "updatedAt": "2020-02-26T16:36:05+00:00",
+      "attributeNames": [
+        {
+          "attributeId": "2",
+          "lang": "de",
+          "name": "Size"
+        },
+        {
+          "attributeId": "2",
+          "lang": "en",
+          "name": "Size"
+        },
+        {
+          "attributeId": "2",
+          "lang": "fr",
+          "name": "Size"
+        },
+        {
+          "attributeId": "2",
+          "lang": "it",
+          "name": "Size It"
+        },
+        {
+          "attributeId": "2",
+          "lang": "sp",
+          "name": "Size"
+        }
+      ],
+      "values": [
+        {
+          "id": 5,
+          "attributeId": 2,
+          "backendName": "M",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T16:36:04+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "5",
+              "name": "M DE"
+            },
+            {
+              "lang": "en",
+              "valueId": "5",
+              "name": "M"
+            },
+            {
+              "lang": "it",
+              "valueId": "5",
+              "name": "L -It"
+            },
+            {
+              "lang": "nl",
+              "valueId": "5",
+              "name": "L Nl"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "attributeId": 2,
+          "backendName": "S",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T16:35:48+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "6",
+              "name": "S DE"
+            },
+            {
+              "lang": "en",
+              "valueId": "6",
+              "name": "S"
+            },
+            {
+              "lang": "it",
+              "valueId": "6",
+              "name": "M - It"
+            },
+            {
+              "lang": "nl",
+              "valueId": "6",
+              "name": "M Nl"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "attributeId": 2,
+          "backendName": "XL Internal",
+          "position": 0,
+          "image": "",
+          "comment": "Note 111",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-07-21T12:55:08+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "8",
+              "name": "XL De"
+            },
+            {
+              "lang": "en",
+              "valueId": "8",
+              "name": "XL"
+            },
+            {
+              "lang": "it",
+              "valueId": "8",
+              "name": "XL - It"
+            },
+            {
+              "lang": "nl",
+              "valueId": "8",
+              "name": "XL Nl"
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "attributeId": 2,
+          "backendName": "L",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-26T16:19:18+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "92",
+              "name": "L DE"
+            },
+            {
+              "lang": "en",
+              "valueId": "92",
+              "name": "L"
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "attributeId": 2,
+          "backendName": "XM",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T16:36:04+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "93",
+              "name": "M"
+            },
+            {
+              "lang": "en",
+              "valueId": "93",
+              "name": "XM"
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "attributeId": 2,
+          "backendName": "XS",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T16:35:48+00:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "94",
+              "name": "S"
+            },
+            {
+              "lang": "en",
+              "valueId": "94",
+              "name": "XS"
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "attributeId": 2,
+          "backendName": "UK 6 \/ EU 40 \/ US 7",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:34+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "119",
+              "name": "UK 6 \/ EU 40 \/ US 7"
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "attributeId": 2,
+          "backendName": "UK 7 \/ EU 41 \/ US 8",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:34+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "120",
+              "name": "UK 7 \/ EU 41 \/ US 8"
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "attributeId": 2,
+          "backendName": "UK 8 \/ EU 42 \/ US 9",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:35+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "121",
+              "name": "UK 8 \/ EU 42 \/ US 9"
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "attributeId": 2,
+          "backendName": "UK 9 \/ EU 43 \/ US 10",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:35+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "122",
+              "name": "UK 9 \/ EU 43 \/ US 10"
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "attributeId": 2,
+          "backendName": "UK 10 \/ EU 44 \/ US 11",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:36+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "123",
+              "name": "UK 10 \/ EU 44 \/ US 11"
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "attributeId": 2,
+          "backendName": "UK 11 \/ EU 45 \/ US 12",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:36+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "124",
+              "name": "UK 11 \/ EU 45 \/ US 12"
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "attributeId": 2,
+          "backendName": "UK 12 \/ EU 46 \/ US 13",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:36+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "125",
+              "name": "UK 12 \/ EU 46 \/ US 13"
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "attributeId": 2,
+          "backendName": "UK 13 \/ EU 47 \/ US 14",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:20:37+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "126",
+              "name": "UK 13 \/ EU 47 \/ US 14"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "attributeId": 2,
+          "backendName": "3 UK \/ 36 EU \/ 5 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:54+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "127",
+              "name": "3 UK \/ 36 EU \/ 5 US"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "attributeId": 2,
+          "backendName": "4 UK \/ 37 EU \/ 6 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:55+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "128",
+              "name": "4 UK \/ 37 EU \/ 6 US"
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "attributeId": 2,
+          "backendName": "5 UK \/ 38 EU \/ 7 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:55+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "129",
+              "name": "5 UK \/ 38 EU \/ 7 US"
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "attributeId": 2,
+          "backendName": "6 UK \/ 39 EU \/ 8 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:56+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "130",
+              "name": "6 UK \/ 39 EU \/ 8 US"
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "attributeId": 2,
+          "backendName": "7 UK \/ 40 EU \/ 9 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:56+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "131",
+              "name": "7 UK \/ 40 EU \/ 9 US"
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "attributeId": 2,
+          "backendName": "8 UK \/ 41 EU \/ 10 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:56+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "132",
+              "name": "8 UK \/ 41 EU \/ 10 US"
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "attributeId": 2,
+          "backendName": "9 UK \/ 42 EU \/ 11 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:40:57+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "133",
+              "name": "9 UK \/ 42 EU \/ 11 US"
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "attributeId": 2,
+          "backendName": "UK 14 \/ EU 48 \/ US 15",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:42:03+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "134",
+              "name": "UK 14 \/ EU 48 \/ US 15"
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "attributeId": 2,
+          "backendName": "3.5 UK \/ 36.5 EU \/ 5.5 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:42:57+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "135",
+              "name": "3.5 UK \/ 36.5 EU \/ 5.5 US"
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "attributeId": 2,
+          "backendName": "6.5 UK \/ 39.5 EU \/ 8.5 US",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-11-29T13:42:58+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "136",
+              "name": "6.5 UK \/ 39.5 EU \/ 8.5 US"
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "attributeId": 2,
+          "backendName": "2T",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-12-08T11:22:28+00:00",
+          "valueNames": []
+        },
+        {
+          "id": 138,
+          "attributeId": 2,
+          "backendName": "3T-4T",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-12-08T11:22:28+00:00",
+          "valueNames": []
+        },
+        {
+          "id": 146,
+          "attributeId": 2,
+          "backendName": "Small",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2019-03-05T12:47:09+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "146",
+              "name": "Small"
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "attributeId": 2,
+          "backendName": "Medium",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2019-03-05T12:51:43+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "148",
+              "name": "Medium"
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "attributeId": 2,
+          "backendName": "Large",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-20T14:36:14+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "166",
+              "name": "Large"
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "attributeId": 2,
+          "backendName": "X-Large",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-01-28T17:46:16+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "170",
+              "name": "X-Large"
+            }
+          ]
+        },
+        {
+          "id": 177,
+          "attributeId": 2,
+          "backendName": "XX-Large",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-02T14:58:01+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "177",
+              "name": "XX-Large"
+            }
+          ]
+        },
+        {
+          "id": 178,
+          "attributeId": 2,
+          "backendName": "XXX-Large",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-02T14:58:02+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "178",
+              "name": "XXX-Large"
+            }
+          ]
+        },
+        {
+          "id": 179,
+          "attributeId": 2,
+          "backendName": "testxxx 001",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T11:06:16+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "179",
+              "name": "testxxx 001"
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "attributeId": 2,
+          "backendName": "Medium xxxx",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-02-26T19:44:16+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "182",
+              "name": "Medium xxxx"
+            }
+          ]
+        },
+        {
+          "id": 187,
+          "attributeId": 2,
+          "backendName": "28",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-21T07:29:08+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "187",
+              "name": "28"
+            }
+          ]
+        },
+        {
+          "id": 188,
+          "attributeId": 2,
+          "backendName": "29",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-21T07:29:11+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "188",
+              "name": "29"
+            }
+          ]
+        },
+        {
+          "id": 191,
+          "attributeId": 2,
+          "backendName": "30",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T10:02:44+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "191",
+              "name": "30"
+            }
+          ]
+        },
+        {
+          "id": 192,
+          "attributeId": 2,
+          "backendName": "31",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T10:02:47+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "192",
+              "name": "31"
+            }
+          ]
+        },
+        {
+          "id": 193,
+          "attributeId": 2,
+          "backendName": "32",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T10:02:49+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "193",
+              "name": "32"
+            }
+          ]
+        },
+        {
+          "id": 197,
+          "attributeId": 2,
+          "backendName": "33",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-24T14:06:06+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "197",
+              "name": "33"
+            }
+          ]
+        },
+        {
+          "id": 198,
+          "attributeId": 2,
+          "backendName": "34",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-24T14:06:09+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "198",
+              "name": "34"
+            }
+          ]
+        },
+        {
+          "id": 199,
+          "attributeId": 2,
+          "backendName": "36",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-24T14:06:11+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "199",
+              "name": "36"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "attributeId": 2,
+          "backendName": "38",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-24T14:06:13+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "200",
+              "name": "38"
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "attributeId": 2,
+          "backendName": "XL",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-27T14:09:42+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "201",
+              "name": "XL"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "attributeId": 2,
+          "backendName": "3X\/4X",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:49:07+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "203",
+              "name": "3X\/4X"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "attributeId": 2,
+          "backendName": "12-24M",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:35+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "204",
+              "name": "12-24M"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "attributeId": 2,
+          "backendName": "55 cm",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:37+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "205",
+              "name": "55 cm"
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "attributeId": 2,
+          "backendName": "65 cm",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:39+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "206",
+              "name": "65 cm"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "attributeId": 2,
+          "backendName": "75 cm",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:42+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "207",
+              "name": "75 cm"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "attributeId": 2,
+          "backendName": "6 foot",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:44+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "208",
+              "name": "6 foot"
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "attributeId": 2,
+          "backendName": "8 foot",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:46+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "209",
+              "name": "8 foot"
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "attributeId": 2,
+          "backendName": "10 foot",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-29T11:51:48+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "210",
+              "name": "10 foot"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 3,
+      "backendName": "multi select",
+      "position": 0,
+      "isSurchargePercental": false,
+      "isLinkableToImage": false,
+      "amazonAttribute": "",
+      "fruugoAttribute": "",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "",
+      "googleShoppingAttribute": "",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "box",
+      "laRedouteAttribute": 0,
+      "isGroupable": true,
+      "updatedAt": "2017-10-25T17:12:34+01:00",
+      "attributeNames": [
+        {
+          "attributeId": "3",
+          "lang": "en",
+          "name": "multi select"
+        }
+      ],
+      "values": [
+        {
+          "id": 9,
+          "attributeId": 3,
+          "backendName": "sdffsdsdf",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2017-10-25T17:12:34+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "9",
+              "name": "sdffsdsdf"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 143,
+      "backendName": "model_type",
+      "position": 0,
+      "isSurchargePercental": false,
+      "isLinkableToImage": false,
+      "amazonAttribute": "",
+      "fruugoAttribute": "null",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "none",
+      "googleShoppingAttribute": "none",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": false,
+      "updatedAt": "2020-03-18T10:07:27+00:00",
+      "attributeNames": [
+        {
+          "attributeId": "143",
+          "lang": "en",
+          "name": "model_type"
+        }
+      ],
+      "values": [
+        {
+          "id": 185,
+          "attributeId": 143,
+          "backendName": "Type A",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-03-18T10:07:28+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "185",
+              "name": "Type A"
+            }
+          ]
+        },
+        {
+          "id": 186,
+          "attributeId": 143,
+          "backendName": "Type B",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-03-18T10:07:29+00:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "186",
+              "name": "Type B"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 144,
+      "backendName": "sizes",
+      "position": 1,
+      "isSurchargePercental": false,
+      "isLinkableToImage": false,
+      "amazonAttribute": "",
+      "fruugoAttribute": "null",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "none",
+      "googleShoppingAttribute": "none",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": false,
+      "updatedAt": "2020-04-22T12:19:45+01:00",
+      "attributeNames": [
+        {
+          "attributeId": "144",
+          "lang": "en",
+          "name": "Size"
+        }
+      ],
+      "values": [
+        {
+          "id": 194,
+          "attributeId": 144,
+          "backendName": "L",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T12:19:47+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "194",
+              "name": "L"
+            }
+          ]
+        },
+        {
+          "id": 195,
+          "attributeId": 144,
+          "backendName": "S",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T12:19:50+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "195",
+              "name": "S"
+            }
+          ]
+        },
+        {
+          "id": 196,
+          "attributeId": 144,
+          "backendName": "M",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-04-22T12:19:52+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "196",
+              "name": "M"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 145,
+      "backendName": "farbe",
+      "position": 10,
+      "isSurchargePercental": false,
+      "isLinkableToImage": true,
+      "amazonAttribute": "",
+      "fruugoAttribute": "null",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "",
+      "googleShoppingAttribute": "none",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": true,
+      "updatedAt": "2021-08-05T07:39:04+01:00",
+      "attributeNames": [
+        {
+          "attributeId": "145",
+          "lang": "de",
+          "name": "Farbe"
+        },
+        {
+          "attributeId": "145",
+          "lang": "en",
+          "name": "Farbe"
+        }
+      ],
+      "values": [
+        {
+          "id": 211,
+          "attributeId": 145,
+          "backendName": "Brushed Silber",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:47+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "211",
+              "name": "Brushed Silber"
+            },
+            {
+              "lang": "en",
+              "valueId": "211",
+              "name": "Brushed Silber"
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "attributeId": 145,
+          "backendName": "Grau",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:47+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "212",
+              "name": "Grau"
+            },
+            {
+              "lang": "en",
+              "valueId": "212",
+              "name": "Grau"
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "attributeId": 145,
+          "backendName": "Grün",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:48+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "213",
+              "name": "Grün"
+            },
+            {
+              "lang": "en",
+              "valueId": "213",
+              "name": "Grün"
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "attributeId": 145,
+          "backendName": "Pink",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:49+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "214",
+              "name": "Pink"
+            },
+            {
+              "lang": "en",
+              "valueId": "214",
+              "name": "Pink"
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "attributeId": 145,
+          "backendName": "Schwarz",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:49+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "215",
+              "name": "Schwarz"
+            },
+            {
+              "lang": "en",
+              "valueId": "215",
+              "name": "Schwarz"
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "attributeId": 145,
+          "backendName": "Silber",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-01T07:53:50+01:00",
+          "valueNames": [
+            {
+              "lang": "de",
+              "valueId": "216",
+              "name": "Silber"
+            },
+            {
+              "lang": "en",
+              "valueId": "216",
+              "name": "Silber"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "attributeId": 145,
+          "backendName": "Blau-Weiss",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-06T09:00:15+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "217",
+              "name": "Blau-Weiss"
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "attributeId": 145,
+          "backendName": "Rot-Schwarz",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-06T09:00:16+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "218",
+              "name": "Rot-Schwarz"
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "attributeId": 145,
+          "backendName": "Schwarz-Silber",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-06T09:00:17+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "219",
+              "name": "Schwarz-Silber"
+            }
+          ]
+        },
+        {
+          "id": 220,
+          "attributeId": 145,
+          "backendName": "Schwarz-Weiss",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-06T09:00:18+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "220",
+              "name": "Schwarz-Weiss"
+            }
+          ]
+        },
+        {
+          "id": 221,
+          "attributeId": 145,
+          "backendName": "Weiss-Grün",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-06T09:00:18+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "221",
+              "name": "Weiss-Grün"
+            }
+          ]
+        },
+        {
+          "id": 222,
+          "attributeId": 145,
+          "backendName": "Schwarz P1",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:39:30+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "222",
+              "name": "Schwarz P1"
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "attributeId": 145,
+          "backendName": "Schwarz P2",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:39:30+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "223",
+              "name": "Schwarz P2"
+            }
+          ]
+        },
+        {
+          "id": 224,
+          "attributeId": 145,
+          "backendName": "Silber P1",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:39:31+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "224",
+              "name": "Silber P1"
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "attributeId": 145,
+          "backendName": "Silber P2",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:39:32+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "225",
+              "name": "Silber P2"
+            }
+          ]
+        },
+        {
+          "id": 226,
+          "attributeId": 145,
+          "backendName": "Brushed Black",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:13+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "226",
+              "name": "Brushed Black"
+            }
+          ]
+        },
+        {
+          "id": 227,
+          "attributeId": 145,
+          "backendName": "Brushed Gunmetal",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:14+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "227",
+              "name": "Brushed Gunmetal"
+            }
+          ]
+        },
+        {
+          "id": 228,
+          "attributeId": 145,
+          "backendName": "Dazzling",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:14+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "228",
+              "name": "Dazzling"
+            }
+          ]
+        },
+        {
+          "id": 229,
+          "attributeId": 145,
+          "backendName": "Full Black",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:15+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "229",
+              "name": "Full Black"
+            }
+          ]
+        },
+        {
+          "id": 230,
+          "attributeId": 145,
+          "backendName": "Red Crackle",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:15+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "230",
+              "name": "Red Crackle"
+            }
+          ]
+        },
+        {
+          "id": 231,
+          "attributeId": 145,
+          "backendName": "Schwarz\/Bronze",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:16+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "231",
+              "name": "Schwarz\/Bronze"
+            }
+          ]
+        },
+        {
+          "id": 232,
+          "attributeId": 145,
+          "backendName": "Weiss",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:17+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "232",
+              "name": "Weiss"
+            }
+          ]
+        },
+        {
+          "id": 233,
+          "attributeId": 145,
+          "backendName": "Weiss\/Bronze",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:17+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "233",
+              "name": "Weiss\/Bronze"
+            }
+          ]
+        },
+        {
+          "id": 234,
+          "attributeId": 145,
+          "backendName": "Wood Grain",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-05-17T14:47:18+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "234",
+              "name": "Wood Grain"
+            }
+          ]
+        },
+        {
+          "id": 236,
+          "attributeId": 145,
+          "backendName": "Regenbogen",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-06-09T06:49:40+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "236",
+              "name": "Regenbogen"
+            }
+          ]
+        },
+        {
+          "id": 237,
+          "attributeId": 145,
+          "backendName": "Rot",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-06-09T13:51:43+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "237",
+              "name": "Rot"
+            }
+          ]
+        },
+        {
+          "id": 238,
+          "attributeId": 145,
+          "backendName": "Blau",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2020-06-09T14:00:43+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "238",
+              "name": "Blau"
+            }
+          ]
+        },
+        {
+          "id": 239,
+          "attributeId": 145,
+          "backendName": "Gold",
+          "position": 0,
+          "image": "",
+          "comment": "Note xxx",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 10,
+          "updatedAt": "2021-06-04T10:28:35+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "239",
+              "name": "Gold"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    },
+    {
+      "id": 154,
+      "backendName": "size_test",
+      "position": 0,
+      "isSurchargePercental": false,
+      "isLinkableToImage": false,
+      "amazonAttribute": "",
+      "fruugoAttribute": "null",
+      "pixmaniaAttribute": 0,
+      "ottoAttribute": "",
+      "googleShoppingAttribute": "none",
+      "neckermannAtEpAttribute": 0,
+      "typeOfSelectionInOnlineStore": "dropdown",
+      "laRedouteAttribute": 0,
+      "isGroupable": false,
+      "updatedAt": "2021-09-14T16:47:43+01:00",
+      "attributeNames": [
+        {
+          "attributeId": "154",
+          "lang": "en",
+          "name": "size_test"
+        }
+      ],
+      "values": [
+        {
+          "id": 252,
+          "attributeId": 154,
+          "backendName": "Large_xxx",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T16:48:54+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "252",
+              "name": "Large_xxx"
+            }
+          ]
+        },
+        {
+          "id": 253,
+          "attributeId": 154,
+          "backendName": "Medium_xxx",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T16:48:54+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "253",
+              "name": "Medium_xxx"
+            }
+          ]
+        },
+        {
+          "id": 254,
+          "attributeId": 154,
+          "backendName": "Small_xxx",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T16:48:54+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "254",
+              "name": "Small_xxx"
+            }
+          ]
+        },
+        {
+          "id": 264,
+          "attributeId": 154,
+          "backendName": "Large",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T17:11:41+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "264",
+              "name": "Large"
+            }
+          ]
+        },
+        {
+          "id": 265,
+          "attributeId": 154,
+          "backendName": "Medium",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T17:11:41+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "265",
+              "name": "Medium"
+            }
+          ]
+        },
+        {
+          "id": 266,
+          "attributeId": 154,
+          "backendName": "Small",
+          "position": 0,
+          "image": "",
+          "comment": "",
+          "amazonValue": "",
+          "ottoValue": "",
+          "neckermannAtEpValue": "",
+          "laRedouteValue": "none",
+          "tracdelightValue": "",
+          "percentageDistribution": 0,
+          "updatedAt": "2021-09-14T17:11:41+01:00",
+          "valueNames": [
+            {
+              "lang": "en",
+              "valueId": "266",
+              "name": "Small"
+            }
+          ]
+        }
+      ],
+      "maps": []
+    }
+  ]
+}

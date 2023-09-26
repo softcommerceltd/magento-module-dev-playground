@@ -1,0 +1,93 @@
+### ORDER PROPERTY CREATE
+GET https://skorohoda.plentymarkets-cloud02.com/rest/batch
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzk2ZTI2YTEyNDFiMDVmNGY1Njk2Y2IxMGYzNWQwNTA2Y2FjNjNkODZjNDhjZTFjNDQ2ZDI0N2EwMTcwM2I3M2FjODM4M2I5NmUwZTdmNDAiLCJpYXQiOjE2NTM3MjA2MDguMTg1OCwibmJmIjoxNjUzNzIwNjA4LjE4NTgsImV4cCI6MTY1MzgwNzAwOC4xNjkyLCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.Q6dytC9mBrQP0yizUNYuLcsvfwe5ie1fMda0LZ13uufcelaCtEBiFNlFA0xo3lD77Xuob82l0E9OA_kEKfRJPBHtDd5sA8OjRB92LdDwPT5BSalK3uAq7SXzZ-rsifGVZ2TDORccSBpkV1MiB12ncLG90As-7xhhiFTqtoENTPUPTGzdsoK_VdDTDS2jjp9cQP9IVau3v21sknNycDWUonDyCRdsXppRoDcjf4oPfX7wIk2CyQA0cffsqL4UDSb93_Rdt-QFlQFRexWCJN_vsITIMCYQwEET9lh-4_OKhXmdiCAhvdh97pngxMnuWomg9Xs9uWBJOBBXAmGoYBmF56c_BGoXhiAIPsY00E8oodnk0YNbEfzcn_5IVMD_KVira_UM2DpS5JDuIE6Naac_38jyhga80LtKPMLbzNMQgYtt1hvC1VMjsYMYp4V9zm6LPnQO7A2SaPXEsbEAyJYbpzt4JlrfnbUU1cQXuJqZft5SZIg59xXu7tC7H3KmwXyBDE2BnAcGhBNl6kqLULOp0t7UIgLUwF8IpyBozcsXtimNAImYGRIRhTl3AoRD9rwH5FmXr02wN7HWwpmC1dgJniCvTr9ccBqKhcli6nhYUWab5N5LTorKt-HI3UFhna0FZELrsvBYXGTsMNEA4hHg3LYnPnv01P4MuY5eIOCNLKI
+
+{
+    "payloads": [
+        {
+            "resource": "rest/orders/properties/types",
+            "method": "POST",
+            "body": {
+                "position": 20,
+                "cast": "numeric",
+                "names": [
+                    {
+                        "lang": "en",
+                        "name": "test NUMERIC 0001"
+                    }
+                ]
+            }
+        },
+        {
+            "resource": "rest/orders/properties/types",
+            "method": "POST",
+            "body": {
+                "position": 20,
+                "cast": "string",
+                "names": [
+                    {
+                        "lang": "en",
+                        "name": "test STRING 0001"
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+### ORDER PROPERTY CREATE
+GET https://skorohoda.plentymarkets-cloud02.com/rest/batch
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzk2ZTI2YTEyNDFiMDVmNGY1Njk2Y2IxMGYzNWQwNTA2Y2FjNjNkODZjNDhjZTFjNDQ2ZDI0N2EwMTcwM2I3M2FjODM4M2I5NmUwZTdmNDAiLCJpYXQiOjE2NTM3MjA2MDguMTg1OCwibmJmIjoxNjUzNzIwNjA4LjE4NTgsImV4cCI6MTY1MzgwNzAwOC4xNjkyLCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.Q6dytC9mBrQP0yizUNYuLcsvfwe5ie1fMda0LZ13uufcelaCtEBiFNlFA0xo3lD77Xuob82l0E9OA_kEKfRJPBHtDd5sA8OjRB92LdDwPT5BSalK3uAq7SXzZ-rsifGVZ2TDORccSBpkV1MiB12ncLG90As-7xhhiFTqtoENTPUPTGzdsoK_VdDTDS2jjp9cQP9IVau3v21sknNycDWUonDyCRdsXppRoDcjf4oPfX7wIk2CyQA0cffsqL4UDSb93_Rdt-QFlQFRexWCJN_vsITIMCYQwEET9lh-4_OKhXmdiCAhvdh97pngxMnuWomg9Xs9uWBJOBBXAmGoYBmF56c_BGoXhiAIPsY00E8oodnk0YNbEfzcn_5IVMD_KVira_UM2DpS5JDuIE6Naac_38jyhga80LtKPMLbzNMQgYtt1hvC1VMjsYMYp4V9zm6LPnQO7A2SaPXEsbEAyJYbpzt4JlrfnbUU1cQXuJqZft5SZIg59xXu7tC7H3KmwXyBDE2BnAcGhBNl6kqLULOp0t7UIgLUwF8IpyBozcsXtimNAImYGRIRhTl3AoRD9rwH5FmXr02wN7HWwpmC1dgJniCvTr9ccBqKhcli6nhYUWab5N5LTorKt-HI3UFhna0FZELrsvBYXGTsMNEA4hHg3LYnPnv01P4MuY5eIOCNLKI
+
+{
+    "payloads": [
+        {
+            "resource": "rest/orders/properties/types/1035",
+            "method": "DELETE",
+            "body": {}
+        },
+        {
+            "resource": "rest/orders/properties/types/1034",
+            "method": "DELETE",
+            "body": {}
+        },
+        {
+            "resource": "rest/orders/properties/types/1033",
+            "method": "DELETE",
+            "body": {}
+        },
+        {
+            "resource": "rest/orders/properties/types/1032",
+            "method": "DELETE",
+            "body": {}
+        },
+        {
+            "resource": "rest/orders/properties/types/1031",
+            "method": "DELETE",
+            "body": {}
+        }
+    ]
+}
+
+### VARIATION REQUEST
+GET https://skorohoda.plentymarkets-cloud02.com/rest/batch
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzk2ZTI2YTEyNDFiMDVmNGY1Njk2Y2IxMGYzNWQwNTA2Y2FjNjNkODZjNDhjZTFjNDQ2ZDI0N2EwMTcwM2I3M2FjODM4M2I5NmUwZTdmNDAiLCJpYXQiOjE2NTM3MjA2MDguMTg1OCwibmJmIjoxNjUzNzIwNjA4LjE4NTgsImV4cCI6MTY1MzgwNzAwOC4xNjkyLCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.Q6dytC9mBrQP0yizUNYuLcsvfwe5ie1fMda0LZ13uufcelaCtEBiFNlFA0xo3lD77Xuob82l0E9OA_kEKfRJPBHtDd5sA8OjRB92LdDwPT5BSalK3uAq7SXzZ-rsifGVZ2TDORccSBpkV1MiB12ncLG90As-7xhhiFTqtoENTPUPTGzdsoK_VdDTDS2jjp9cQP9IVau3v21sknNycDWUonDyCRdsXppRoDcjf4oPfX7wIk2CyQA0cffsqL4UDSb93_Rdt-QFlQFRexWCJN_vsITIMCYQwEET9lh-4_OKhXmdiCAhvdh97pngxMnuWomg9Xs9uWBJOBBXAmGoYBmF56c_BGoXhiAIPsY00E8oodnk0YNbEfzcn_5IVMD_KVira_UM2DpS5JDuIE6Naac_38jyhga80LtKPMLbzNMQgYtt1hvC1VMjsYMYp4V9zm6LPnQO7A2SaPXEsbEAyJYbpzt4JlrfnbUU1cQXuJqZft5SZIg59xXu7tC7H3KmwXyBDE2BnAcGhBNl6kqLULOp0t7UIgLUwF8IpyBozcsXtimNAImYGRIRhTl3AoRD9rwH5FmXr02wN7HWwpmC1dgJniCvTr9ccBqKhcli6nhYUWab5N5LTorKt-HI3UFhna0FZELrsvBYXGTsMNEA4hHg3LYnPnv01P4MuY5eIOCNLKI
+
+{
+    "payloads": [
+        {
+            "resource": "/rest/pim/sales_prices",
+            "method": "DELETE",
+            "body": {
+                "variationId": 34638,
+                "salesPriceId": 5
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/5341
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments?id=5338
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/orders/6663
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+### ~~ search
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/search?transactionId=10,2000000037&with[]=properties&with[]=order&with[]=contact
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/payments/methods
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+{
+    "amount": 20,
+    "mopId": 1,
+    "currency": "EUR",
+    "type": "credit",
+    "status": 2,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "96a08258-9af8-128b-a528-82722dc38850"
+        },
+        {
+            "typeId": 3,
+            "value": "Transaction via PayPal"
+        }
+    ],
+    "contact": {
+        "contactId": 237
+    },
+    "order": {
+        "orderId": 4638
+    }
+}
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+{
+    "amount": 100.0000,
+    "mopId": 1,
+    "currency": "GBP",
+    "type": "credit",
+    "status": 1,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "unaccountable": 1,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "26a37b00-50b6-224f-95fb-e3e6b9979-3826"
+        },
+        {
+            "typeId": 3,
+            "value": "Transaction Text: 3826"
+        }
+    ],
+    "order": {
+        "orderId": 6663
+    },
+    "contact": {
+        "contactId": 1414
+    }
+}
+
+###
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+{
+    "id": 5340,
+    "amount": 100.0000,
+    "mopId": 1,
+    "currency": "GBP",
+    "type": "credit",
+    "status": 2,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "unaccountable": 0,
+    "updateOrderPaymentStatus": true,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "26a37b00-50b6-224f-95fb-e3e6b9979-3826"
+        },
+        {
+            "typeId": 3,
+            "value": "Booking text, is PAID 3826"
+        }
+    ],
+    "order": {
+        "orderId": 6663
+    },
+    "contact": {
+        "contactId": 1414
+    }
+}
+
+###
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/payment/3415/order
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+### - Creates payment - order relation
+POST https://skorohoda.plentymarkets-cloud02.com/rest/payment/3449/order/3826
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+### - Creates payment - contact relation
+POST https://skorohoda.plentymarkets-cloud02.com/rest/payment/3449/contact/237
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+### PAYMENT BATCH CREATE
+GET https://skorohoda.plentymarkets-cloud02.com/rest/batch
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+{
+    "payloads": [
+        {
+            "resource": "rest/payments",
+            "method": "POST",
+            "body": {
+                "amount": 90,
+                "exchangeRatio": 0,
+                "mopId": 5000,
+                "currency": "GBP",
+                "type": "credit",
+                "status": 2,
+                "transactionType": 2,
+                "regenerateHash": true,
+                "properties": [
+                    {
+                        "typeId": 1,
+                        "value": "161243211932"
+                    }
+                ]
+            }
+        },
+        {
+            "resource": "rest/payments",
+            "method": "PUT",
+            "body": {
+                "position": 20,
+                "cast": "string",
+                "names": [
+                    {
+                        "lang": "en",
+                        "name": "test STRING 0001"
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+### - Creates payment - contact relation
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/payment/4164/contact
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2RiN2Y2NzUzZWRjYTM4NzI2YzUxYzMwYmY2YzA3NGVkNDlmYjgyYWZmMDgxMzQ1ZjQ2OTU3OTY3NWYwYzVkODIwMDYyMTA5ZTE2Y2VlOGYiLCJpYXQiOjE2NTM5NzcxMDIuODI2OCwibmJmIjoxNjUzOTc3MTAyLjgyNjgsImV4cCI6MTY1NDA2MzUwMi44MDA2LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.QYTVAwzGEMqTSH27YhjhIHtSzhUU9BIWgrrte1j1eauZwKejnbmY6lhrFvD-4gmKLnpPXLQ1OOSSl8fZsikmnDnoNRDkc9H1xWnxDqIgfm-idrlKgl2jhkMezeYJ-q0MEn9IondbZfOmC8M1-O4LKLo3lmoJkiUagO0GxNofXP-xpU6QhYtnfCC0oqPerJe0x7nj8vDEcJ5_z_MKfCRJ0qMnnGiC5b8BAUv3hDk1omNiUaHRAjnS89p5Q9kuvdK3cA9FPTNbYyZ2-78EieAsQjU3-4M-2HZc42vgFS_RZRGsUvsZfOf89nVVMozloMGGwczF4zUdWM9AERJwMEhZsvS2Dov0dWHt7Eyt-yIn4cfAqdHmT3rCNhucl4TDJb1jSt822UI8_tbWe82vn8B6MHj5ekI5k1iNM8c4reeSJvqxBNwUTbxjUZmzdCCk_jcgLePpycbsTJk3jtCRsEZpyrkDMevmRH4FEIeBL8T2DYanfOUfqOHfTEWJCu1h4ocU8zXzmotjsy2nBnmtt3SUMhmBFOD6Bxa3ZQFqWAVl9Usw4stRmm80Tg67-dvGjwIhDjUMVISd_jCqQhWV9gEDLxYkBxZvrLd8NOobkICuUg1SdUpPo2zREyJWVDeorMgL9AL8aRK8k1eynyKfWqsAHaY5g21bN9VEAj5myTeJ81w
+
+{
+    "...": "...",
+    "contact": {
+        "contactId": 237
+    },
+    "order": {
+        "orderId": 4638
+    }
+}

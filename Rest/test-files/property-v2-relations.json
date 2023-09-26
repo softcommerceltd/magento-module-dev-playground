@@ -1,0 +1,896 @@
+{
+  "page": 1,
+  "totalsCount": 13,
+  "isLastPage": true,
+  "lastPageNumber": 1,
+  "firstOnPage": 1,
+  "lastOnPage": 13,
+  "itemsPerPage": 50,
+  "entries": [
+    {
+      "id": 4588,
+      "propertyId": 299,
+      "groupId": 28,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-02-16T06:42:43+00:00",
+      "updatedAt": "2022-04-10T18:49:13+01:00",
+      "property": {
+        "id": 299,
+        "cast": "selection",
+        "type": "item",
+        "position": 14,
+        "createdAt": "2021-07-25T18:01:43+01:00",
+        "updatedAt": "2022-02-16T06:54:48+00:00",
+        "names": [
+          {
+            "id": 152,
+            "propertyId": 299,
+            "lang": "de",
+            "name": "yes_no_attribute",
+            "description": "Yes\/No Attribute",
+            "createdAt": "2021-07-27T11:45:48+01:00",
+            "updatedAt": "2021-07-27T11:45:48+01:00"
+          },
+          {
+            "id": 153,
+            "propertyId": 299,
+            "lang": "en",
+            "name": "yes_no_attribute",
+            "description": "Yes\/No Attribute",
+            "createdAt": "2021-07-27T11:45:48+01:00",
+            "updatedAt": "2021-07-27T11:45:48+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 28,
+        "position": 1,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 4,
+            "groupId": 28,
+            "lang": "en",
+            "name": "Default",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 674,
+          "relationId": 4588,
+          "selectionId": 679,
+          "createdAt": "2022-02-16T06:42:53+00:00",
+          "updatedAt": "2022-04-10T18:49:13+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4631,
+      "propertyId": 325,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": "Test value for website 01",
+      "markup": 0,
+      "createdAt": "2022-04-10T18:48:23+01:00",
+      "updatedAt": "2022-04-10T18:49:13+01:00",
+      "property": {
+        "id": 325,
+        "cast": "string",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2022-04-10T18:14:15+01:00",
+        "updatedAt": "2022-04-10T18:14:15+01:00",
+        "names": [
+          {
+            "id": 209,
+            "propertyId": 325,
+            "lang": "en",
+            "name": "string_website_1",
+            "description": "",
+            "createdAt": "2022-04-10T18:14:15+01:00",
+            "updatedAt": "2022-04-10T18:14:15+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4632,
+      "propertyId": 326,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": "Test value for website 02",
+      "markup": 0,
+      "createdAt": "2022-04-10T18:48:23+01:00",
+      "updatedAt": "2022-04-10T18:49:13+01:00",
+      "property": {
+        "id": 326,
+        "cast": "string",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2022-04-10T18:16:31+01:00",
+        "updatedAt": "2022-04-10T18:16:31+01:00",
+        "names": [
+          {
+            "id": 210,
+            "propertyId": 326,
+            "lang": "en",
+            "name": "string_website_2",
+            "description": "",
+            "createdAt": "2022-04-10T18:16:31+01:00",
+            "updatedAt": "2022-04-10T18:16:31+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": []
+    },
+    {
+      "id": 4633,
+      "propertyId": 327,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-10T18:48:23+01:00",
+      "updatedAt": "2022-04-10T18:49:14+01:00",
+      "property": {
+        "id": 327,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2022-04-10T18:23:19+01:00",
+        "updatedAt": "2022-04-10T18:23:19+01:00",
+        "names": [
+          {
+            "id": 211,
+            "propertyId": 327,
+            "lang": "en",
+            "name": "selection_website_1",
+            "description": "",
+            "createdAt": "2022-04-10T18:23:19+01:00",
+            "updatedAt": "2022-04-10T18:23:19+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 726,
+          "relationId": 4633,
+          "selectionId": 757,
+          "createdAt": "2022-04-10T18:49:14+01:00",
+          "updatedAt": "2022-04-10T18:49:14+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4634,
+      "propertyId": 328,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-10T18:48:23+01:00",
+      "updatedAt": "2022-04-10T18:49:14+01:00",
+      "property": {
+        "id": 328,
+        "cast": "selection",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2022-04-10T18:24:20+01:00",
+        "updatedAt": "2022-04-10T18:24:20+01:00",
+        "names": [
+          {
+            "id": 212,
+            "propertyId": 328,
+            "lang": "en",
+            "name": "selection_website_2",
+            "description": "",
+            "createdAt": "2022-04-10T18:24:20+01:00",
+            "updatedAt": "2022-04-10T18:24:20+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [],
+      "selectionValues": [
+        {
+          "id": 727,
+          "relationId": 4634,
+          "selectionId": 760,
+          "createdAt": "2022-04-10T18:49:14+01:00",
+          "updatedAt": "2022-04-10T18:49:14+01:00"
+        }
+      ]
+    },
+    {
+      "id": 4635,
+      "propertyId": 260,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 260,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 110,
+            "propertyId": 260,
+            "lang": "en",
+            "name": "url_key",
+            "description": "URL Key",
+            "createdAt": "2021-07-21T14:31:10+01:00",
+            "updatedAt": "2021-07-21T14:31:10+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 115,
+          "relationId": 4635,
+          "lang": "en",
+          "value": "test-url-key",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:57:04+01:00"
+        },
+        {
+          "id": 123,
+          "relationId": 4635,
+          "lang": "de",
+          "value": "urk-key-test-de",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4636,
+      "propertyId": 320,
+      "groupId": 30,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 320,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-12-17T09:45:28+00:00",
+        "updatedAt": "2021-12-17T09:45:28+00:00",
+        "names": [
+          {
+            "id": 199,
+            "propertyId": 320,
+            "lang": "de",
+            "name": "Neue Eigenschaft",
+            "description": "",
+            "createdAt": "2021-12-17T09:45:28+00:00",
+            "updatedAt": "2021-12-17T09:45:28+00:00"
+          },
+          {
+            "id": 200,
+            "propertyId": 320,
+            "lang": "en",
+            "name": "product_name",
+            "description": "Product Name",
+            "createdAt": "2021-12-17T09:45:28+00:00",
+            "updatedAt": "2021-12-17T11:55:10+00:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 30,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 2,
+            "groupId": 30,
+            "lang": "en",
+            "name": "Bag",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 116,
+          "relationId": 4636,
+          "lang": "en",
+          "value": "Test Client CL1 EN",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 124,
+          "relationId": 4636,
+          "lang": "de",
+          "value": "Test Client CL1 DE",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4637,
+      "propertyId": 261,
+      "groupId": 29,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 261,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 19,
+            "propertyId": 261,
+            "lang": "en",
+            "name": "meta_title",
+            "description": "Meta Title",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 29,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 3,
+            "groupId": 29,
+            "lang": "en",
+            "name": "Bottom",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 117,
+          "relationId": 4637,
+          "lang": "en",
+          "value": "metatitle Test Client CL1",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 125,
+          "relationId": 4637,
+          "lang": "de",
+          "value": "Test Client CL1 DE [meta title]",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4638,
+      "propertyId": 262,
+      "groupId": 29,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 262,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 17,
+            "propertyId": 262,
+            "lang": "en",
+            "name": "meta_keyword",
+            "description": "Meta Keywords",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 29,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 3,
+            "groupId": 29,
+            "lang": "en",
+            "name": "Bottom",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 120,
+          "relationId": 4638,
+          "lang": "en",
+          "value": "<p>Test Client CL1 EN meta keywords<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 128,
+          "relationId": 4638,
+          "lang": "de",
+          "value": "<p>Test Client CL1 DE meta keywords<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4639,
+      "propertyId": 263,
+      "groupId": 29,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 263,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 18,
+            "propertyId": 263,
+            "lang": "en",
+            "name": "meta_description",
+            "description": "Meta Description",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 29,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 3,
+            "groupId": 29,
+            "lang": "en",
+            "name": "Bottom",
+            "description": "",
+            "createdAt": "2021-06-30T10:02:47+01:00",
+            "updatedAt": "2021-06-30T10:02:47+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 121,
+          "relationId": 4639,
+          "lang": "en",
+          "value": "<p>Test Client CL1 EN metadescription<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 129,
+          "relationId": 4639,
+          "lang": "de",
+          "value": "<p>Test Client CL1 DE meta description<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4640,
+      "propertyId": 302,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 302,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:49+01:00",
+        "updatedAt": "2021-08-02T09:10:49+01:00",
+        "names": [
+          {
+            "id": 167,
+            "propertyId": 302,
+            "lang": "en",
+            "name": "property_type_int",
+            "description": "Property Type Int",
+            "createdAt": "2021-08-02T09:10:49+01:00",
+            "updatedAt": "2021-08-02T09:10:49+01:00"
+          },
+          {
+            "id": 168,
+            "propertyId": 302,
+            "lang": "de",
+            "name": "property_type_int",
+            "description": "Property Type Int",
+            "createdAt": "2021-08-02T09:10:49+01:00",
+            "updatedAt": "2021-08-02T09:10:49+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 118,
+          "relationId": 4640,
+          "lang": "en",
+          "value": "10",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 126,
+          "relationId": 4640,
+          "lang": "de",
+          "value": "023",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4641,
+      "propertyId": 307,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 307,
+        "cast": "text",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:53+01:00",
+        "updatedAt": "2021-08-02T09:10:53+01:00",
+        "names": [
+          {
+            "id": 177,
+            "propertyId": 307,
+            "lang": "en",
+            "name": "property_type_text",
+            "description": "Property Type Text",
+            "createdAt": "2021-08-02T09:10:53+01:00",
+            "updatedAt": "2021-08-02T09:10:53+01:00"
+          },
+          {
+            "id": 178,
+            "propertyId": 307,
+            "lang": "de",
+            "name": "property_type_text",
+            "description": "Property Type Text",
+            "createdAt": "2021-08-02T09:10:53+01:00",
+            "updatedAt": "2021-08-02T09:10:53+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 119,
+          "relationId": 4641,
+          "lang": "en",
+          "value": "Test Client CL1 EN text",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 127,
+          "relationId": 4641,
+          "lang": "de",
+          "value": "Test Client CL1 DE text",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    },
+    {
+      "id": 4642,
+      "propertyId": 308,
+      "groupId": 27,
+      "type": "item",
+      "targetId": 34595,
+      "value": null,
+      "markup": 0,
+      "createdAt": "2022-04-11T12:56:40+01:00",
+      "updatedAt": "2022-04-11T12:58:51+01:00",
+      "property": {
+        "id": 308,
+        "cast": "html",
+        "type": "item",
+        "position": 0,
+        "createdAt": "2021-08-02T09:10:54+01:00",
+        "updatedAt": "2021-08-02T09:10:54+01:00",
+        "names": [
+          {
+            "id": 179,
+            "propertyId": 308,
+            "lang": "en",
+            "name": "property_type_html",
+            "description": "Property Type Html",
+            "createdAt": "2021-08-02T09:10:54+01:00",
+            "updatedAt": "2021-08-02T09:10:54+01:00"
+          },
+          {
+            "id": 180,
+            "propertyId": 308,
+            "lang": "de",
+            "name": "property_type_html",
+            "description": "Property Type Html",
+            "createdAt": "2021-08-02T09:10:54+01:00",
+            "updatedAt": "2021-08-02T09:10:54+01:00"
+          }
+        ]
+      },
+      "group": {
+        "id": 27,
+        "position": 0,
+        "createdAt": "2021-06-30T10:02:47+01:00",
+        "updatedAt": "2021-06-30T10:02:47+01:00",
+        "names": [
+          {
+            "id": 13,
+            "groupId": 27,
+            "lang": "en",
+            "name": "Gear",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          },
+          {
+            "id": 14,
+            "groupId": 27,
+            "lang": "de",
+            "name": "Gear DE",
+            "description": "",
+            "createdAt": "2021-07-21T18:14:17+01:00",
+            "updatedAt": "2021-07-21T18:14:17+01:00"
+          }
+        ]
+      },
+      "values": [
+        {
+          "id": 122,
+          "relationId": 4642,
+          "lang": "en",
+          "value": "<p>Test Client CL1 EN html<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:57:04+01:00",
+          "updatedAt": "2022-04-11T12:58:03+01:00"
+        },
+        {
+          "id": 130,
+          "relationId": 4642,
+          "lang": "de",
+          "value": "<p>Test Client CL1 DE html<\/p>",
+          "description": "",
+          "createdAt": "2022-04-11T12:58:51+01:00",
+          "updatedAt": "2022-04-11T12:58:51+01:00"
+        }
+      ],
+      "selectionValues": []
+    }
+  ]
+}

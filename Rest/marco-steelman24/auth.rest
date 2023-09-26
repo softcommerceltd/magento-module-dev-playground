@@ -1,0 +1,9 @@
+### -- login
+POST https://omjfa5ubmq1v.c01-16.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "mage_plenty2021",
+    "password": "dV3cU5uV7zU1iH4sX3oW"
+}

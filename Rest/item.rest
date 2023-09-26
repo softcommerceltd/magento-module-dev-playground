@@ -1,0 +1,228 @@
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/availabilities
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/item_sets
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/8423
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+### -- with: itemProperties, itemCrossSelling, variations, itemImages, itemShippingProfiles, ebayTitles
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items?with=texts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+### -- with: itemProperties, itemCrossSelling, variations, itemImages, itemShippingProfiles, ebayTitles
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items?with=itemProperties,itemCrossSelling,variations,itemImages,itemShippingProfiles,ebayTitles&itemsPerPage=1&page=1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+### -- with: itemProperties, itemCrossSelling, variations, itemImages, itemShippingProfiles, ebayTitles
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items?id=8369&with=itemProperties,itemCrossSelling,variations,itemImages,itemShippingProfiles,ebayTitles&itemsPerPage=1&page=1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/8087
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/variations
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/attributes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/barcodes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/item_shipping_profiles
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/items/item_shipping_profiles
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+[
+  {
+    "itemId": 7786,
+    "profileId": 6
+  },
+  {
+    "itemId": 7786,
+    "profileId": 7
+  },
+  {
+    "itemId": 7786,
+    "profileId": 8
+  }
+]
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/7769/variations/31037/descriptions
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/8369/variations/34494?with=variationTexts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/7769/variations/31037?with=itemCrossSelling
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/items/8369/variations/34494?with=itemImages
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/items/8423
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+###
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/items
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+[
+    {
+        "id": 8416,
+        "position":1,
+        "stockType":0,
+        "storeSpecial":2,
+        "condition":0,
+        "feedback":0,
+        "isSubscribable":false,
+        "isShippingPackage":false,
+        "itemType":"default",
+        "texts": [
+            {
+                "lang": "en",
+                "name1": "Summit I-3713945 CHANGE",
+                "name2": "",
+                "name3": "",
+                "shortDescription": "EN Trek high CHANGE",
+                "metaDescription": "<p>Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch<\/p>",
+                "description": "<p>EN Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.<\/p>",
+                "technicalData": "",
+                "urlPath": "magento-category-map\/collections\/summit-watch",
+                "keywords": ""
+            }
+        ]
+    }
+]
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/items
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGMzN2UwYTcyMTcyNDE1ZjY0NzhkZTBjM2E0YTZmMDJiOWQ3YzBmNDU3OWQ3NzdkZWIzYTZjZTJhMWQ5ZDcwMzRlN2EyMWFhYTFkMjA4MmMiLCJpYXQiOjE2NTkzNTIzNTkuNjAyOCwibmJmIjoxNjU5MzUyMzU5LjYwMjgsImV4cCI6MTY1OTQzODc1OS41ODIsInN1YiI6IjYiLCJzY29wZXMiOlsiKiJdfQ.qOF-kreEyAMT8hUZS7XWUaDlBFuPmZ-oJQwaBtb9HU11V_walHPBetNQebvEeyxCkNlKnvfbVVqZsnV0VjSHnaAuqIJDve9e92zyOxsppbXSQ5qH6QNF7m6VOMx-TayiVxFivHRbZEvr60-kNMgSfNFBYs215vDig1guJbAG6kjzeO_03Pe0IG9qNPP_fzXLrXUYY6YfvlxDavTa1JC7RDgRudXyf89go764qhu5NEARdgLTUxrrQotq0udtoOVuf9Dirq6mKgqwcwk59lcZ0Ye6nqPk65ShDR_iyVt7Z-CTCGDIbkIwdQL2RRJh04UtnYhdxoHmJBmlE8XbbBTHjOkE-co8kd8pFSoE0I1UgdCyanckIQTPey6BHxBh_Mb3l6desyUZubegs8vw1aRyXCa0lctHEwsOGSJSbC_F3BDyNC96iaLf5ZopQ9OZNu2TN4mknf5Yg5xvddz_sxMYZ6hOipwHk9B5bd68KXqlWBCJHAAUjlNRgvp3R3Q8XTU6JBJozRuKpqoXbmxR1HxnlTdS7V13CxuIO1gYE6jYHtHVgeSwQWP02sa7eyvYbQiqYWwdDerFajUdt7MX4jsgkFucOK0Q62shjjxOE3s2pD-c3UQf7ObUfIhYGXdFfa1OgF9EuzX0-KvNtM3IIG-VQjJbxrO6euPK1miveulmL-k
+
+[
+    {
+        "position":1,
+        "stockType":0,
+        "storeSpecial":2,
+        "condition":0,
+        "feedback":0,
+        "isSubscribable":false,
+        "isShippingPackage":false,
+        "itemType":"default",
+        "variations": [
+            {
+                "number": "I-3713945-00122",
+                "isActive": true,
+                "name": "Test item I-371394522",
+                "variationCategories": [
+                    {
+                        "categoryId": 1045
+                    }
+                ],
+                "unit": {
+                    "unitId": 1,
+                    "content": 1
+                }
+            }
+        ],
+        "texts": [
+            {
+                "lang": "en",
+                "name1": "Summit I-3713945",
+                "name2": "",
+                "name3": "",
+                "shortDescription": "<p>EN Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.<\/p>",
+                "metaDescription": "<p>Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch<\/p>",
+                "description": "<p>EN Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.<\/p>",
+                "technicalData": "xxx xxx xxx xx",
+                "urlPath": "magento-category-map\/collections\/summit-watch",
+                "keywords": ""
+            }
+        ]
+    },
+    {
+        "position":1,
+        "stockType":0,
+        "storeSpecial":2,
+        "condition":0,
+        "feedback":0,
+        "isSubscribable":false,
+        "isShippingPackage":false,
+        "itemType":"default",
+        "variations": [
+            {
+                "number": "I-3713945-002",
+                "isActive": true,
+                "name": "Test item I-3713945",
+                "variationCategories": [
+                    {
+                        "categoryId": 1045
+                    }
+                ],
+                "unit": {
+                    "unitId": 1,
+                    "content": 1
+                }
+            }
+        ]
+    }
+]

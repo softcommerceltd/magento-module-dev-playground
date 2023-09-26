@@ -1,0 +1,19 @@
+{
+    "name": "magency/module-DevPlayground",
+    "description": "",
+    "require": {
+        "php": "~8.0.0||~8.1.0||~8.2.0",
+        "fzaninotto/faker": "^1"
+    },
+    "type": "magento2-module",
+    "license": "EULA",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Dev\\PlentyDev\\": ""
+        }
+    },
+    "version": "1.0.0"
+}

@@ -1,0 +1,45 @@
+### -- login
+POST https://0ln54b0xbwq1.c01-16.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "mage_plenty_user_2019",
+    "password": "yA1eT3cW6xG8zB8fO5yH"
+}
+
+### mage_plenty_user_2019
+### yA1eT3cW6xG8zB8fO5yH
+
+### -- Refresh token
+POST https://0ln54b0xbwq1.c01-16.plentymarkets.com/rest/login/refresh
+Accept: application/json
+Content-Type: application/json
+
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "def502004dda95923369f80be53046810be1bf3b5a8f98cd37e14717fa80cc48f502c9d159b4f9a1dd18dd41bc59219bd820358a438165b3df5e6ffdfb5983bd67ff92716caaa7bbbd39cbed79d07e2349433bb48578e3b06ab332dee5976cfcdd1ea24eb754ce29be2deb2f95a01c40866d36e49f6d822d8cb3ac54b629d88962cc6e9d21a96b68e4a6a899895e833407a779fce147d5c16f07b7a5c1ca771068e4c78fe5004c6ca765dfacfa65a81059be0984cb3573170dda9c759698b1e260cb6ab570ec9d81c1fe40eca22fb0c766cd2742f1f3804e6b7537b9fc4cc330255b7000b71d68413e38e1f5e62d4e37cb3ec2a222c65e1ade6ef4859749b71939ffa69a58af8c87c52f541df4776f066f60075b4780452cf61d9f251f8c71f7a74bdc75601a0b880e4650a44385abcd054329264442541abc956b8c0e035df59eeb8bd33d95482a4e97546d198c007b675fff56c851e1cb56e25e8c42685407ab5cfd45"
+}
+
+### -- Refresh token
+POST https://0ln54b0xbwq1.c01-16.plentymarkets.com/rest/login/refresh
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "xxxxx",
+    "test": "xxxx"
+}
+
+###
+GET https://0ln54b0xbwq1.c01-16.plentymarkets.com/rest/authorized_user
+Accept: application/json
+Content-Type: application/json
+##Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNWFjYTgyNDQ4M2NjNWJiYjhjM2U1MDZkNmUwMmMyN2UyNjgzOWFlOWE4NjgyOWE4ZWQ1NGExODZjMTY1ZDg5Nzc2Y2ZjODI3YWZiZjc5ZWYiLCJpYXQiOjE1OTY5NjI4OTgsIm5iZiI6MTU5Njk2Mjg5OCwiZXhwIjoxNTk3MDQ5Mjk4LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.GCWsVzfIxvyHogIUYJGBtJG13Dl3LVblKrmfBoVbd3lLjzmQajxkP0tQ67tIIhoCiKiaKqwNLudk5GG_ro88iElbJhtL5XR5GpVAP6OVlqt9jRHzaR1M0sGPEyms-GbGAYnTL8Ch7ezn1kE5kFTgoUxzswPyyyckwgtHVnkz6S7ZRnc0lmEjuhOXlGXG8iZv2BLgUnUIQLezqW8nFPAiArn44F8Vf7vDj118-zDon0Qwm6Fo91gsjfp-x5C0sdgr3dH-0BSdmA9FsoI-XZzFCzqmztIV2_HgYlWXxstFhtjxUgan8guounaefVcYvQDHwHhGsIDhP_6HEfILEojSjO40YZDDkk_xilEMKZvfSbeqZ3UvYqzN-QWJsGuZk1TbiXO_98zCdtr0uyHqrRe0QZVoYW3arIbIUfrTq4xN5-J2KjpE6e0EwKpOsdtEs0LML8GbYc9jLuu096HnzjERyGI4h-9TmdFqkEv5lSlH_DGV9IeMOM8HCoi1FnXqNsfGSnReJQwvF1cvtg9z_Ir_hyYCvjO0XaCxRDffW6nXjjg3wxS9GEmPHrK21l0D01Lf6p_cGnc0kzKoSTOMmddqMde2EkaH_2MG8F9CDegxLjuFl-o_pwDAKoaQ-k30TTCxcXW58wYig01McHKr2F9YxbyoTXn3w7AocnwtvZSsBAY
+
+
+### --- NEW CLIENT --- https://50zbb0xdqkgx.c01-15.plentymarkets.com/rest/
+POST https://50zbb0xdqkgx.c01-15.plentymarkets.com/rest/login?username=mage033&password=4D25814q76EI57q
+Accept: application/json
+Content-Type: application/json
+

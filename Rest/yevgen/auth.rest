@@ -1,0 +1,10 @@
+### - DEV
+### -- login
+POST https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username": "AdminY",
+    "password": "dE2wQ8iL4pY0dJ4kP4iJ"
+}

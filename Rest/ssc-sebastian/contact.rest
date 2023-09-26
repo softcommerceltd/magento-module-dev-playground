@@ -1,0 +1,188 @@
+###
+GET https://www.sscsupply.at/rest/accounts/contacts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+###
+GET https://www.sscsupply.at/rest/accounts/contacts/237
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### serhiy%40hotmail.co.uk
+GET https://www.sscsupply.at/rest/accounts/contacts?email=serhiy060221@hotmail.co.uk
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### -- With params: addresses,accounts,options,orderSummary,primaryBillingAddress,contactOrders
+GET https://www.sscsupply.at/rest/accounts/contacts/32054?with=accounts,addresses,options
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### option_types
+GET https://www.sscsupply.at/rest/accounts/contacts/option_types
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+###
+GET https://www.sscsupply.at/rest/accounts/addresses/options
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+###
+GET https://www.sscsupply.at/rest/accounts/contacts/option_types
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### -- Customer Classes with details
+GET https://www.sscsupply.at/rest/accounts/contacts/classes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### -- Customer Classes with details
+GET https://www.sscsupply.at/rest/accounts/contacts/classesWithData
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+### -- DELETE CONTACT
+DELETE https://www.sscsupply.at/rest/accounts/contacts/1413
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+###
+POST https://www.sscsupply.at/rest/accounts/contacts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+{
+    "number": "12XA44BC",
+    "externalId": "102030",
+    "typeId": 4,
+    "firstName": "John-0002",
+    "lastName": "Doe-0002",
+    "gender": "male",
+    "title": "professor",
+    "formOfAddress": "Mr",
+    "classId": 1,
+    "password": "sdad76dsa6d78dsadsa8asd8as908d",
+    "blocked": "0",
+    "rating": "3",
+    "bookAccount": "",
+    "lang": "en",
+    "referrerId": 1,
+    "plentyId": 31241,
+    "userId": 1,
+    "birthdayAt": "1984-03-19 00:00:00",
+    "options": [
+        {
+            "typeId": 1,
+            "subTypeId": 4,
+            "value": "030 12312234",
+            "priority": 0
+        },
+        {
+            "typeId": 1,
+            "subTypeId": 3,
+            "value": "030 98898",
+            "priority": 0
+        },
+        {
+            "typeId": 2,
+            "subTypeId": 4,
+            "value": "johndoe-00002@softcommerce.dev",
+            "priority": 0
+        },
+        {
+            "typeId": 4,
+            "subTypeId": 4,
+            "value": "4",
+            "priority": 0
+        }
+    ],
+    "accounts": [
+        {
+            "number": "2a-00001",
+            "companyName": "SoftCommerce 0002 GmbH",
+            "taxIdNumber": "",
+            "valuta": "0",
+            "discountDays": "0",
+            "discountPercent": "0.00",
+            "timeForPaymentAllowedDays": "0",
+            "salesRepresentativeContactId": null,
+            "deliveryTime": "0",
+            "dealerMinOrderValue": "0.00"
+        }
+    ]
+}
+
+###
+PUT https://www.sscsupply.at/rest/accounts/contacts/1517
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYWIzYjhhNTA1NjU4YzExNmUzZTYyYWEwMWNhOTZhOTI0YTQ5MzYxZWMyMTA0ZmY4OTE2ODE3NzVkOGE5NWEzNTNiMWUwODg2N2UwYzdiYWEiLCJpYXQiOjE2NzcwODM5ODkuMDk5MSwibmJmIjoxNjc3MDgzOTg5LjA5OTEsImV4cCI6MTY3NzE3MDM4OS4wOTU3LCJzdWIiOiI1NCIsInNjb3BlcyI6WyIqIl19.OfHx-l7skY_g7JERh_lH9fhU40Wen0-45CweHyz_Ntd8mhhSoIn6bLIBAYSNVm087J7sPz_mYcCoCcM1FDic-dHzjFrUQMzvprpsm9AuEaZznlVmVR4C-9OE-mgY71UHrzbBr5YTwnSIdzCZD54GuEvR1zIAMHP6A0j2B9EG3yYpabAokwP8olnbWvt7dbNlcN5oBreo3WP3hkuG3Pq5B2xYt-wocBAKAY1zi1kGMcehvKv_aBq0rrMnkvCUIMF6p7UYszZ93dp9UCt1WiQ72dcS_qo9yPPXjG-CMENe3V222t9f8JErcgANh31iwuDuG86_EmQ6hfsfk9eVDKfyuVqy5WS8e_u878pr3BuPDY8IL0WU7EJXGKU6S3G5ukJbLn0vABu1FFRAirMYIcWu9RgQUCoIwxhraHPe42ff8co5zIL0ErCNsTr7fM8E0KJlgHozKecm6BdNg4BjFaly8PyRrCFpH2xRTjT0TG4deXguqgdfB1VI3bhh0AHGqbIfLayQwTFg9082PBrDW32e7cdf14Fred-HjBr_OVdD7QawfFJJ8I2_gFSeNcDSO1B5jq5rAgpbLwHCdciXxcLkG507_bFC9aUx_2MH-YeBLneyFidvAVdZEv2ZzuvSSWgOUa87bQ97kkCndvzD8ZrPmYGhgLTyp6V5MulV-A84sbs
+
+{
+    "number": "12XA44BC",
+    "externalId": "102030",
+    "typeId": 4,
+    "firstName": "John-0001",
+    "lastName": "Doe-0001",
+    "gender": "male",
+    "title": "doctorate",
+    "formOfAddress": "",
+    "newsletterAllowanceAt": "2014-04-09 23:18:24",
+    "classId": 1,
+    "password": "sdad76dsa6d78dsadsa8asd8as908d",
+    "blocked": "0",
+    "rating": "3",
+    "bookAccount": "",
+    "lang": "de",
+    "referrerId": 1,
+    "plentyId": 31241,
+    "userId": 6,
+    "birthdayAt": "1984-03-19 00:00:00",
+    "lastLoginAt": "2014-04-09 23:18:24",
+    "lastOrderAt": "2014-04-09 23:18:24",
+    "options": [
+        {
+            "typeId": 1,
+            "subTypeId": 4,
+            "value": "030 12312234",
+            "priority": 0
+        },
+        {
+            "typeId": 1,
+            "subTypeId": 3,
+            "value": "030 98898",
+            "priority": 0
+        },
+        {
+            "typeId": 2,
+            "subTypeId": 4,
+            "value": "johndoe-00001@softcommerce.dev",
+            "priority": 0
+        }
+    ],
+    "accounts": [
+        {
+            "companyName": "SoftCommerce 0001 GmbH"
+        },
+        {
+            "companyName": "SoftCommerce 0001 GmbH",
+            "taxIdNumber": "gb023082380"
+        },
+        {
+            "companyName": "Test company"
+        }
+    ]
+}

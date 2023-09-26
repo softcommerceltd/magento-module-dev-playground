@@ -1,0 +1,162 @@
+###
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments/3439
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+###
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments/orders/3855
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+###
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+{
+    "amount": 47.90,
+    "mopId": 6001,
+    "currency": "EUR",
+    "type": "credit",
+    "status": 2,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "96a08258-9af8-128b-a528-82722dc38850"
+        },
+        {
+            "typeId": 3,
+            "value": "Manual transaction [Klarna Invoice]"
+        }
+    ],
+    "order": {
+        "orderId": 84779
+    }
+}
+
+###
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+{
+    "amount": 69,
+    "mopId": 1,
+    "currency": "GBP",
+    "type": "credit",
+    "status": 2,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "26a37b00-50b6-224f-95fb-e3e6b9979-3826"
+        },
+        {
+            "typeId": 3,
+            "value": "Transaction Text: 3826"
+        }
+    ]
+}
+
+###
+PUT https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+{
+    "id": 3438,
+    "amount": 154,
+    "mopId": 1,
+    "currency": "GBP",
+    "type": "credit",
+    "status": 2,
+    "transactionType": 2,
+    "regenerateHash": true,
+    "unaccountable": 0,
+    "updateOrderPaymentStatus": true,
+    "properties": [
+        {
+            "typeId": 1,
+            "value": "26a37b00-50b6-224f-95fb-e3e6b9979-3856"
+        },
+        {
+            "typeId": 3,
+            "value": "Booking text, is PAID 3856"
+        }
+    ],
+    "order": {
+        "orderId": 3856
+    }
+}
+
+###
+DELETE https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payment/3415/order
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+### - Creates payment - order relation
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payment/3449/order/3826
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+### - Creates payment - contact relation
+POST https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/payment/3449/contact/237
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+
+### PAYMENT BATCH CREATE
+GET https://qqx6xqycwfc0.c01-15.plentymarkets.com/rest/batch
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM2NzQ3YTA4YjQxNjljYjA4YTU0NmIwMjM2ZWIyMWU1NGFkMzhkMTUxMGYyYzhlMTIzMDZlMWRhODExZTQ3MGY2NDNkZGU5MTBiNjBjYTgiLCJpYXQiOjE2MTgzMDY2NzUsIm5iZiI6MTYxODMwNjY3NSwiZXhwIjoxNjE4MzkzMDc1LCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.Nnnw4JdBgC-pRci_TV8jtiTROO26Q8MRMEpnUzqum_Nk1UjBasows0Z-9UsHKLGPSR5Qm13FjNsrlerssngulunwMNH6uCl4qcShNxov76Lkh_W0cEPlqoJnOovw-251jz8MW86O-lNKc9v1DHHkxXOGPqeBz5vX7Nj3MYrP0JvS1nr5Uewlj-AGnVjdIcgJ4ilevosFrf-TilmYyPUXZlFXTAl83QZbm1RlzuxUJ8jvx5rEiCytJ0UEHG2kj5V6CRdH8rJo_39tnHrmwYauiOQ5W6NqtkqReQzm3y24tHeYtcawiw7eLz1mUi86iQz4tku3rLpdzUYA4OpzpDMY-iobz1qAVzXAGcKJx0HQuF7t2yAi3rCr59W0xjrf8JhaBqTc3C4NY3PrbEqKVKSJqHirH_PBcjz45_8E8Ycw1YCIytglglGvq-Ez5M4MPL8xnB7UvgGoURS3miHLVKgeNojZqMWTbe3MbwVpADe8UEwIRqaxP8zwlTxvzXxd-wQrZk8cKvp7HWoabOAH4QPdkmuEv9ydOxoYbxcT5i3BvpVVu6Tl94PeF2t2G3Nbr8ohouTF6W3qjmrQZlhiTSEkQ38Q2k5l4Zr0wTWFQ5ySJ940y20fhdPnOaY2XrVrsKSoiyJwKGAeEvJiAIunvgJyslPnIUZ_qw8xAnA_Rp3mB9A
+
+{
+    "payloads": [
+        {
+            "resource": "rest/payments",
+            "method": "POST",
+            "body": {
+                "amount": 90,
+                "exchangeRatio": 0,
+                "mopId": 5000,
+                "currency": "GBP",
+                "type": "credit",
+                "status": 2,
+                "transactionType": 2,
+                "regenerateHash": true,
+                "properties": [
+                    {
+                        "typeId": 1,
+                        "value": "161243211932"
+                    }
+                ]
+            }
+        },
+        {
+            "resource": "rest/payments",
+            "method": "PUT",
+            "body": {
+                "position": 20,
+                "cast": "string",
+                "names": [
+                    {
+                        "lang": "en",
+                        "name": "test STRING 0001"
+                    }
+                ]
+            }
+        }
+    ]
+}

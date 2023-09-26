@@ -1,0 +1,111 @@
+GET https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/orders
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzg2N2VhZTVkY2IxNmMyOGQ2ODBiMGZhMTU3YTQ1ZDA5M2Q0NjQyZGJhNTA4OWE3MGY0MThjNjFkYzVjYTg1ZGEyYjRjYTU5ZGY5YWRkY2UiLCJpYXQiOjE2MjQyODI3MDgsIm5iZiI6MTYyNDI4MjcwOCwiZXhwIjoxNjI0MzY5MTA4LCJzdWIiOiIyNyIsInNjb3BlcyI6WyIqIl19.VpqzjZMGwdLk7MdofAGN7D-ClrjwhoQT02KAcFdHOW3kdwlBkJHKy8rzSBMoSSI5UPzPcof2hTQxkHAtbVOnb4RVxWMwUld0KGGZ4lm41PujhBntHTHBtiq3oJC9i4PTkKFK-qlQhfBJ53ZwyoyJ5OJ19HajdUKldv5IqmzdVUVMwIeapkjLwAKSONug3FdFfU54WukyokEJ08aNOBygRT905fYmsg95I4uAa2BD6CUl_u1XWvUah0khV50SjjGYhJBLe38cm04nVRod4_vCnZwpAgnVnteHv9e0lg63RleWtuet1efUnJsEjas-xroexqKaoYPuZyWF3jI2LddUK5OayBICSSbmb1nHSWzrw7TDzgQRnalv-vt7CLoPHXt4UXqS5x3bAlKdtXRwI2jnJA-U7QiBPRHqY8qNb2XD4YN6WFtSH3_5wkoyhFsDDSU4pSmxJYwf61Mi9eohxSHwPOCC2clqLtDLYgjVXk0qAnyJuZb_Y1f_1CFqvpZ6pzboT4RYnhce_JMr5dbEsET2h3bvO25pbXuHO-HXF_c923Askg1lDCfobyWk0Jk-Q2_6FCqwP4iYjYp-SU6bQCfgpNDvkieQMBAa_WT02aaANYue53hn54XdNCnPnwvm2g05D4U6oSxR_ikepsbT4p4xts7vyu2rsYrGzaMsLGaIP3U
+
+###
+GET https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/orders/40994?with[]=documents&with[]=payments
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzg2N2VhZTVkY2IxNmMyOGQ2ODBiMGZhMTU3YTQ1ZDA5M2Q0NjQyZGJhNTA4OWE3MGY0MThjNjFkYzVjYTg1ZGEyYjRjYTU5ZGY5YWRkY2UiLCJpYXQiOjE2MjQyODI3MDgsIm5iZiI6MTYyNDI4MjcwOCwiZXhwIjoxNjI0MzY5MTA4LCJzdWIiOiIyNyIsInNjb3BlcyI6WyIqIl19.VpqzjZMGwdLk7MdofAGN7D-ClrjwhoQT02KAcFdHOW3kdwlBkJHKy8rzSBMoSSI5UPzPcof2hTQxkHAtbVOnb4RVxWMwUld0KGGZ4lm41PujhBntHTHBtiq3oJC9i4PTkKFK-qlQhfBJ53ZwyoyJ5OJ19HajdUKldv5IqmzdVUVMwIeapkjLwAKSONug3FdFfU54WukyokEJ08aNOBygRT905fYmsg95I4uAa2BD6CUl_u1XWvUah0khV50SjjGYhJBLe38cm04nVRod4_vCnZwpAgnVnteHv9e0lg63RleWtuet1efUnJsEjas-xroexqKaoYPuZyWF3jI2LddUK5OayBICSSbmb1nHSWzrw7TDzgQRnalv-vt7CLoPHXt4UXqS5x3bAlKdtXRwI2jnJA-U7QiBPRHqY8qNb2XD4YN6WFtSH3_5wkoyhFsDDSU4pSmxJYwf61Mi9eohxSHwPOCC2clqLtDLYgjVXk0qAnyJuZb_Y1f_1CFqvpZ6pzboT4RYnhce_JMr5dbEsET2h3bvO25pbXuHO-HXF_c923Askg1lDCfobyWk0Jk-Q2_6FCqwP4iYjYp-SU6bQCfgpNDvkieQMBAa_WT02aaANYue53hn54XdNCnPnwvm2g05D4U6oSxR_ikepsbT4p4xts7vyu2rsYrGzaMsLGaIP3U
+
+###
+GET https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/documents/10
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzg2N2VhZTVkY2IxNmMyOGQ2ODBiMGZhMTU3YTQ1ZDA5M2Q0NjQyZGJhNTA4OWE3MGY0MThjNjFkYzVjYTg1ZGEyYjRjYTU5ZGY5YWRkY2UiLCJpYXQiOjE2MjQyODI3MDgsIm5iZiI6MTYyNDI4MjcwOCwiZXhwIjoxNjI0MzY5MTA4LCJzdWIiOiIyNyIsInNjb3BlcyI6WyIqIl19.VpqzjZMGwdLk7MdofAGN7D-ClrjwhoQT02KAcFdHOW3kdwlBkJHKy8rzSBMoSSI5UPzPcof2hTQxkHAtbVOnb4RVxWMwUld0KGGZ4lm41PujhBntHTHBtiq3oJC9i4PTkKFK-qlQhfBJ53ZwyoyJ5OJ19HajdUKldv5IqmzdVUVMwIeapkjLwAKSONug3FdFfU54WukyokEJ08aNOBygRT905fYmsg95I4uAa2BD6CUl_u1XWvUah0khV50SjjGYhJBLe38cm04nVRod4_vCnZwpAgnVnteHv9e0lg63RleWtuet1efUnJsEjas-xroexqKaoYPuZyWF3jI2LddUK5OayBICSSbmb1nHSWzrw7TDzgQRnalv-vt7CLoPHXt4UXqS5x3bAlKdtXRwI2jnJA-U7QiBPRHqY8qNb2XD4YN6WFtSH3_5wkoyhFsDDSU4pSmxJYwf61Mi9eohxSHwPOCC2clqLtDLYgjVXk0qAnyJuZb_Y1f_1CFqvpZ6pzboT4RYnhce_JMr5dbEsET2h3bvO25pbXuHO-HXF_c923Askg1lDCfobyWk0Jk-Q2_6FCqwP4iYjYp-SU6bQCfgpNDvkieQMBAa_WT02aaANYue53hn54XdNCnPnwvm2g05D4U6oSxR_ikepsbT4p4xts7vyu2rsYrGzaMsLGaIP3U
+
+###
+GET https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/payments/25024
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzg2N2VhZTVkY2IxNmMyOGQ2ODBiMGZhMTU3YTQ1ZDA5M2Q0NjQyZGJhNTA4OWE3MGY0MThjNjFkYzVjYTg1ZGEyYjRjYTU5ZGY5YWRkY2UiLCJpYXQiOjE2MjQyODI3MDgsIm5iZiI6MTYyNDI4MjcwOCwiZXhwIjoxNjI0MzY5MTA4LCJzdWIiOiIyNyIsInNjb3BlcyI6WyIqIl19.VpqzjZMGwdLk7MdofAGN7D-ClrjwhoQT02KAcFdHOW3kdwlBkJHKy8rzSBMoSSI5UPzPcof2hTQxkHAtbVOnb4RVxWMwUld0KGGZ4lm41PujhBntHTHBtiq3oJC9i4PTkKFK-qlQhfBJ53ZwyoyJ5OJ19HajdUKldv5IqmzdVUVMwIeapkjLwAKSONug3FdFfU54WukyokEJ08aNOBygRT905fYmsg95I4uAa2BD6CUl_u1XWvUah0khV50SjjGYhJBLe38cm04nVRod4_vCnZwpAgnVnteHv9e0lg63RleWtuet1efUnJsEjas-xroexqKaoYPuZyWF3jI2LddUK5OayBICSSbmb1nHSWzrw7TDzgQRnalv-vt7CLoPHXt4UXqS5x3bAlKdtXRwI2jnJA-U7QiBPRHqY8qNb2XD4YN6WFtSH3_5wkoyhFsDDSU4pSmxJYwf61Mi9eohxSHwPOCC2clqLtDLYgjVXk0qAnyJuZb_Y1f_1CFqvpZ6pzboT4RYnhce_JMr5dbEsET2h3bvO25pbXuHO-HXF_c923Askg1lDCfobyWk0Jk-Q2_6FCqwP4iYjYp-SU6bQCfgpNDvkieQMBAa_WT02aaANYue53hn54XdNCnPnwvm2g05D4U6oSxR_ikepsbT4p4xts7vyu2rsYrGzaMsLGaIP3U
+
+###
+POST https://gxjk6axu19ad.c01-14.plentymarkets.com/rest/orders
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzg2N2VhZTVkY2IxNmMyOGQ2ODBiMGZhMTU3YTQ1ZDA5M2Q0NjQyZGJhNTA4OWE3MGY0MThjNjFkYzVjYTg1ZGEyYjRjYTU5ZGY5YWRkY2UiLCJpYXQiOjE2MjQyODI3MDgsIm5iZiI6MTYyNDI4MjcwOCwiZXhwIjoxNjI0MzY5MTA4LCJzdWIiOiIyNyIsInNjb3BlcyI6WyIqIl19.VpqzjZMGwdLk7MdofAGN7D-ClrjwhoQT02KAcFdHOW3kdwlBkJHKy8rzSBMoSSI5UPzPcof2hTQxkHAtbVOnb4RVxWMwUld0KGGZ4lm41PujhBntHTHBtiq3oJC9i4PTkKFK-qlQhfBJ53ZwyoyJ5OJ19HajdUKldv5IqmzdVUVMwIeapkjLwAKSONug3FdFfU54WukyokEJ08aNOBygRT905fYmsg95I4uAa2BD6CUl_u1XWvUah0khV50SjjGYhJBLe38cm04nVRod4_vCnZwpAgnVnteHv9e0lg63RleWtuet1efUnJsEjas-xroexqKaoYPuZyWF3jI2LddUK5OayBICSSbmb1nHSWzrw7TDzgQRnalv-vt7CLoPHXt4UXqS5x3bAlKdtXRwI2jnJA-U7QiBPRHqY8qNb2XD4YN6WFtSH3_5wkoyhFsDDSU4pSmxJYwf61Mi9eohxSHwPOCC2clqLtDLYgjVXk0qAnyJuZb_Y1f_1CFqvpZ6pzboT4RYnhce_JMr5dbEsET2h3bvO25pbXuHO-HXF_c923Askg1lDCfobyWk0Jk-Q2_6FCqwP4iYjYp-SU6bQCfgpNDvkieQMBAa_WT02aaANYue53hn54XdNCnPnwvm2g05D4U6oSxR_ikepsbT4p4xts7vyu2rsYrGzaMsLGaIP3U
+
+{
+    "referrerId": 10,
+    "roundTotalsOnly": true,
+    "numberOfDecimals": 4,
+    "statusName": "[5] Cleared for shipping",
+    "plentyId": 51114,
+    "typeId": 1,
+    "lockStatus": "unlocked",
+    "locationId": "2",
+    "statusId": 5,
+    "ownerId": 9,
+    "orderItems": [
+        {
+            "typeId": 1,
+            "referrerId": 9,
+            "itemVariationId": 34484,
+            "quantity": 1,
+            "orderItemName": "24-WG01",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": 1,
+            "orderProperties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 82,
+                    "priceOriginalNet": 82,
+                    "priceGross": 82,
+                    "priceNet": 82,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": []
+        },
+        {
+            "typeId": 6,
+            "referrerId": 9,
+            "itemVariationId": 0,
+            "quantity": 1,
+            "orderItemName": "Flat Rate - Fixed",
+            "attributeValues": null,
+            "shippingProfileId": 0,
+            "countryVatId": 4,
+            "vatField": 2,
+            "vatRate": 0,
+            "position": "0",
+            "warehouseId": null,
+            "orderProperties": [],
+            "properties": [],
+            "dates": [],
+            "amounts": [
+                {
+                    "isSystemCurrency": true,
+                    "currency": "GBP",
+                    "exchangeRate": 1,
+                    "purchasePrice": 0,
+                    "priceOriginalGross": 10,
+                    "priceOriginalNet": 10,
+                    "priceGross": 10,
+                    "priceNet": 10,
+                    "surcharge": 0,
+                    "discount": 0,
+                    "isPercentage": false
+                }
+            ],
+            "references": []
+        }
+    ]
+}
+
+
+

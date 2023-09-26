@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "nonErasable": 1,
+    "position": 1,
+    "names": [
+      {
+        "id": 1,
+        "typeId": 1,
+        "lang": "de",
+        "name": "Telefon"
+      },
+      {
+        "id": 2,
+        "typeId": 1,
+        "lang": "en",
+        "name": "Telephone"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nonErasable": 1,
+    "position": 2,
+    "names": [
+      {
+        "id": 3,
+        "typeId": 2,
+        "lang": "de",
+        "name": "E-Mail"
+      },
+      {
+        "id": 4,
+        "typeId": 2,
+        "lang": "en",
+        "name": "Email"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nonErasable": 1,
+    "position": 3,
+    "names": [
+      {
+        "id": 5,
+        "typeId": 3,
+        "lang": "de",
+        "name": "Telefax"
+      },
+      {
+        "id": 6,
+        "typeId": 3,
+        "lang": "en",
+        "name": "Telefax"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nonErasable": 1,
+    "position": 4,
+    "names": [
+      {
+        "id": 7,
+        "typeId": 4,
+        "lang": "de",
+        "name": "Webseite"
+      },
+      {
+        "id": 8,
+        "typeId": 4,
+        "lang": "en",
+        "name": "Web page"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nonErasable": 1,
+    "position": 5,
+    "names": [
+      {
+        "id": 9,
+        "typeId": 5,
+        "lang": "de",
+        "name": "Marktplatz"
+      },
+      {
+        "id": 10,
+        "typeId": 5,
+        "lang": "en",
+        "name": "Marketplace"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nonErasable": 1,
+    "position": 6,
+    "names": [
+      {
+        "id": 11,
+        "typeId": 6,
+        "lang": "de",
+        "name": "Identifikationsnummer"
+      },
+      {
+        "id": 12,
+        "typeId": 6,
+        "lang": "en",
+        "name": "Identification number"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nonErasable": 1,
+    "position": 7,
+    "names": [
+      {
+        "id": 13,
+        "typeId": 7,
+        "lang": "de",
+        "name": "Payment"
+      },
+      {
+        "id": 14,
+        "typeId": 7,
+        "lang": "en",
+        "name": "Payment"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nonErasable": 1,
+    "position": 8,
+    "names": [
+      {
+        "id": 15,
+        "typeId": 8,
+        "lang": "de",
+        "name": "Benutzername"
+      },
+      {
+        "id": 16,
+        "typeId": 8,
+        "lang": "en",
+        "name": "User name"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nonErasable": 1,
+    "position": 9,
+    "names": [
+      {
+        "id": 17,
+        "typeId": 9,
+        "lang": "de",
+        "name": "Gruppe"
+      },
+      {
+        "id": 18,
+        "typeId": 9,
+        "lang": "en",
+        "name": "Group"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nonErasable": 1,
+    "position": 10,
+    "names": [
+      {
+        "id": 19,
+        "typeId": 10,
+        "lang": "de",
+        "name": "Zugang"
+      },
+      {
+        "id": 20,
+        "typeId": 10,
+        "lang": "en",
+        "name": "Access"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nonErasable": 1,
+    "position": 11,
+    "names": [
+      {
+        "id": 21,
+        "typeId": 11,
+        "lang": "de",
+        "name": "Zusatz"
+      },
+      {
+        "id": 22,
+        "typeId": 11,
+        "lang": "en",
+        "name": "Additional"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nonErasable": 1,
+    "position": 12,
+    "names": [
+      {
+        "id": 23,
+        "typeId": 12,
+        "lang": "de",
+        "name": "Briefanrede"
+      },
+      {
+        "id": 24,
+        "typeId": 12,
+        "lang": "en",
+        "name": "Salutation"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nonErasable": 1,
+    "position": 13,
+    "names": [
+      {
+        "id": 25,
+        "typeId": 13,
+        "lang": "de",
+        "name": "Umwandlung durch"
+      },
+      {
+        "id": 26,
+        "typeId": 13,
+        "lang": "en",
+        "name": "Converted by"
+      }
+    ]
+  }
+]

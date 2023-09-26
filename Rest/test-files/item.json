@@ -1,0 +1,408 @@
+{
+  "page": 1,
+  "totalsCount": 1,
+  "isLastPage": true,
+  "lastPageNumber": 1,
+  "firstOnPage": 1,
+  "lastOnPage": 1,
+  "itemsPerPage": "1",
+  "entries": [
+    {
+      "id": 8369,
+      "position": 1,
+      "manufacturerId": 4,
+      "stockType": 0,
+      "add_cms_page": "0",
+      "storeSpecial": 2,
+      "condition": 0,
+      "amazonFedas": "",
+      "updatedAt": "2022-03-06T10:28:55+00:00",
+      "free1": "",
+      "free2": null,
+      "free3": null,
+      "free4": null,
+      "free5": null,
+      "free6": null,
+      "free7": "0",
+      "free8": "0",
+      "free9": "0",
+      "free10": "0",
+      "free11": "0",
+      "free12": "0",
+      "free13": "0",
+      "free14": "0",
+      "free15": "0",
+      "free16": "0",
+      "free17": "0",
+      "free18": "0",
+      "free19": "0",
+      "free20": null,
+      "customsTariffNumber": "",
+      "producingCountryId": 1,
+      "revenueAccount": 0,
+      "couponRestriction": 0,
+      "flagOne": 0,
+      "flagTwo": 11,
+      "ageRestriction": 0,
+      "createdAt": "2020-11-21T00:00:00+00:00",
+      "amazonProductType": 0,
+      "ebayPresetId": 0,
+      "ebayCategory": 0,
+      "ebayCategory2": 0,
+      "ebayStoreCategory": 0,
+      "ebayStoreCategory2": 0,
+      "amazonFbaPlatform": 0,
+      "feedback": 0,
+      "gimahhot": "0",
+      "maximumOrderQuantity": 0,
+      "isSubscribable": false,
+      "rakutenCategoryId": 0,
+      "isShippingPackage": false,
+      "conditionApi": 0,
+      "isSerialNumber": false,
+      "isShippableByAmazon": false,
+      "ownerId": null,
+      "itemType": "default",
+      "mainVariationId": 34494,
+      "itemProperties": [],
+      "itemCrossSelling": [
+        {
+          "itemId": 8369,
+          "crossItemId": 8078,
+          "relationship": "Similar",
+          "isDynamic": false,
+          "last_update_timestamp": "2022-03-06 10:28:48",
+          "created_timestamp": "0000-00-00 00:00:00"
+        },
+        {
+          "itemId": 8369,
+          "crossItemId": 8364,
+          "relationship": "Similar",
+          "isDynamic": false,
+          "last_update_timestamp": "2021-01-07 16:07:24",
+          "created_timestamp": "0000-00-00 00:00:00"
+        }
+      ],
+      "variations": [
+        {
+          "id": 34494,
+          "isMain": true,
+          "mainVariationId": null,
+          "itemId": 8369,
+          "categoryVariationId": 34494,
+          "marketVariationId": 34494,
+          "clientVariationId": 34494,
+          "salesPriceVariationId": 34494,
+          "supplierVariationId": 34494,
+          "warehouseVariationId": 34494,
+          "position": 0,
+          "isActive": true,
+          "number": "24-MG03",
+          "model": "24-MG03",
+          "externalId": "3872",
+          "parentVariationId": null,
+          "parentVariationQuantity": null,
+          "availability": 1,
+          "estimatedAvailableAt": null,
+          "purchasePrice": null,
+          "createdAt": "2020-11-21T12:35:40+00:00",
+          "updatedAt": "2022-03-05T10:00:42+00:00",
+          "relatedUpdatedAt": "2022-03-05T10:58:26+00:00",
+          "priceCalculationId": null,
+          "priceCalculationUUID": null,
+          "picking": "single_picking",
+          "stockLimitation": 0,
+          "isVisibleIfNetStockIsPositive": true,
+          "isInvisibleIfNetStockIsNotPositive": false,
+          "isAvailableIfNetStockIsPositive": true,
+          "isUnavailableIfNetStockIsNotPositive": true,
+          "mainWarehouseId": 1,
+          "maximumOrderQuantity": null,
+          "minimumOrderQuantity": 1,
+          "intervalOrderQuantity": 0,
+          "availableUntil": null,
+          "releasedAt": "2021-07-05T00:00:00+01:00",
+          "unitCombinationId": 1,
+          "name": "Summit Watch",
+          "weightG": 300,
+          "weightNetG": 275,
+          "widthMM": 30,
+          "lengthMM": 150,
+          "heightMM": 80,
+          "extraShippingCharge1": null,
+          "extraShippingCharge2": null,
+          "unitsContained": 1,
+          "palletTypeId": 2,
+          "packingUnits": 3,
+          "packingUnitTypeId": 6,
+          "transportationCosts": 0,
+          "storageCosts": 2,
+          "customs": 9999.99,
+          "operatingCosts": 30,
+          "vatId": 0,
+          "bundleType": "bundle_item",
+          "automaticClientVisibility": 0,
+          "isHiddenInCategoryList": false,
+          "defaultShippingCosts": 5,
+          "mayShowUnitPrice": true,
+          "movingAveragePrice": 0,
+          "propertyVariationId": "34494",
+          "automaticListVisibility": 3,
+          "isVisibleInListIfNetStockIsPositive": false,
+          "isInvisibleInListIfNetStockIsNotPositive": false,
+          "singleItemCount": null,
+          "availabilityUpdatedAt": "2021-01-07T16:09:37+00:00",
+          "tagVariationId": "34494",
+          "hasCalculatedBundleWeight": null,
+          "hasCalculatedBundleNetWeight": null,
+          "hasCalculatedBundlePurchasePrice": null,
+          "hasCalculatedBundleMovingAveragePrice": null,
+          "customsTariffNumber": "23088772",
+          "salesRank": null
+        }
+      ],
+      "itemImages": [
+        {
+          "id": 7970,
+          "itemId": 8369,
+          "type": "internal",
+          "fileType": "jpeg",
+          "path": "S3:8369:mg03-br-0.jpg",
+          "position": 1,
+          "lastUpdate": "2022-02-21 12:14:12",
+          "insert": "2021-02-28 20:30:23",
+          "md5Checksum": "",
+          "width": 0,
+          "height": 0,
+          "size": 0,
+          "storageProviderId": "2",
+          "md5ChecksumOriginal": "be34a98c1f97ff5bfcb941d57a3eac23",
+          "cleanImageName": "mg03-br-0.jpg",
+          "url": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/full\/mg03-br-0.jpg",
+          "urlMiddle": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/middle\/mg03-br-0.jpg",
+          "urlPreview": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/preview\/mg03-br-0.jpg",
+          "urlSecondPreview": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/secondPreview\/mg03-br-0.jpg",
+          "documentUploadPath": "a89fdnwr1quh\/item\/images\/8369\/full\/mg03-br-0.jpg",
+          "documentUploadPathPreview": "a89fdnwr1quh\/item\/images\/8369\/preview\/mg03-br-0.jpg",
+          "documentUploadPreviewWidth": 150,
+          "documentUploadPreviewHeight": 150,
+          "hasVariationLink": true,
+          "availabilities": [
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 31241
+            },
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 51213
+            },
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 51214
+            },
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 51215
+            },
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 51216
+            },
+            {
+              "imageId": 7970,
+              "type": "mandant",
+              "value": 51217
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 4.01
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 4.02
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 7
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 9
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 10
+            },
+            {
+              "imageId": 7970,
+              "type": "marketplace",
+              "value": 12
+            },
+            {
+              "imageId": 7970,
+              "type": "listing",
+              "value": 2.03
+            },
+            {
+              "imageId": 7970,
+              "type": "listing",
+              "value": 2.08
+            }
+          ],
+          "names": [
+            {
+              "imageId": 7970,
+              "lang": "en",
+              "name": "Summit Watch EN 2",
+              "alternate": "This is not imported!!!"
+            }
+          ]
+        },
+        {
+          "id": 8041,
+          "itemId": 8369,
+          "type": "internal",
+          "fileType": "jpeg",
+          "path": "S3:8369:lt02.jpg",
+          "position": 2,
+          "lastUpdate": "2022-02-21 12:14:13",
+          "insert": "2022-02-21 12:13:37",
+          "md5Checksum": "",
+          "width": 0,
+          "height": 0,
+          "size": 0,
+          "storageProviderId": "2",
+          "md5ChecksumOriginal": "7dadf8e9464bd4978a8c3badf660c63a",
+          "cleanImageName": "lt02.jpg",
+          "url": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/full\/lt02.jpg",
+          "urlMiddle": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/middle\/lt02.jpg",
+          "urlPreview": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/preview\/lt02.jpg",
+          "urlSecondPreview": "https:\/\/cdn03.plentymarkets.com\/a89fdnwr1quh\/item\/images\/8369\/secondPreview\/lt02.jpg",
+          "documentUploadPath": "a89fdnwr1quh\/item\/images\/8369\/full\/lt02.jpg",
+          "documentUploadPathPreview": "a89fdnwr1quh\/item\/images\/8369\/preview\/lt02.jpg",
+          "documentUploadPreviewWidth": 150,
+          "documentUploadPreviewHeight": 150,
+          "hasVariationLink": false,
+          "availabilities": [
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 31241
+            },
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 51213
+            },
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 51214
+            },
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 51215
+            },
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 51216
+            },
+            {
+              "imageId": 8041,
+              "type": "mandant",
+              "value": 51217
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 4.01
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 4.02
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 7
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 9
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 10
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 12
+            },
+            {
+              "imageId": 8041,
+              "type": "marketplace",
+              "value": 13
+            },
+            {
+              "imageId": 8041,
+              "type": "listing",
+              "value": 2.03
+            },
+            {
+              "imageId": 8041,
+              "type": "listing",
+              "value": 2.08
+            }
+          ],
+          "names": [
+            {
+              "imageId": 8041,
+              "lang": "en",
+              "name": "",
+              "alternate": ""
+            }
+          ]
+        }
+      ],
+      "itemShippingProfiles": [
+        {
+          "itemId": 8369,
+          "profileId": 9,
+          "id": 5727,
+          "updated_at": "2022-03-06 10:28:55"
+        }
+      ],
+      "ebayTitles": [],
+      "texts": [
+        {
+          "lang": "en",
+          "name1": "Summit Watch",
+          "name2": "",
+          "name3": "",
+          "shortDescription": "<p>EN Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.<\/p>",
+          "metaDescription": "<p>Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch&nbsp;Summit Watch<\/p>",
+          "description": "<p>EN Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.<\/p>",
+          "technicalData": "",
+          "urlPath": "magento-category-map\/collections\/summit-watch",
+          "keywords": ""
+        }
+      ]
+    }
+  ]
+}

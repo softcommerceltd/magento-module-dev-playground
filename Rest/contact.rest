@@ -1,0 +1,188 @@
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/237
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### serhiy%40hotmail.co.uk
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts?email=serhiy060221@hotmail.co.uk
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### -- With params: addresses,accounts,options,orderSummary,primaryBillingAddress,contactOrders
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/1543?with=accounts,addresses,options
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### option_types
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/option_types
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/addresses/options
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+###
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/option_types
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### -- Customer Classes with details
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/classes
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### -- Customer Classes with details
+GET https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/classesWithData
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+### -- DELETE CONTACT
+DELETE https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/1413
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+###
+POST https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+{
+    "number": "12XA44BC",
+    "externalId": "102030",
+    "typeId": 4,
+    "firstName": "John-0002",
+    "lastName": "Doe-0002",
+    "gender": "male",
+    "title": "professor",
+    "formOfAddress": "Mr",
+    "classId": 1,
+    "password": "sdad76dsa6d78dsadsa8asd8as908d",
+    "blocked": "0",
+    "rating": "3",
+    "bookAccount": "",
+    "lang": "en",
+    "referrerId": 1,
+    "plentyId": 31241,
+    "userId": 1,
+    "birthdayAt": "1984-03-19 00:00:00",
+    "options": [
+        {
+            "typeId": 1,
+            "subTypeId": 4,
+            "value": "030 12312234",
+            "priority": 0
+        },
+        {
+            "typeId": 1,
+            "subTypeId": 3,
+            "value": "030 98898",
+            "priority": 0
+        },
+        {
+            "typeId": 2,
+            "subTypeId": 4,
+            "value": "johndoe-00002@softcommerce.dev",
+            "priority": 0
+        },
+        {
+            "typeId": 4,
+            "subTypeId": 4,
+            "value": "4",
+            "priority": 0
+        }
+    ],
+    "accounts": [
+        {
+            "number": "2a-00001",
+            "companyName": "SoftCommerce 0002 GmbH",
+            "taxIdNumber": "",
+            "valuta": "0",
+            "discountDays": "0",
+            "discountPercent": "0.00",
+            "timeForPaymentAllowedDays": "0",
+            "salesRepresentativeContactId": null,
+            "deliveryTime": "0",
+            "dealerMinOrderValue": "0.00"
+        }
+    ]
+}
+
+###
+PUT https://skorohoda.plentymarkets-cloud02.com/rest/accounts/contacts/1517
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjVkYzNhNTM5ZjFiMzRhOThhOTEyMDdmNzY5NjVkODI0ZmUxZGMwMDQyMjA4ODFiMDRhOGRlNDEzMzNjM2VlNjJkZmUwYTU0YThkNzgxNGUiLCJpYXQiOjE2NzcwODI1NzYuMjI0MSwibmJmIjoxNjc3MDgyNTc2LjIyNDEsImV4cCI6MTY3NzE2ODk3Ni4xOTE5LCJzdWIiOiI2Iiwic2NvcGVzIjpbIioiXX0.YqA_6uED6do0HZvf-ZJBvGZz_o9QHLecKKlAvEqT-T4n0mz1CL8cNx5xVIEqUYT1tdRC--gKA3gi5gaEn1x9gi3ZtFM1--mkBNVp1D210eZAGILvJugjGBBhmKmfX2i2t-142vu9wZ7hwGaHg8_Qlu1yhO6H7ZSK3sAEgrB4vbV_-eZ-CD9TuhGtC6vepHqo1zaX05AcTt8oaSI59c1lJWMSzH3Jal8C7vSEYSkH_guBd3Jph3lvrJrT8d5TEh0_E0fFUcJfpkPq6aK85ytrLKhnaP_0cOd4JBN7taidrh0UMwK9h0i31-caVqemLCRW570XHIZ9xOpI6sdIG0JQQ5LaBL1FbWMi9OftIj8z5aZPC6_SGhxg1YY2qqN7OaiLmsDXzIIhUC8aho0JWn34APr8olCs4myUM75SAumxLpaUwHFSMvFss0tFlgMBqmENElRq8kXPRKb5cNvX4BXLrzIZtuUunUhTCfDevdmH3TkDWwT4HygVJjTwhYOLk70KF-YRyB033GMS93MC1oFv63uyOVlTUIXghy2wRpR7IjnofmI_raUVunWRq3eD_Dw57fNagxbGe_YIHLvkgVlZSo1tegJPE1KK6o9dFi9zddDriyU3L6EFNYR3TioWnuJxlLIFE4ZrflnkGJqjcAp2zvNiEE-Qpe41FSHr9pYo244
+
+{
+    "number": "12XA44BC",
+    "externalId": "102030",
+    "typeId": 4,
+    "firstName": "John-0001",
+    "lastName": "Doe-0001",
+    "gender": "male",
+    "title": "doctorate",
+    "formOfAddress": "",
+    "newsletterAllowanceAt": "2014-04-09 23:18:24",
+    "classId": 1,
+    "password": "sdad76dsa6d78dsadsa8asd8as908d",
+    "blocked": "0",
+    "rating": "3",
+    "bookAccount": "",
+    "lang": "de",
+    "referrerId": 1,
+    "plentyId": 31241,
+    "userId": 6,
+    "birthdayAt": "1984-03-19 00:00:00",
+    "lastLoginAt": "2014-04-09 23:18:24",
+    "lastOrderAt": "2014-04-09 23:18:24",
+    "options": [
+        {
+            "typeId": 1,
+            "subTypeId": 4,
+            "value": "030 12312234",
+            "priority": 0
+        },
+        {
+            "typeId": 1,
+            "subTypeId": 3,
+            "value": "030 98898",
+            "priority": 0
+        },
+        {
+            "typeId": 2,
+            "subTypeId": 4,
+            "value": "johndoe-00001@softcommerce.dev",
+            "priority": 0
+        }
+    ],
+    "accounts": [
+        {
+            "companyName": "SoftCommerce 0001 GmbH"
+        },
+        {
+            "companyName": "SoftCommerce 0001 GmbH",
+            "taxIdNumber": "gb023082380"
+        },
+        {
+            "companyName": "Test company"
+        }
+    ]
+}
