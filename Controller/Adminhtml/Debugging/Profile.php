@@ -115,7 +115,7 @@ class Profile extends Action
 
     private function websiteStorage()
     {
-        $model = $this->_objectManager->get(\SoftCommerce\Core\Model\Utils\WebsiteStorageInterface::class);
+        $model = $this->_objectManager->get(\SoftCommerce\Core\Model\Store\WebsiteStorageInterface::class);
         var_dump('data', $model->getAdminStore());
     }
 

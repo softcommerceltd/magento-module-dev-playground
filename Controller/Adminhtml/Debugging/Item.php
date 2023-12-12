@@ -13,7 +13,7 @@ namespace Magency\DevPlayground\Controller\Adminhtml\Debugging;
 use Magento\Backend\App\Action;
 use Magento\Framework\Api\SearchCriteriaBuilder;
 use Magento\Framework\ObjectManagerInterface;
-use SoftCommerce\Core\Model\Utils\SkuStorageInterfaceFactory;
+use SoftCommerce\Core\Model\Catalog\SkuStorageInterfaceFactory;
 use SoftCommerce\PlentyItemProfile\Model\Config\ApiConfigInterfaceFactory;
 use SoftCommerce\PlentyItemProfile\Model\ItemExportServiceInterfaceFactory;
 use SoftCommerce\PlentyItemProfile\Model\ItemImportServiceInterface;
