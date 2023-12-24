@@ -51,6 +51,10 @@ class Index extends Action
         // DB Setup scripts
         // $this->dbSetup();
 
+        // $this->generateProductUrlKeyByAttribute();
+        // $this->productUrlRewrite();
+        $this->assignProductToCategoryByAttributeSet();
+
         $time_end = microtime(true);
         $time = $time_end - $time_start;
 
@@ -290,5 +294,29 @@ class Index extends Action
     {
         $service = $this->_objectManager->get(\SoftCommerce\PlentyOrderProfile\Setup\Patch\Data\ChangeOrderReferrerConfigPath::class);
         $service->apply();
+    }
+
+    private function assignAttributeSetByCategory()
+    {
+        $module = $this->_objectManager->get(\SoftCommerce\Utils\Console\Command\AssignAttributeSetByCategory::class);
+        $module->testDebugging();
+    }
+
+    private function generateProductUrlKeyByAttribute()
+    {
+        $module = $this->_objectManager->get(\SoftCommerce\UrlRewriteGenerator\Console\Command\GenerateProductUrlKeyByAttribute::class);
+        $module->testDebugging('name', [41]);
+    }
+
+    private function productUrlRewrite()
+    {
+        $module = $this->_objectManager->get(\SoftCommerce\UrlRewriteGenerator\Model\ProductUrlRewrite::class);
+        $module->execute([41]);
+    }
+
+    private function assignProductToCategoryByAttributeSet()
+    {
+        $module = $this->_objectManager->get(\SoftCommerce\Utils\Console\Command\AssignProductToCategoryByAttributeSet::class);
+        $module->testDebugging(13, [50]);
     }
 }
