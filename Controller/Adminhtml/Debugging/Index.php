@@ -49,11 +49,7 @@ class Index extends Action
         // $this->viewLogJsonDecoded();
 
         // DB Setup scripts
-        $this->dbSetup();
-
-        // $this->generateProductUrlKeyByAttribute();
-        // $this->productUrlRewrite();
-        // $this->assignProductToCategoryByAttributeSet();
+        // $this->dbSetup();
 
         // $this->generateProductUrlKeyByAttribute();
         // $this->productUrlRewrite();
@@ -296,32 +292,8 @@ class Index extends Action
 
     private function dbSetup()
     {
-        $service = $this->_objectManager->get(\GraphCommerce\SampleData\Setup\Installer::class);
-        $service->install();
-    }
-
-    private function assignAttributeSetByCategory()
-    {
-        $module = $this->_objectManager->get(\SoftCommerce\Utils\Console\Command\AssignAttributeSetByCategory::class);
-        $module->testDebugging();
-    }
-
-    private function generateProductUrlKeyByAttribute()
-    {
-        $module = $this->_objectManager->get(\SoftCommerce\UrlRewriteGenerator\Console\Command\GenerateProductUrlKeyByAttribute::class);
-        $module->testDebugging('name', [41]);
-    }
-
-    private function productUrlRewrite()
-    {
-        $module = $this->_objectManager->get(\SoftCommerce\UrlRewriteGenerator\Model\ProductUrlRewrite::class);
-        $module->execute([41]);
-    }
-
-    private function assignProductToCategoryByAttributeSet()
-    {
-        $module = $this->_objectManager->get(\SoftCommerce\Utils\Console\Command\AssignProductToCategoryByAttributeSet::class);
-        $module->testDebugging(13, [50]);
+        $service = $this->_objectManager->get(\SoftCommerce\PlentyOrderProfile\Setup\Patch\Data\ChangeOrderReferrerConfigPath::class);
+        $service->apply();
     }
 
     private function assignAttributeSetByCategory()
